@@ -1,0 +1,19 @@
+# Banco de dados e logs
+padaria.db
+padaria.db-journal
+padaria.log
+.secret_key
+__pycache__/
+*.pyc
+*.pyo
+
+# Python virtual env
+venv/
+.venv/
+env/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store

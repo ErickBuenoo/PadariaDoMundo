@@ -1,0 +1,319 @@
+{
+  "pais": "Turquia",
+  "recipes": [
+    {
+      "id": "turquia-menemen--ovos-com-tomate-0",
+      "nome": "Menemen (Ovos com Tomate)",
+      "pais": "Turquia",
+      "flag": "🇹🇷",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Menemen (Ovos com Tomate), um clássico de Turquia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Turquia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Menemen (Ovos com Tomate) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Menemen (Ovos com Tomate), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Menemen (Ovos com Tomate) quente como manda a tradição."
+      ],
+      "dica": "Em Turquia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "turquia-sopa-de-lentilhas-vermelhas--mercimek-corbas-1",
+      "nome": "Sopa de Lentilhas Vermelhas (Mercimek Çorbası)",
+      "pais": "Turquia",
+      "flag": "🇹🇷",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sopa de Lentilhas Vermelhas (Mercimek Çorbası), um clássico de Turquia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Turquia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sopa de Lentilhas Vermelhas (Mercimek Çorbası) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sopa de Lentilhas Vermelhas (Mercimek Çorbası), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sopa de Lentilhas Vermelhas (Mercimek Çorbası) quente como manda a tradição."
+      ],
+      "dica": "Em Turquia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "turquia-baklava-com-pistache-2",
+      "nome": "Baklava com Pistache",
+      "pais": "Turquia",
+      "flag": "🇹🇷",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Baklava com Pistache, um clássico de Turquia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Turquia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Baklava com Pistache (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Baklava com Pistache, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Baklava com Pistache quente como manda a tradição."
+      ],
+      "dica": "Em Turquia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "turquia-simit--pao-com-gergelim-3",
+      "nome": "Simit (Pão com Gergelim)",
+      "pais": "Turquia",
+      "flag": "🇹🇷",
+      "categoria": "paes",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Simit (Pão com Gergelim), um clássico de Turquia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Turquia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Simit (Pão com Gergelim) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Simit (Pão com Gergelim), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Simit (Pão com Gergelim) quente como manda a tradição."
+      ],
+      "dica": "Em Turquia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "turquia-pide-turco--pizza-barco-4",
+      "nome": "Pide Turco (Pizza Barco)",
+      "pais": "Turquia",
+      "flag": "🇹🇷",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pide Turco (Pizza Barco), um clássico de Turquia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Turquia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pide Turco (Pizza Barco) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pide Turco (Pizza Barco), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pide Turco (Pizza Barco) quente como manda a tradição."
+      ],
+      "dica": "Em Turquia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "turquia-cafe-turco-com-delicia-turca-5",
+      "nome": "Café Turco com Delícia Turca",
+      "pais": "Turquia",
+      "flag": "🇹🇷",
+      "categoria": "bebidas",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Café Turco com Delícia Turca, um clássico de Turquia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Turquia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Café Turco com Delícia Turca (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Café Turco com Delícia Turca, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Café Turco com Delícia Turca quente como manda a tradição."
+      ],
+      "dica": "Em Turquia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "turquia-iskender-kebab-6",
+      "nome": "Iskender Kebab",
+      "pais": "Turquia",
+      "flag": "🇹🇷",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Iskender Kebab, um clássico de Turquia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Turquia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Iskender Kebab (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Iskender Kebab, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Iskender Kebab quente como manda a tradição."
+      ],
+      "dica": "Em Turquia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "turquia-dolmas-de-folha-de-videira-7",
+      "nome": "Dolmas de Folha de Videira",
+      "pais": "Turquia",
+      "flag": "🇹🇷",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Dolmas de Folha de Videira, um clássico de Turquia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Turquia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Dolmas de Folha de Videira (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Dolmas de Folha de Videira, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Dolmas de Folha de Videira quente como manda a tradição."
+      ],
+      "dica": "Em Turquia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "turquia-kunefe-com-queijo-8",
+      "nome": "Künefe com Queijo",
+      "pais": "Turquia",
+      "flag": "🇹🇷",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Künefe com Queijo, um clássico de Turquia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Turquia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Künefe com Queijo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Künefe com Queijo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Künefe com Queijo quente como manda a tradição."
+      ],
+      "dica": "Em Turquia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Menemen",
+      "categoria": "cafemanha",
+      "tempo": "20 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Ovos mexidos com tomate, pimentão verde e especiarias — café da manhã turco.",
+      "historia": "Receita de Izmir, é comida de fim de semana com pão quente e chá preto.",
+      "ingredientes": [
+        "3 ovos",
+        "3 tomates maduros ralados",
+        "2 pimentões verdes longos em rodelas",
+        "1 cebola pequena (opcional)",
+        "2 colheres azeite",
+        "1 colher pul biber (pimenta vermelha em flocos)",
+        "Sal, pimenta",
+        "Queijo beyaz peynir",
+        "Pão pide para acompanhar"
+      ],
+      "passos": [
+        "Aqueça azeite; refogue pimentão e cebola até amaciar.",
+        "Adicione tomate ralado; cozinhe 7 min reduzindo bem.",
+        "Quebre ovos em tigela, bata levemente; despeje na panela.",
+        "Mexa DEVAGAR como ovos mexidos até ficarem cremosos; não seque!",
+        "Salpique pul biber; sirva com queijo e pão."
+      ],
+      "dica": "Ovos devem ficar CREMOSOS e úmidos — não cozinhe demais.",
+      "isExtra": true,
+      "id": "turquia-menemen-m-0",
+      "pais": "Turquia",
+      "flag": "🇹🇷"
+    },
+    {
+      "nome": "Baklava Turca",
+      "categoria": "doces",
+      "tempo": "2h",
+      "porcoes": "30 pedaços",
+      "dificuldade": "Média",
+      "desc": "Baklava de pistaches de Antep com calda leve — menos canela, mais pistache.",
+      "historia": "Gaziantep é a capital mundial da baklava — usa manteiga de ovelha e pistaches locais. Patrimônio turco!",
+      "ingredientes": [
+        "400g massa filo bem fina",
+        "350g manteiga de ovelha derretida",
+        "350g pistaches de Antep moídos grosseiramente",
+        "Calda: 350g açúcar, 300ml água, 1 colher suco limão, 1 fatia limão"
+      ],
+      "passos": [
+        "Faça calda leve; deixe esfriar.",
+        "Unte forma; coloque 10 folhas filo, cada uma untada.",
+        "Espalhe pistaches; cubra com 2 folhas untadas; repita camadas de pistache.",
+        "Finalize com 10 folhas de filo untadas.",
+        "Corte em losangos ANTES de assar.",
+        "Asse a 170°C por 1h10 até dourar profundo.",
+        "Regue calda fria sobre baklava quente; descanse 4h.",
+        "Decore com pistache moído."
+      ],
+      "dica": "Calda FRIA sobre baklava QUENTE — regra dourada para embeber sem amolecer.",
+      "isExtra": true,
+      "id": "turquia-baklava-turca-m-1",
+      "pais": "Turquia",
+      "flag": "🇹🇷"
+    }
+  ]
+}

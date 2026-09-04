@@ -1,0 +1,257 @@
+{
+  "pais": "Coreia",
+  "recipes": [
+    {
+      "id": "coreia-bulgogi-de-carne-bovina-0",
+      "nome": "Bulgogi de Carne Bovina",
+      "pais": "Coreia",
+      "flag": "🇰🇷",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Bulgogi de Carne Bovina, um clássico de Coreia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Coreia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bulgogi de Carne Bovina (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bulgogi de Carne Bovina, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bulgogi de Carne Bovina quente como manda a tradição."
+      ],
+      "dica": "Em Coreia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "coreia-tteokbokki--bolo-de-arroz-picante-1",
+      "nome": "Tteokbokki (Bolo de Arroz Picante)",
+      "pais": "Coreia",
+      "flag": "🇰🇷",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Tteokbokki (Bolo de Arroz Picante), um clássico de Coreia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Coreia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tteokbokki (Bolo de Arroz Picante) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tteokbokki (Bolo de Arroz Picante), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tteokbokki (Bolo de Arroz Picante) quente como manda a tradição."
+      ],
+      "dica": "Em Coreia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "coreia-japchae--macarrao-de-batata-doce-2",
+      "nome": "Japchae (Macarrão de Batata Doce)",
+      "pais": "Coreia",
+      "flag": "🇰🇷",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Japchae (Macarrão de Batata Doce), um clássico de Coreia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Coreia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Japchae (Macarrão de Batata Doce) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Japchae (Macarrão de Batata Doce), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Japchae (Macarrão de Batata Doce) quente como manda a tradição."
+      ],
+      "dica": "Em Coreia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "coreia-samgyeopsal--barriga-de-porco-3",
+      "nome": "Samgyeopsal (Barriga de Porco)",
+      "pais": "Coreia",
+      "flag": "🇰🇷",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Samgyeopsal (Barriga de Porco), um clássico de Coreia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Coreia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Samgyeopsal (Barriga de Porco) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Samgyeopsal (Barriga de Porco), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Samgyeopsal (Barriga de Porco) quente como manda a tradição."
+      ],
+      "dica": "Em Coreia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "coreia-hotteok-com-canela-e-nozes-4",
+      "nome": "Hotteok com Canela e Nozes",
+      "pais": "Coreia",
+      "flag": "🇰🇷",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Hotteok com Canela e Nozes, um clássico de Coreia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Coreia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Hotteok com Canela e Nozes (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Hotteok com Canela e Nozes, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Hotteok com Canela e Nozes quente como manda a tradição."
+      ],
+      "dica": "Em Coreia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "coreia-gimbap--rolinhos-de-arroz-5",
+      "nome": "Gimbap (Rolinhos de Arroz)",
+      "pais": "Coreia",
+      "flag": "🇰🇷",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Gimbap (Rolinhos de Arroz), um clássico de Coreia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Coreia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Gimbap (Rolinhos de Arroz) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Gimbap (Rolinhos de Arroz), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Gimbap (Rolinhos de Arroz) quente como manda a tradição."
+      ],
+      "dica": "Em Coreia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "coreia-soju-shots-6",
+      "nome": "Soju Shots",
+      "pais": "Coreia",
+      "flag": "🇰🇷",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Soju Shots, um clássico de Coreia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Coreia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Soju Shots (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Soju Shots, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Soju Shots quente como manda a tradição."
+      ],
+      "dica": "Em Coreia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "coreia-kimchi-jjigae--ensopado-de-kimchi-7",
+      "nome": "Kimchi JJigae (Ensopado de Kimchi)",
+      "pais": "Coreia",
+      "flag": "🇰🇷",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Kimchi JJigae (Ensopado de Kimchi), um clássico de Coreia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Coreia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Kimchi JJigae (Ensopado de Kimchi) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Kimchi JJigae (Ensopado de Kimchi), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Kimchi JJigae (Ensopado de Kimchi) quente como manda a tradição."
+      ],
+      "dica": "Em Coreia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "coreia-bingsu-de-matcha-e-frutas-8",
+      "nome": "Bingsu de Matcha e Frutas",
+      "pais": "Coreia",
+      "flag": "🇰🇷",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Bingsu de Matcha e Frutas, um clássico de Coreia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Coreia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bingsu de Matcha e Frutas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bingsu de Matcha e Frutas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bingsu de Matcha e Frutas quente como manda a tradição."
+      ],
+      "dica": "Em Coreia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    }
+  ]
+}

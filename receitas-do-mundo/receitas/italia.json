@@ -1,0 +1,493 @@
+{
+  "pais": "Itália",
+  "recipes": [
+    {
+      "id": "italia-osso-buco-alla-milanese-0",
+      "nome": "Osso Buco alla Milanese",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "pratos",
+      "tempo": "2h30",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Chamusco de vitela com tutano, cozido com vinho branco, legumes e servido com gremolata.",
+      "historia": "Especialidade milanesa clássica, sempre acompanhada de risotto alla milanese. O tutano (medula óssea) é o prêmio principal.",
+      "ingredientes": [
+        "4 fatias de osso buco (canela de vitela) de 4cm",
+        "1 cebola, 1 cenoura, 1 salsão",
+        "2 dentes alho",
+        "200ml vinho branco seco",
+        "400ml caldo de carne",
+        "2 colheres concentrado de tomate",
+        "Farinha para polvilhar",
+        "Manteiga, azeite, sal, pimenta",
+        "Gremolata: raspas de 1 limão, alho picado, salsa picada",
+        "Risotto alla milanese para acompanhar"
+      ],
+      "passos": [
+        "Tempere a carne e polvilhe farinha; doure de todos os lados em manteiga/azeite; reserve.",
+        "Refogue os vegetais (mirepoix) na mesma panela; adicione tomate concentrado.",
+        "Volte a carne, deglaçe com vinho branco até evaporar.",
+        "Adicione caldo até cobrir metade da carne; cozinhe tampado a 160°C por 2h.",
+        "Nos últimos 5 min, polvilhe gremolata.",
+        "Sirva com risotto, e com colherzinhas para retirar o tutano."
+      ],
+      "dica": "A gremolata no final é essencial — o limão corta a riqueza do ensopado.",
+      "isExtra": true
+    },
+    {
+      "id": "italia-cannoli-siciliani-1",
+      "nome": "Cannoli Siciliani",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "doces",
+      "tempo": "1h30",
+      "porcoes": "20 cannoli",
+      "dificuldade": "Média",
+      "desc": "Tubos de massa crocante frita, recheados com ricota adoçada, pistaches e frutas cristalizadas.",
+      "historia": "Símbolo da Sicília, originários de Palermo durante a dominação árabe. Antigamente eram feitos só no Carnaval!",
+      "ingredientes": [
+        "Massa: 300g farinha, 30g manteiga, 30g açúcar, 50ml vinho Marsala, 1 ovo, 1 colher cacau em pó, canela",
+        "Recheio: 500g ricota de ovelha bem escorrida, 150g açúcar de confeiteiro, 50g chocolate picado, 50g pistaches picados, laranja cristalizada",
+        "Óleo para fritar",
+        "Açúcar de confeiteiro",
+        "Forminhas cilíndricas de metal (canne)"
+      ],
+      "passos": [
+        "Misture massa; descanse 2h; abra BEM fina e corte círculos ovais.",
+        "Enrole os discos nos cilindros de metal, selando a ponta com clara de ovo.",
+        "Frite em óleo a 180°C até dourar; retire os cilindros.",
+        "Misture ricota muito escorrida com açúcar de confeiteiro, chocolate e frutas.",
+        "Recheie os tubos NA HORA de servir (se rechear muito antes, amolecem).",
+        "Decore pontas com pistache picado e polvilhe açúcar."
+      ],
+      "dica": "Ricota deve ser ESCORRIDA por pelo menos 4h em pano para não umedecer a casca.",
+      "isExtra": true
+    },
+    {
+      "id": "italia-tiramisu-classico-2",
+      "nome": "Tiramisu Classico",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "doces",
+      "tempo": "30 min + 6h geladeira",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Versão clássica do tiramisù (já temos a base; esta é a versão com licor de amêndoa).",
+      "historia": "Existem variações em toda Itália — na Sicília levam Marsala, em Veneza usam Amaretto.",
+      "ingredientes": [
+        "Mesmos ingredientes do tiramisù + 30ml Amaretto Disaronno"
+      ],
+      "passos": [
+        "Prepare como na receita clássica, adicionando Amaretto ao café."
+      ],
+      "dica": "Cuidado com o excesso de licor — 30ml basta para dar aroma sem ficar enjoativo.",
+      "isExtra": true
+    },
+    {
+      "id": "italia-arancini-al-ragu-3",
+      "nome": "Arancini al Ragù",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "salgados",
+      "tempo": "1h30",
+      "porcoes": "15 arancini",
+      "dificuldade": "Média",
+      "desc": "Bolinhas de risoto recheadas com ragù, ervilhas e mussarela, empanadas e fritas.",
+      "historia": "Especialidade siciliana — \"arancini\" significa \"pequenas laranjas\", por sua cor e forma douradas.",
+      "ingredientes": [
+        "Risotto de açafrão cozido e frio",
+        "150g ragù bolonhês",
+        "100g ervilhas cozidas",
+        "100g mussarela em cubos pequenos",
+        "2 ovos batidos",
+        "Farinha de rosca",
+        "Óleo para fritar"
+      ],
+      "passos": [
+        "Faça o risoto no dia anterior; resfrie bem.",
+        "Pegue porção de risoto, abra na palma da mão, coloque ragù, ervilhas e mussarela.",
+        "Feche em forma de esfera (ou cone no leste da Sicília).",
+        "Passe em farinha de rosca e ovo? — passe no ovo batido e depois na farinha de rosca.",
+        "Frite em óleo a 180°C por 5–6 min até dourar.",
+        "Sirva quente sozinho ou com molho de tomate."
+      ],
+      "dica": "O risoto deve estar FRIO — risoto quente desmancha ao modelar.",
+      "isExtra": true
+    },
+    {
+      "id": "italia-pesto-alla-genovese-4",
+      "nome": "Pesto alla Genovese",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "massas",
+      "tempo": "15 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Molho genovês feito de manjericão fresco, pinhões, alho, parmesão e pecorino, tudo socado no pilão.",
+      "historia": "Pesto vem de Gênova, na Ligúria. A tradição manda fazer no pilão de mármore — liquidificador serve, mas o sabor é diferente.",
+      "ingredientes": [
+        "100g de folhas de manjericão fresco (sem talos)",
+        "30g de pinhões tostados",
+        "2 dentes alho",
+        "150ml azeite extravirgem da Ligúria",
+        "50g parmesão ralado",
+        "30g pecorino ralado",
+        "Sal grosso",
+        "400g trofie ou linguine"
+      ],
+      "passos": [
+        "No pilão, soque alho e sal grosso até virar pasta; adicione pinhões, depois manjericão.",
+        "Pouco a pouco junte queijos e azeite em fio, até virar creme.",
+        "Se usar liquidificador, bata o mínimo possível (sem aquecer o manjericão).",
+        "Cozinhe a massa al dente, reservando 1 concha de água.",
+        "Misture massa com pesto, usando água da massa para diluir.",
+        "Sirva com pinhões tostados e parmesão extra."
+      ],
+      "dica": "Nunca bata o pesto no liquidificador por muito tempo — o calor oxidiza o manjericão e deixa o molho escuro/amargo.",
+      "isExtra": true
+    },
+    {
+      "id": "italia-saltimbocca-alla-romana-5",
+      "nome": "Saltimbocca alla Romana",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "pratos",
+      "tempo": "25 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Escalopes de vitela com presunto cru e sálvia, cozidos em manteiga e vinho branco. O nome é \"pula na boca\".",
+      "historia": "Clássico de Roma — perfeito para um jantar rápido e impressionante.",
+      "ingredientes": [
+        "8 escalopes finos de vitela (80g cada)",
+        "8 fatias de presunto de Parma",
+        "8 folhas de sálvia fresca",
+        "Palitos para prender",
+        "80g manteiga",
+        "100ml vinho branco seco",
+        "Sal, pimenta (pouco sal, o presunto é salgado)"
+      ],
+      "passos": [
+        "Bata os escalopes entre filme plástico.",
+        "Coloque uma fatia de presunto em cada escalope, uma folha de sálvia no presunto; prenda com um palito.",
+        "Derreta manteiga em frigideira; doure os escalopes 2 min de cada lado (lado do presunto por cima).",
+        "Retire carne; na panela, deglace com vinho branco, raspando o fundo, até reduzir pela metade.",
+        "Volte a carne 30 seg; sirva com o molho."
+      ],
+      "dica": "Remova os palitos antes de servir — ninguém quer surpresa!",
+      "isExtra": true
+    },
+    {
+      "id": "italia-minestrone-6",
+      "nome": "Minestrone",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "sopas",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sopa italiana de legumes com feijão, macarrão ou arroz e parmesão.",
+      "historia": "Sopa camponesa italiana, versão diferente em cada região. Leva legumes da estação e um pedaço de parmesão no caldo.",
+      "ingredientes": [
+        "1 cebola, 1 cenoura, 2 talos salsão",
+        "2 abobrinhas, 2 batatas, 1 vagem",
+        "2 tomates ou 1 lata tomate pelado",
+        "200g feijão cannellini cozido",
+        "1 xícara macarrão curto (ditalini)",
+        "1 casca de queijo parmesão",
+        "1,5L caldo de legumes",
+        "Azeite, alho, manjericão, sal, pimenta",
+        "Parmesão para servir"
+      ],
+      "passos": [
+        "Refogue cebola, cenoura, salsão, alho em azeite.",
+        "Adicione os legumes firmes (batata, vagem), depois tomate; cozinhe 5 min.",
+        "Adicione caldo e casca de parmesão; cozinhe 20 min.",
+        "Junte abobrinha, feijão e macarrão; cozinhe tempo indicado na embalagem do macarrão.",
+        "Retire casca de parmesão, ajuste sal.",
+        "Sirva com manjericão fresco, azeite cru e muito parmesão ralado."
+      ],
+      "dica": "Guarde cascas de parmesão no congelador — são o segredo do caldo de minestrone saboroso.",
+      "isExtra": true
+    },
+    {
+      "id": "italia-bistecca-alla-fiorentina-7",
+      "nome": "Bistecca alla Fiorentina",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "pratos",
+      "tempo": "25 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "T-bone steak de vitela Chianina grelhado no fogo de lenha, servido malpassado com sal grosso e limão.",
+      "historia": "Instituição florentina — a peça deve pesar pelo menos 1kg e ser cozida na brasa MUITO quente, sem condimentos prévios.",
+      "ingredientes": [
+        "1 bistecca alla fiorentina (T-bone, 1kg, vitela Chianina, 4cm de espessura)",
+        "Sal grosso",
+        "Pimenta preta moída na hora",
+        "Azeite extravirgem",
+        "Limão em gomos",
+        "Feijões cannellini cozidos com azeite e sálvia como acompanhamento"
+      ],
+      "passos": [
+        "Aqueça a churrasqueira de lenha no máximo (a grelha deve ficar em brasa).",
+        "Coloque a bistecca na grelha quente SEM TEMPERAR; grelhe 7 min de cada lado, depois 2 min em pé na gordura.",
+        "Deve ficar bem malpassada (55°C interna).",
+        "Retire, tempere com sal grosso e pimenta moída na hora.",
+        "Deixe descansar 5 min; sirva com azeite cru, limão e feijões."
+      ],
+      "dica": "Nunca tempere a carne antes de grelhar — ela solta água e não forma crosta. Florentino NÃO come bistecca bem passada!",
+      "isExtra": true
+    },
+    {
+      "id": "italia-focaccia-genovese-8",
+      "nome": "Focaccia Genovese",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "paes",
+      "tempo": "3h",
+      "porcoes": "1 focaccia de 30cm",
+      "dificuldade": "Fácil",
+      "desc": "Pão plano genovês, fofo, coberto com azeite, sal grosso e alecrim.",
+      "historia": "A focaccia di Genova DOP é regulamentada — poucos ingredientes, muita azeitona e dedos fazendo covas.",
+      "ingredientes": [
+        "500g farinha tipo 0",
+        "400ml água morna",
+        "5g fermento seco",
+        "10g sal",
+        "1 colher malte",
+        "80ml azeite extravirgem + mais para a forma",
+        "Sal grosso e alecrim para cobrir"
+      ],
+      "passos": [
+        "Misture farinha, fermento, malte, água e sal; a massa é mole, quase líquida.",
+        "Deixe crescer 1h na tigela.",
+        "Unte MUITO a forma com azeite; despeje massa, deixe crescer mais 1h.",
+        "Com os dedos untados de azeite, pressione a massa para fazer covas por toda a superfície.",
+        "Regue com 40ml de azeite misturado com 40ml água — escorrerá para as covas.",
+        "Polvilhe sal grosso e alecrim.",
+        "Asse a 220°C por 25 min até dourar.",
+        "Desenforme imediatamente e deixe esfriar em grade."
+      ],
+      "dica": "Muita azeitona na forma e as covas feitas com os dedos são segredo para a focaccia oleosa e fofa.",
+      "isExtra": true
+    },
+    {
+      "id": "italia-gnocchi-di-patate-al-pomodoro-9",
+      "nome": "Gnocchi di Patate al Pomodoro",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "massas",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Nhoques de batata com molho de tomate e manjericão, finalizado com parmesão.",
+      "historia": "Nhoque perfeito deve ser leve e fofo, não borrachudo — a proporção de farinha é o segredo.",
+      "ingredientes": [
+        "1kg batatas velhas (farihentas, como Asterix)",
+        "200–250g farinha",
+        "1 ovo (opcional)",
+        "Sal",
+        "Molho: 800g tomate San Marzano, 2 dentes alho, manjericão, azeite",
+        "Parmesão ralado"
+      ],
+      "passos": [
+        "Cozinhe as batatas COM CASCA em água salgada até espetar fácil.",
+        "Descasque ainda quentes e passe pelo espremedor em superfície enfarinhada.",
+        "Deixe amornar; adicione sal, pouco ovo (se usar) e farinha MÍNIMA necessária (1/4 do peso da batata).",
+        "Sove rapidamente sem desenvolver glúten.",
+        "Faça cordões e corte nhoques de 2cm; marque em garfo ou cavarola.",
+        "Cozinhe em água salgada abundante; quando boiarem, estão prontos.",
+        "Refogue rapidamente no molho de tomate; sirva com parmesão e manjericão."
+      ],
+      "dica": "Use menos farinha do que você acha que precisa — nhoque pesado = excesso de farinha.",
+      "isExtra": true
+    },
+    {
+      "id": "italia-panna-cotta-10",
+      "nome": "Panna Cotta",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "doces",
+      "tempo": "15 min + 4h geladeira",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Creme cozido italiano da região do Piemonte, servido com calda de frutas vermelhas ou caramelo.",
+      "historia": "\"Nata cozida\" em italiano — é a sobremesa mais simples e elegante da Itália, textura de seda.",
+      "ingredientes": [
+        "500ml creme de leite fresco",
+        "100g açúcar",
+        "1 fava de baunilha",
+        "4g gelatina em folhas (ou 8g se quiser mais firme)",
+        "Coulis: 200g frutas vermelhas, 50g açúcar, suco limão"
+      ],
+      "passos": [
+        "Hidrate a gelatina em água fria por 5 min.",
+        "Ferva creme com açúcar e baunilha, retire sementes.",
+        "Desligue, junte gelatina espremida; mexa.",
+        "Distribua em forminhas úmidas.",
+        "Gele por 4h ou de véspera.",
+        "Faça coulis: ferva frutas com açúcar 5 min, peneire e resfrie.",
+        "Desenforme ou sirva na taça com coulis por cima."
+      ],
+      "dica": "Panna cotta perfeita balança como pudim mas não desmancha — 4g de gelatina por 500ml dá o ponto ideal.",
+      "isExtra": true
+    },
+    {
+      "id": "italia-vitello-tonnato-11",
+      "nome": "Vitello Tonnato",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "pratos",
+      "tempo": "40 min + resfriamento",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Vitela cozida e fatiada finamente, servida fria com molho cremoso de atum, alcaparras e anchovas. Clássico do Piemonte.",
+      "historia": "Prato clássico de verão italiano. Combinação inusitada de carne e atum — parece estranho mas é divino.",
+      "ingredientes": [
+        "800g de lagarto de vitela (ou coxão mole)",
+        "1 cenoura, 1 cebola, 1 salsão",
+        "1 folha de louro",
+        "1 lata de atum em óleo (160g)",
+        "4 filés de anchova",
+        "2 colheres alcaparras + extra para decorar",
+        "1 ovo cozido (opcional)",
+        "150ml maionese caseira (ou iogurte grego)",
+        "Suco de 1/2 limão",
+        "Sal, pimenta",
+        "Rodelas de limão para decorar"
+      ],
+      "passos": [
+        "Cozinhe a vitela em água com cenoura, cebola, salsão e louro por 45 min; deixe esfriar no caldo.",
+        "Bata atum escorrido, anchovas, alcaparras, ovo cozido (se usar), maionese, limão até virar molho cremoso.",
+        "Fatie a vitela MUITO finamente (fatiador ajuda).",
+        "Disponha fatias em travessa, cubra com o molho; decore com alcaparras e limão.",
+        "Gele por 2h antes de servir."
+      ],
+      "dica": "O vitello tonnato é servido FRIO — é uma entrada ou prato de verão, não um prato quente.",
+      "isExtra": true
+    },
+    {
+      "id": "italia-cacio-e-pepe-12",
+      "nome": "Cacio e Pepe",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "massas",
+      "tempo": "15 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Espaguete romano com pecorino romano e pimenta preta — apenas 3 ingredientes.",
+      "historia": "O \"macarrão com queijo\" mais antigo de Roma, mais simples que carbonara ou amatriciana, mais técnico que parece.",
+      "ingredientes": [
+        "200g espaguete (tonnarelli é o tradicional, formato quadrado)",
+        "150g pecorino romano ralado NA HORA",
+        "1 colher sopa de pimenta preta em grãos moída GROSSEIRA na hora",
+        "Sal"
+      ],
+      "passos": [
+        "Toste a pimenta moída em frigideira seca por 30 seg para perfumar.",
+        "Cozinhe a massa em pouca água salgada (1L por 200g) até al dente.",
+        "Reserve 1 xícara da água quente da massa.",
+        "Transfira a massa DIRETO para a frigideira com a pimenta, com um pouco de água da massa.",
+        "Desligue o fogo, adicione pecorino e mexa VIGOROSAMENTE adicionando água da massa aos poucos para emulsionar um molho cremoso.",
+        "Sirva imediatamente com mais pecorino. NÃO use azeite, creme, ou nada mais."
+      ],
+      "dica": "Água da massa + queijo + movimento = molho perfeito. Não creme, não manteiga. A técnica é tudo.",
+      "isExtra": true
+    },
+    {
+      "nome": "Burrata com Tomates e Manjericão",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "salgados",
+      "tempo": "10 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Queijo burrata cremosa com tomates maduros, manjericão fresco e azeite.",
+      "historia": "Burrata é mozzarella com stracciatella cremosa dentro, da Puglia — um dos queijos mais amados do mundo.",
+      "ingredientes": [
+        "2 queijos burrata (120g cada) em temperatura ambiente",
+        "300g tomates cereja multicoloridos",
+        "1 molho manjericão fresco",
+        "50ml azeite extravirgem de qualidade",
+        "Sal grosso, pimenta preta moída na hora",
+        "Pão italiano rústico para servir",
+        "Vinagre balsâmico envelhecido (opcional)"
+      ],
+      "passos": [
+        "Corte tomates ao meio; tempere com sal e deixe descansar 5 min.",
+        "Disponha tomates em prato raso; coloque burrata inteira no centro.",
+        "Faça um corte no topo da burrata para abrir.",
+        "Rasgue folhas de manjericão com as mãos por cima.",
+        "Regue generosamente com azeite, balsâmico, pimenta moída.",
+        "Sirva com pão tostado."
+      ],
+      "dica": "A burrata deve estar em temperatura ambiente — queijo frio não tem sabor.",
+      "isExtra": true,
+      "id": "italia-burrata-com-tomates-e-manjericao-extra-0"
+    },
+    {
+      "nome": "Carbonara Autêntica (sem creme)",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "massas",
+      "tempo": "25 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Espaguete com guanciale, ovos e pecorino — sem creme de leite NUNCA.",
+      "historia": "Carbonara é romana, de origem humilde. Creme de leite NÃO existe na receita original — a cremosidade vem dos ovos emulsionados com água da massa.",
+      "ingredientes": [
+        "400g espaguete de grano duro",
+        "150g guanciale (bochecha de porco) sem pele em cubos",
+        "4 gemas + 1 ovo inteiro",
+        "120g pecorino romano ralado finamente NA HORA",
+        "Pimenta preta moída GROSSEIRA na hora (bastante)",
+        "Sal para água da massa"
+      ],
+      "passos": [
+        "Cozinhe o espaguete em água salgada abundante até al dente (1 min a menos que a embalagem).",
+        "Enquanto isso, doure o guanciale em frigideira GRANDE em fogo médio-baixo até ficar crocante (sem queimar!). Reserve o guanciale, deixe a gordura na frigideira.",
+        "Bata gemas+ovo com pecorino e MUITA pimenta preta em tigela.",
+        "Reserve 1 concha de água fervendo da massa; escorra massa e jogue NA FRIGIDEIRA (desligada!); adicione água para ficar úmido.",
+        "Despeje a mistura de ovos, mexendo VIGOROSAMENTE para emulsionar; adicione guanciale.",
+        "Adicione água da massa aos poucos se necessário; sirva IMEDIATAMENTE com mais pecorino e pimenta."
+      ],
+      "dica": "Regra de ouro: frigideira desligada e mexer vigorosamente — se tiver calor demais os ovos viram ovos mexidos!",
+      "isExtra": true,
+      "id": "italia-carbonara-autentica--sem-creme-extra-1"
+    },
+    {
+      "nome": "Tiramisu Clássico",
+      "pais": "Itália",
+      "flag": "🇮🇹",
+      "categoria": "doces",
+      "tempo": "30 min + 6h geladeira",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Camadas de biscoito champagne embebidos em café, creme de mascarpone e cacau.",
+      "historia": "Criado em Treviso, Vêneto, nos anos 60. Sem licor na receita mais autêntica — só café forte e mascarpone.",
+      "ingredientes": [
+        "500g queijo mascarpone em temperatura ambiente",
+        "4 ovos (claras e gemas separados)",
+        "120g açúcar",
+        "200g biscoitos savoiardi (champagne)",
+        "350ml café espresso forte frio (ou coado bem forte)",
+        "2 colheres Marsala seco (opcional)",
+        "Cacau amargo em pó para polvilhar"
+      ],
+      "passos": [
+        "Bata gemas com 80g açúcar até dobrar e ficar esbranquiçado (5 min).",
+        "Incorpore mascarpone GENTILMENTE, sem bater muito.",
+        "Bata claras em neve com o restante do açúcar até picos firmes; incorpore ao creme.",
+        "Misture café com Marsala (se usar).",
+        "Molhe os biscoitos RAPIDAMENTE no café (não deixe encharcar!).",
+        "Monte camadas: biscoito, creme, biscoito, creme. Finalize com creme.",
+        "Cubra com filme, geladeira por 6h ou de véspera.",
+        "Polvilhe cacau AMARGO generosamente NA HORA de servir."
+      ],
+      "dica": "Não encharque os biscoitos — se ficarem moles demais o tiramisú fica aguado.",
+      "isExtra": true,
+      "id": "italia-tiramisu-classico-extra-2"
+    }
+  ]
+}

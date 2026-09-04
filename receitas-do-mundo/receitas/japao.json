@@ -1,0 +1,464 @@
+{
+  "pais": "Japão",
+  "recipes": [
+    {
+      "id": "japao-onigiri--bolinhos-de-arroz-0",
+      "nome": "Onigiri (Bolinhos de Arroz)",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Onigiri (Bolinhos de Arroz), um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "2 xícaras arroz japonês cozido",
+        "1 folha nori",
+        "Recheios: umeboshi (ameixa salgada), atum maionese, salmão grelhado, ovas",
+        "Sal",
+        "Gergelim"
+      ],
+      "passos": [
+        "Molhe as mãos com água e sal.",
+        "Modele 100g de arroz em triângulo ou oval com recheio no centro.",
+        "Envolva com um pedaço de nori.",
+        "Polvilhe gergelim; sirva em piqueniques e lanches."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-miso-shiru--sopa-de-misso-1",
+      "nome": "Miso Shiru (Sopa de Missô)",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "sopas",
+      "tempo": "15 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Miso Shiru (Sopa de Missô), um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "500ml dashi (caldo de peixe/konbu)",
+        "3 colheres missô (soja fermentada)",
+        "100g tofu em cubos",
+        "Wakame (alga) desidratado",
+        "Cebolinha picada"
+      ],
+      "passos": [
+        "Ferva o dashi com o wakame; adicione tofu.",
+        "Dissolva o missô em uma concha de caldo e junte à panela (NÃO FERVA após adicionar missô).",
+        "Sirva em tigelas com cebolinha por cima."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-takoyaki--bolinhas-de-polvo-2",
+      "nome": "Takoyaki (Bolinhas de Polvo)",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Takoyaki (Bolinhas de Polvo), um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Massa: 200g farinha, 2 ovos, 500ml dashi, 1 colher shoyu",
+        "150g polvo cozido em cubos",
+        "Cebolinha, gengibre em conserva, tempura tenkasu",
+        "Molho takoyaki, maionese, aonori, katsuobushi (peixe seco)"
+      ],
+      "passos": [
+        "Aqueça a forma de takoyaki com azeite.",
+        "Preencha cavidades com massa; coloque um cubo de polvo em cada, cebolinha e tenkasu.",
+        "Quando dourar, gire com palitos para ficar esferas perfeitas.",
+        "Sirva com molho, maionese, aonori e katsuobushi."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-tamagoyaki--omelete-japonesa-3",
+      "nome": "Tamagoyaki (Omelete Japonesa)",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "cafemanha",
+      "tempo": "20 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Tamagoyaki (Omelete Japonesa), um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "4 ovos",
+        "2 colheres dashi",
+        "1 colher açúcar",
+        "1 colher shoyu",
+        "1 colher mirim",
+        "Óleo para frigideira retangular"
+      ],
+      "passos": [
+        "Bata ovos com temperos; peneire.",
+        "Em frigideira retangular (makiyakinabe), faça camadas finas de ovo, enrolando conforme.",
+        "Corte em rodelas; sirva como acompanhamento de sushi ou café da manhã."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-yakisoba-4",
+      "nome": "Yakisoba",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "pratos",
+      "tempo": "25 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Yakisoba, um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "200g macarrão chinês para yakisoba",
+        "200g barriga de porco fatiada",
+        "1 repolho pequeno, 1 cenoura, 1 cebola",
+        "Molho: 3 colheres shoyu, 2 molho ostra, 2 molho inglês, 1 açúcar",
+        "Óleo, gergelim, aonori"
+      ],
+      "passos": [
+        "Frite o porco na wok; junte vegetais altos.",
+        "Adicione macarrão cozido; mexa rápido.",
+        "Junte molho; misture bem; sirva polvilhado de gergelim."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-okonomiyaki--panqueca-salgada-5",
+      "nome": "Okonomiyaki (Panqueca Salgada)",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Okonomiyaki (Panqueca Salgada), um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Massa: 200g farinha okonomiyaki, 2 ovos, 200ml dashi",
+        "200g repolho fatiado fino",
+        "100g barriga de porco em fatias",
+        "Ovos fritos, maionese, molho okonomiyaki, katsuobushi, aonori"
+      ],
+      "passos": [
+        "Misture massa com repolho.",
+        "Despeje em frigideira quente; coloque porco por cima.",
+        "Grelhe 6 min de cada lado como uma panqueca grossa.",
+        "Pincele molho, espalhe maionese, polvilhe flocos de peixe e algas."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-katsudon-6",
+      "nome": "Katsudon",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Katsudon, um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "2 filés lombo de porco (para tonkatsu)",
+        "Farinha, ovo batido, farinha panko",
+        "2 ovos crus",
+        "1 cebola fatiada",
+        "Molho: 200ml dashi, 3 colheres shoyu, 2 mirim, 2 açúcar",
+        "2 tigelas arroz cozido"
+      ],
+      "passos": [
+        "Empane e frite o porco; fatie.",
+        "Cozinhe cebola no molho por 5 min; coloque tonkatsu fatiado.",
+        "Bata 1 ovo sobre a panela; tampe 1 min para cozinhar.",
+        "Deslize sobre arroz; repita com outro ovo; sirva quente."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-matcha-latte-7",
+      "nome": "Matcha Latte",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "bebidas",
+      "tempo": "5 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Matcha Latte, um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "2 colheres de chá matcha de qualidade",
+        "60ml água quente (80°C)",
+        "250ml leite vaporizado",
+        "Açúcar ou mel a gosto"
+      ],
+      "passos": [
+        "Peneire o matcha em tigela; adicione água e bata com bambu chasen até formar espuma.",
+        "Adicione leite vaporizado; adoce se quiser; sirva quente ou gelado."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-dango-8",
+      "nome": "Dango",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "doces",
+      "tempo": "25 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Dango, um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "200g farinha shiratamako",
+        "150ml água",
+        "Molho mitarashi: 3 colheres shoyu, 3 açúcar, 1 amido de milho, 4 água",
+        "Açúcar, matcha, kinako (farinha de soja)"
+      ],
+      "passos": [
+        "Faça massa com farinha e água; cozinhe bolinhas em água fervente até boiar + 2 min; resfrie em água gelada.",
+        "Espete 3–4 bolinhas em palitos.",
+        "Cubra com molho mitarashi (aqueça shoyu, açúcar, água e amido) ou polvilhe matcha/kinako."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-gyoza-9",
+      "nome": "Gyoza",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Gyoza, um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "20 discos massa gyoza",
+        "Recheio: 200g porco moído, 200g repolho picado, cebolinha, alho, gengibre, shoyu, óleo gergelim",
+        "Molho: vinagre de arroz + shoyu + óleo gergelim + ra-yu"
+      ],
+      "passos": [
+        "Misture recheio; coloque 1 colher em cada disco e dobre fazendo pregas.",
+        "Aqueça frigideira com óleo; sele o fundo dos gyoza.",
+        "Adicione 50ml água, tampe e cozinhe 5 min a vapor.",
+        "Retire tampa e deixe dourar o fundo; sirva com molho."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-edamame-10",
+      "nome": "Edamame",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "salgados",
+      "tempo": "10 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Edamame, um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Vagens de edamame congeladas",
+        "Sal grosso",
+        "Shichimi togarashi (opcional)"
+      ],
+      "passos": [
+        "Ferva edamame em água salgada por 4 min.",
+        "Escorra bem; polvilhe sal grosso; coma apertando as vagens para soltar os grãos."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-kare-raisu--arroz-de-curry-japones-11",
+      "nome": "Kare Raisu (Arroz de Curry Japonês)",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Kare Raisu (Arroz de Curry Japonês), um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "500g carne bovina/frango",
+        "2 cebolas, 2 cenouras, 2 batatas",
+        "Tabletes de curry japonês (Golden Curry)",
+        "Arroz cozido",
+        "Fukujinzuke (picles)"
+      ],
+      "passos": [
+        "Doure cebola até caramelizar; junte carne e doure.",
+        "Adicione cenoura, batata e água; cozinhe 20 min.",
+        "Desligue, junte tabletes de curry; mexa até dissolver; cozinhe 10 min.",
+        "Sirva sobre arroz com picles."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "japao-chawanmushi-12",
+      "nome": "Chawanmushi",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Chawanmushi, um clássico de Japão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Japão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "3 ovos",
+        "500ml dashi",
+        "1 colher shoyu, 1 mirim, sal",
+        "80g camarões, 4 cogumelos shiitake, tiras de frango, ervilha, ginkgo"
+      ],
+      "passos": [
+        "Bata ovos com dashi, coe.",
+        "Distribua camarões, cogumelos e frango em 4 xícaras com tampa.",
+        "Cubra com o ovo; cozinhe no vapor por 15 min até firmar.",
+        "Sirva quente com tampa."
+      ],
+      "dica": "Em Japão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Tonkotsu Ramen",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "sopas",
+      "tempo": "12 horas",
+      "porcoes": "6 porções",
+      "dificuldade": "Difícil",
+      "desc": "Ramen de caldo de ossos de porco cremosos com chashu e ovo marinado.",
+      "historia": "Criado em Fukuoka após a Segunda Guerra. O caldo é fervido agressivamente por 12h até ficar branco como leite.",
+      "ingredientes": [
+        "2kg ossos de porco (toco, joelho, canela)",
+        "1kg costelinha de porco para o chashu",
+        "4 coxas de frango (para dar umami)",
+        "1 cebola queimada, 1 gengibre tostado, 1 alho-poró",
+        "1 saqueta de kombu + 20g katsuobushi para dashi",
+        "4 porções macarrão fresco de ramen (fino, tipo Hakata)",
+        "Shoyu, shio ou miso para o tare",
+        "4 ovos para ovo marinado (ajitsuke tamago)",
+        "Cebolinha, menma (brotos de bambu), nori, gordura de porco, narutomaki"
+      ],
+      "passos": [
+        "Dê um choque térmico nos ossos (ferva 10 min, lave bem).",
+        "Ferva ossos, costelinha, frango em 8L de água em fogo ALTO por 8–12h (fervura agressiva é o segredo do branco leitoso).",
+        "Adicione vegetais tostados nas últimas 2h.",
+        "Fatie o chashu fino e marine em shoyu/ saquê/ açúcar.",
+        "Marine ovos cozidos 6 min em shoyu+mirin+saquê por 4h (mole por dentro).",
+        "Cozinhe macarrão 2 min.",
+        "Coloque 1–2 colheres de tare no fundo de cada tigela; despeje caldo fervendo.",
+        "Adicione macarrão e toppings: chashu, ovo partido ao meio, cebolinha, menma, nori."
+      ],
+      "dica": "Fervura ALTA é o segredo — o caldo deve borbulhar agressivamente para emulsionar os ossos.",
+      "isExtra": true,
+      "id": "japao-tonkotsu-ramen-extra-0"
+    },
+    {
+      "nome": "Karaage de Frango",
+      "pais": "Japão",
+      "flag": "🇯🇵",
+      "categoria": "salgados",
+      "tempo": "30 min + marinada",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Frango marinado em shoyu e gengibre, frito em fécula de batata — suculento e crocante.",
+      "historia": "É o frango frito japonês, criado nos anos 30, servido em izakayas com limão e maionese.",
+      "ingredientes": [
+        "600g coxas de frango sem pele em pedaços de 4cm",
+        "3 colheres shoyu",
+        "2 colheres saquê (ou vinho branco)",
+        "2 colheres mirim",
+        "2 dentes alho ralados",
+        "1 colher gengibre ralado",
+        "80g fécula de batata (ou amido milho)",
+        "Óleo para fritar (170°C)",
+        "Limão em gomos e maionese japonesa (kewpie) para servir"
+      ],
+      "passos": [
+        "Marine frango com shoyu, saquê, mirim, alho e gengibre por 30 min.",
+        "Escorra excesso de marinada; passe na fécula, cobrindo BEM.",
+        "Frite em óleo a 170°C por 4–5 min (primeira fritura). Retire 2 min.",
+        "Aqueça óleo a 180°C, frite 1–2 min para ficar dourado e crocante.",
+        "Sirva com limão e kewpie."
+      ],
+      "dica": "Dupla fritura é o segredo do karaage perfeito: primeira fritura cozinha, segunda crosta.",
+      "isExtra": true,
+      "id": "japao-karaage-de-frango-extra-1"
+    },
+    {
+      "nome": "Gyoza de Porco",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "25 gyozas",
+      "dificuldade": "Média",
+      "desc": "Pastéis japoneses fritos e cozidos no vapor, com molho de vinagre e shoyu.",
+      "historia": "Os gyozas chegaram da China (jiaozi) após a Segunda Guerra Mundial e se tornaram um botequim japonês.",
+      "ingredientes": [
+        "25 discos massa gyoza",
+        "Recheio: 200g porco moído, 100g repolho picado, cebolinha, alho, gengibre, shoyu, óleo gergelim",
+        "Óleo, água",
+        "Molho: vinagre arroz + shoyu + óleo gergelim + ra-yu"
+      ],
+      "passos": [
+        "Misture recheio MUITO bem até ficar pegajoso.",
+        "Coloque 1 colher em cada disco; dobre fazendo 5 pregas.",
+        "Aqueça frigideira com óleo; sele fundo dos gyozas até dourar.",
+        "Adicione 50ml água, tampe, cozinhe a vapor 4 min.",
+        "Retire tampa, deixe secar; fundo deve ficar crocante."
+      ],
+      "dica": "Coma logo após sair da frigideira — a crosta do fundo é a melhor parte.",
+      "isExtra": true,
+      "id": "japao-gyoza-de-porco-m-0",
+      "pais": "Japão",
+      "flag": "🇯🇵"
+    },
+    {
+      "nome": "Katsudon",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tigela de arroz com tonkatsu, cebola, ovo e molho doce-salgado.",
+      "historia": "Prato japonês popular em lanchonetes — katsu = costeleta à milanesa, donburi = tigela de arroz.",
+      "ingredientes": [
+        "200g lombo porco",
+        "Farinha, ovo batido, farinha panko",
+        "1 cebola",
+        "2 ovos",
+        "Molho: 150ml dashi, 2 shoyu, 2 mirin, 1 açúcar",
+        "2 tigelas arroz cozido",
+        "Cebolinha"
+      ],
+      "passos": [
+        "Bata porco, empane: farinha→ovo→panko. Frite a 170°C até dourar; fatie.",
+        "Em frigideira funda, cozinhe cebola fatiada no molho 3 min.",
+        "Coloque tonkatsu por cima; despeje ovo batido por cima.",
+        "Tampe 1 min para cozinhar ovo; deslize sobre arroz."
+      ],
+      "dica": "Ovo deve ficar MEIO cozido, mole por cima — é o charme do katsudon.",
+      "isExtra": true,
+      "id": "japao-katsudon-m-1",
+      "pais": "Japão",
+      "flag": "🇯🇵"
+    }
+  ]
+}

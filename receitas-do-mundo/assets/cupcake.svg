@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Wrapper -->
+  <path d="M14 32 L18 56 L46 56 L50 32 Z" fill="#C0392B" stroke="#8B0000"/>
+  <path d="M20 36 L21 52" stroke="#8B0000" stroke-width="1.2"/>
+  <path d="M27 34 L26 54" stroke="#8B0000" stroke-width="1.2"/>
+  <path d="M34 34 L35 54" stroke="#8B0000" stroke-width="1.2"/>
+  <path d="M41 36 L40 52" stroke="#8B0000" stroke-width="1.2"/>
+  <!-- Cake top -->
+  <ellipse cx="32" cy="32" rx="18" ry="6" fill="#DEB887" stroke="#8B4513"/>
+  <!-- Frosting swirls -->
+  <path d="M18 30 Q22 14 32 18 Q42 14 46 30" fill="#FFF0F5" stroke="#D2691E"/>
+  <path d="M24 20 Q30 12 32 18 Q34 12 40 20" fill="#FFF0F5" stroke="#D2691E"/>
+  <path d="M28 18 Q32 8 36 18" fill="#FFB6C1" stroke="#D2691E"/>
+  <!-- Cherry -->
+  <circle cx="32" cy="10" r="4" fill="#DC143C" stroke="#8B0000"/>
+  <path d="M32 6 Q34 2 38 2" stroke="#228B22" stroke-width="1.5" fill="none"/>
+</svg>

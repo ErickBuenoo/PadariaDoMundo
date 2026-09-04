@@ -1,0 +1,231 @@
+{
+  "pais": "Jamaica",
+  "recipes": [
+    {
+      "id": "jamaica-jerk-chicken-com-madeira-de-pimento-0",
+      "nome": "Jerk Chicken com Madeira de Pimento",
+      "pais": "Jamaica",
+      "flag": "🇯🇲",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Jerk Chicken com Madeira de Pimento, um clássico de Jamaica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Jamaica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Jerk Chicken com Madeira de Pimento (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Jerk Chicken com Madeira de Pimento, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Jerk Chicken com Madeira de Pimento quente como manda a tradição."
+      ],
+      "dica": "Em Jamaica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "jamaica-ackee-e-saltfish--cafe-da-manha-1",
+      "nome": "Ackee e Saltfish (Café da Manhã)",
+      "pais": "Jamaica",
+      "flag": "🇯🇲",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Ackee e Saltfish (Café da Manhã), um clássico de Jamaica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Jamaica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Ackee e Saltfish (Café da Manhã) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Ackee e Saltfish (Café da Manhã), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Ackee e Saltfish (Café da Manhã) quente como manda a tradição."
+      ],
+      "dica": "Em Jamaica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "jamaica-curry-de-cabra-2",
+      "nome": "Curry de Cabra",
+      "pais": "Jamaica",
+      "flag": "🇯🇲",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Curry de Cabra, um clássico de Jamaica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Jamaica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Curry de Cabra (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Curry de Cabra, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Curry de Cabra quente como manda a tradição."
+      ],
+      "dica": "Em Jamaica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "jamaica-rice-and-peas-com-leite-de-coco-3",
+      "nome": "Rice and Peas com Leite de Coco",
+      "pais": "Jamaica",
+      "flag": "🇯🇲",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Rice and Peas com Leite de Coco, um clássico de Jamaica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Jamaica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Rice and Peas com Leite de Coco (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Rice and Peas com Leite de Coco, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Rice and Peas com Leite de Coco quente como manda a tradição."
+      ],
+      "dica": "Em Jamaica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "jamaica-jamaican-patty-pastel-de-carne-4",
+      "nome": "Jamaican Patty Pastel de Carne",
+      "pais": "Jamaica",
+      "flag": "🇯🇲",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Jamaican Patty Pastel de Carne, um clássico de Jamaica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Jamaica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Jamaican Patty Pastel de Carne (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Jamaican Patty Pastel de Carne, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Jamaican Patty Pastel de Carne quente como manda a tradição."
+      ],
+      "dica": "Em Jamaica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "jamaica-rum-punch-com-frutas-5",
+      "nome": "Rum Punch com Frutas",
+      "pais": "Jamaica",
+      "flag": "🇯🇲",
+      "categoria": "bebidas",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Rum Punch com Frutas, um clássico de Jamaica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Jamaica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Rum Punch com Frutas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Rum Punch com Frutas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Rum Punch com Frutas quente como manda a tradição."
+      ],
+      "dica": "Em Jamaica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "jamaica-bammy-pao-de-mandioca-6",
+      "nome": "Bammy Pão de Mandioca",
+      "pais": "Jamaica",
+      "flag": "🇯🇲",
+      "categoria": "paes",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Bammy Pão de Mandioca, um clássico de Jamaica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Jamaica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bammy Pão de Mandioca (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bammy Pão de Mandioca, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bammy Pão de Mandioca quente como manda a tradição."
+      ],
+      "dica": "Em Jamaica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Ackee & Saltfish",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Fruta ackee salteada com bacalhau salgado, cebola, pimenta e tomate — prato nacional da Jamaica.",
+      "historia": "O ackee é uma fruta caribenha; antes de madurar é TÓXICA. É servida como café da manhã nacional.",
+      "ingredientes": [
+        "400g bacalhau dessalgado",
+        "1 lata ackee (escorrido)",
+        "1 cebola, 1 pimentão, 2 dentes alho",
+        "2 tomates, 1 pimenta scotch bonnet",
+        "Pimenta preta, tomilho",
+        "Azeite, cebolinha",
+        "Banana verde cozida, dumplings de farinha fritos para acompanhar"
+      ],
+      "passos": [
+        "Dessalgue bacalhau de véspera; cozinhe por 10 min; desfie.",
+        "Refogue cebola, pimentão, alho e tomate com tomilho e pimenta.",
+        "Adicione bacalhau desfiado; refogue 5 min.",
+        "Junte ackee DELICADAMENTE (não mexa muito para não amassar); cozinhe 3 min.",
+        "Sirva com banana cozida e dumplings."
+      ],
+      "dica": "Ackee enlatada é mais segura fora das regiões de cultivo. Não mexa demais — é fruta macia como ovos mexidos!",
+      "isExtra": true,
+      "id": "jamaica-ackee---saltfish-m-0",
+      "pais": "Jamaica",
+      "flag": "🇯🇲"
+    }
+  ]
+}

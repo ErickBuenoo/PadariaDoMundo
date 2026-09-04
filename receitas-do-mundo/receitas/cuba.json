@@ -1,0 +1,260 @@
+{
+  "pais": "Cuba",
+  "recipes": [
+    {
+      "id": "cuba-ropa-vieja-com-arroz-e-feijao-0",
+      "nome": "Ropa Vieja com Arroz e Feijão",
+      "pais": "Cuba",
+      "flag": "🇨🇺",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Ropa Vieja com Arroz e Feijão, um clássico de Cuba preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Cuba, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Ropa Vieja com Arroz e Feijão (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Ropa Vieja com Arroz e Feijão, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Ropa Vieja com Arroz e Feijão quente como manda a tradição."
+      ],
+      "dica": "Em Cuba, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "cuba-mojito-com-hortela-1",
+      "nome": "Mojito com Hortelã",
+      "pais": "Cuba",
+      "flag": "🇨🇺",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Mojito com Hortelã, um clássico de Cuba preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Cuba, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Mojito com Hortelã (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Mojito com Hortelã, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Mojito com Hortelã quente como manda a tradição."
+      ],
+      "dica": "Em Cuba, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "cuba-sanduiche-cubano-prensado-2",
+      "nome": "Sanduíche Cubano Prensado",
+      "pais": "Cuba",
+      "flag": "🇨🇺",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sanduíche Cubano Prensado, um clássico de Cuba preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Cuba, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sanduíche Cubano Prensado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sanduíche Cubano Prensado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sanduíche Cubano Prensado quente como manda a tradição."
+      ],
+      "dica": "Em Cuba, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "cuba-lechon-asado-3",
+      "nome": "Lechón Asado",
+      "pais": "Cuba",
+      "flag": "🇨🇺",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Lechón Asado, um clássico de Cuba preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Cuba, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Lechón Asado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Lechón Asado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Lechón Asado quente como manda a tradição."
+      ],
+      "dica": "Em Cuba, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "cuba-arroz-con-pollo-4",
+      "nome": "Arroz con Pollo",
+      "pais": "Cuba",
+      "flag": "🇨🇺",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Arroz con Pollo, um clássico de Cuba preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Cuba, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Arroz con Pollo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Arroz con Pollo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Arroz con Pollo quente como manda a tradição."
+      ],
+      "dica": "Em Cuba, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "cuba-tostones-de-banana-verde-5",
+      "nome": "Tostones de Banana Verde",
+      "pais": "Cuba",
+      "flag": "🇨🇺",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tostones de Banana Verde, um clássico de Cuba preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Cuba, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tostones de Banana Verde (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tostones de Banana Verde, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tostones de Banana Verde quente como manda a tradição."
+      ],
+      "dica": "Em Cuba, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "cuba-cafe-cubano-pequeno-e-forte-6",
+      "nome": "Café Cubano Pequeno e Forte",
+      "pais": "Cuba",
+      "flag": "🇨🇺",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Café Cubano Pequeno e Forte, um clássico de Cuba preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Cuba, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Café Cubano Pequeno e Forte (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Café Cubano Pequeno e Forte, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Café Cubano Pequeno e Forte quente como manda a tradição."
+      ],
+      "dica": "Em Cuba, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "cuba-flan-de-caramelo-cubano-7",
+      "nome": "Flan de Caramelo Cubano",
+      "pais": "Cuba",
+      "flag": "🇨🇺",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Flan de Caramelo Cubano, um clássico de Cuba preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Cuba, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Flan de Caramelo Cubano (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Flan de Caramelo Cubano, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Flan de Caramelo Cubano quente como manda a tradição."
+      ],
+      "dica": "Em Cuba, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Ropa Vieja",
+      "categoria": "pratos",
+      "tempo": "2h30",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Carne desfiada no molho de tomate com pimentões, cebola e vinho — \"roupa velha\".",
+      "historia": "Lenda espanhola de um homem pobre que cozinhou as próprias roupas de amor por sua família; as lágrimas as transformaram em ensopado.",
+      "ingredientes": [
+        "800g acém bovino em peça",
+        "2 cebolas, 2 pimentões vermelhos, 3 dentes alho",
+        "4 tomates ou lata de tomate pelado",
+        "150ml vinho branco",
+        "100ml caldo",
+        "Folha louro, cominho, orégano",
+        "Azeitonas verdes, 1 colher vinagre",
+        "Arroz branco, feijão preto, tostones"
+      ],
+      "passos": [
+        "Cozinhe a carne em água por 1h30 até ficar macia; esfrie e desfie.",
+        "Refogue cebola, alho, pimentões; junte tomate, vinho e caldo.",
+        "Adicione azeitonas, vinagre, orégano e louro; cozinhe 15 min.",
+        "Junte a carne desfiada; cozinhe 10 min no molho.",
+        "Sirva com arroz, feijão preto e tostones de banana."
+      ],
+      "dica": "Cozinhe a carne com antecedência e desfie friamente — sai mais fácil.",
+      "isExtra": true,
+      "id": "cuba-ropa-vieja-m-0",
+      "pais": "Cuba",
+      "flag": "🇨🇺"
+    }
+  ]
+}

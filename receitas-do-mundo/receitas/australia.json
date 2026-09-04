@@ -1,0 +1,318 @@
+{
+  "pais": "Austrália",
+  "recipes": [
+    {
+      "id": "australia-meat-pie-com-molho-0",
+      "nome": "Meat Pie com Molho",
+      "pais": "Austrália",
+      "flag": "🇦🇺",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Meat Pie com Molho, um clássico de Austrália preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Austrália, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Meat Pie com Molho (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Meat Pie com Molho, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Meat Pie com Molho quente como manda a tradição."
+      ],
+      "dica": "Em Austrália, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "australia-shrimps-on-the-barbie-1",
+      "nome": "Shrimps on the Barbie",
+      "pais": "Austrália",
+      "flag": "🇦🇺",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Shrimps on the Barbie, um clássico de Austrália preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Austrália, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Shrimps on the Barbie (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Shrimps on the Barbie, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Shrimps on the Barbie quente como manda a tradição."
+      ],
+      "dica": "Em Austrália, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "australia-lamingtons-com-chocolate-e-coco-2",
+      "nome": "Lamingtons com Chocolate e Coco",
+      "pais": "Austrália",
+      "flag": "🇦🇺",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Lamingtons com Chocolate e Coco, um clássico de Austrália preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Austrália, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Lamingtons com Chocolate e Coco (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Lamingtons com Chocolate e Coco, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Lamingtons com Chocolate e Coco quente como manda a tradição."
+      ],
+      "dica": "Em Austrália, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "australia-vegemite-toast-3",
+      "nome": "Vegemite Toast",
+      "pais": "Austrália",
+      "flag": "🇦🇺",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Vegemite Toast, um clássico de Austrália preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Austrália, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Vegemite Toast (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Vegemite Toast, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Vegemite Toast quente como manda a tradição."
+      ],
+      "dica": "Em Austrália, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "australia-pavlova-com-frutas-4",
+      "nome": "Pavlova com Frutas",
+      "pais": "Austrália",
+      "flag": "🇦🇺",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Pavlova com Frutas, um clássico de Austrália preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Austrália, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pavlova com Frutas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pavlova com Frutas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pavlova com Frutas quente como manda a tradição."
+      ],
+      "dica": "Em Austrália, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "australia-anzac-biscuits-5",
+      "nome": "ANZAC Biscuits",
+      "pais": "Austrália",
+      "flag": "🇦🇺",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "ANZAC Biscuits, um clássico de Austrália preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Austrália, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para ANZAC Biscuits (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do ANZAC Biscuits, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o ANZAC Biscuits quente como manda a tradição."
+      ],
+      "dica": "Em Austrália, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "australia-chiko-roll-6",
+      "nome": "Chiko Roll",
+      "pais": "Austrália",
+      "flag": "🇦🇺",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Chiko Roll, um clássico de Austrália preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Austrália, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chiko Roll (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chiko Roll, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chiko Roll quente como manda a tradição."
+      ],
+      "dica": "Em Austrália, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "australia-flat-white--cafe-7",
+      "nome": "Flat White (Café)",
+      "pais": "Austrália",
+      "flag": "🇦🇺",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Flat White (Café), um clássico de Austrália preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Austrália, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Flat White (Café) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Flat White (Café), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Flat White (Café) quente como manda a tradição."
+      ],
+      "dica": "Em Austrália, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Meat Pie",
+      "pais": "Austrália",
+      "flag": "🇦🇺",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "6 tortas",
+      "dificuldade": "Média",
+      "desc": "Torta de carne moída com molho gravy dentro de massa folhada — comida icônica australiana.",
+      "historia": "Austrália consome mais de 270 milhões de pies por ano. É o lanche de jogo de futebol.",
+      "ingredientes": [
+        "2 discos massa quebrada (inferior) e folhada (superior)",
+        "500g carne moída (boi)",
+        "1 cebola, 2 dentes alho",
+        "2 colheres molho inglês",
+        "1 colher molho tomate",
+        "250ml caldo carne",
+        "2 colheres farinha",
+        "1 colher páprica",
+        "Sal, pimenta",
+        "1 ovo batido",
+        "Molho tomate (tomato sauce/ketchup) para servir"
+      ],
+      "passos": [
+        "Doure cebola e alho, adicione carne moída e doure.",
+        "Junte farinha, molhos, caldo; cozinhe 10 min até espesso; deixe esfriar.",
+        "Forre formas de 10cm com massa quebrada; coloque recheio frio.",
+        "Cubra com massa folhada; pincele ovo. Faça furo para vapor.",
+        "Asse 200°C por 25 min até dourar.",
+        "Sirva coberto com ketchup de tomate."
+      ],
+      "dica": "Recheio FRIO é obrigatório — massa folhada murcha com recheio quente.",
+      "isExtra": true,
+      "id": "australia-meat-pie-extra-0"
+    },
+    {
+      "nome": "Lamingtons",
+      "pais": "Austrália",
+      "flag": "🇦🇺",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "16 unidades",
+      "dificuldade": "Fácil",
+      "desc": "Quadrados de bolo esponja banhados em chocolate e coco ralado.",
+      "historia": "Criado em 1901 em homenagem ao Lord Lamington, governador de Queensland.",
+      "ingredientes": [
+        "Bolo esponja de baunilha 25x25cm (4 ovos, farinha, açúcar, manteiga, baunilha)",
+        "Cobertura: 300g açúcar confeiteiro, 3 colheres cacau, 20g manteiga, 100ml leite quente",
+        "Coco ralado seco QS"
+      ],
+      "passos": [
+        "Asse bolo, deixe esfriar, corte em cubos de 5cm.",
+        "Faça cobertura misturando cacau, açúcar, manteiga e leite quente.",
+        "Banhe cada cubo na cobertura quente, depois passe no coco.",
+        "Deixe secar sobre grade."
+      ],
+      "dica": "Bolo de véspera é melhor — mais firme para banhar.",
+      "isExtra": true,
+      "id": "australia-lamingtons-extra-1"
+    },
+    {
+      "nome": "Pavlova",
+      "categoria": "doces",
+      "tempo": "1h30 + resfriamento",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Merengue crocante por fora, macio por dentro, coberto com chantilly e frutas tropicais.",
+      "historia": "Disputada entre Austrália e Nova Zelândia; nomeada em homenagem à bailarina Anna Pavlova em 1920.",
+      "ingredientes": [
+        "4 claras de ovo em temperatura ambiente",
+        "250g açúcar",
+        "1 colher amido milho",
+        "1 colher vinagre branco",
+        "1 colher essência baunilha",
+        "Cobertura: 300ml creme de leite fresco batido, 50g açúcar, frutas vermelhas (morangos, amoras), kiwi, maracujá"
+      ],
+      "passos": [
+        "Bata claras em neve em velocidade baixa; aumente; adicione açúcar colher por colher batendo até formar picos MUITO firmes (8 min).",
+        "Peneire amido por cima; adicione vinagre e baunilha; misture de leve.",
+        "Modele em círculo 20cm em assadeira com papel; faça depressão no topo.",
+        "Asse a 120°C por 1h15 min; DESLIGUE, deixe ESFRIAR COMPLETAMENTE no forno com a porta entreaberta.",
+        "No momento de servir, cubra com chantilly e frutas; despeje maracujá."
+      ],
+      "dica": "Nunca abra o forno enquanto assa; esfriar lentamente é obrigatório para não rachar!",
+      "isExtra": true,
+      "id": "australia-pavlova-m-0",
+      "pais": "Austrália",
+      "flag": "🇦🇺"
+    }
+  ]
+}

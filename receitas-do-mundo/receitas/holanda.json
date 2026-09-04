@@ -1,0 +1,289 @@
+{
+  "pais": "Holanda",
+  "recipes": [
+    {
+      "id": "holanda-stroopwafels-com-caramelo-0",
+      "nome": "Stroopwafels com Caramelo",
+      "pais": "Holanda",
+      "flag": "🇳🇱",
+      "categoria": "doces",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Stroopwafels com Caramelo, um clássico de Holanda preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Holanda, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Stroopwafels com Caramelo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Stroopwafels com Caramelo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Stroopwafels com Caramelo quente como manda a tradição."
+      ],
+      "dica": "Em Holanda, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "holanda-bitterballen-com-mostarda-1",
+      "nome": "Bitterballen com Mostarda",
+      "pais": "Holanda",
+      "flag": "🇳🇱",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Bitterballen com Mostarda, um clássico de Holanda preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Holanda, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bitterballen com Mostarda (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bitterballen com Mostarda, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bitterballen com Mostarda quente como manda a tradição."
+      ],
+      "dica": "Em Holanda, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "holanda-haring-cru-com-cebola-2",
+      "nome": "Haring Cru com Cebola",
+      "pais": "Holanda",
+      "flag": "🇳🇱",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Haring Cru com Cebola, um clássico de Holanda preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Holanda, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Haring Cru com Cebola (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Haring Cru com Cebola, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Haring Cru com Cebola quente como manda a tradição."
+      ],
+      "dica": "Em Holanda, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "holanda-erwtensoep--sopa-de-ervilhas-3",
+      "nome": "Erwtensoep (Sopa de Ervilhas)",
+      "pais": "Holanda",
+      "flag": "🇳🇱",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Erwtensoep (Sopa de Ervilhas), um clássico de Holanda preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Holanda, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Erwtensoep (Sopa de Ervilhas) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Erwtensoep (Sopa de Ervilhas), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Erwtensoep (Sopa de Ervilhas) quente como manda a tradição."
+      ],
+      "dica": "Em Holanda, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "holanda-poffertjes--panquecas-miniaturas-4",
+      "nome": "Poffertjes (Panquecas Miniaturas)",
+      "pais": "Holanda",
+      "flag": "🇳🇱",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Poffertjes (Panquecas Miniaturas), um clássico de Holanda preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Holanda, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Poffertjes (Panquecas Miniaturas) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Poffertjes (Panquecas Miniaturas), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Poffertjes (Panquecas Miniaturas) quente como manda a tradição."
+      ],
+      "dica": "Em Holanda, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "holanda-hutspot-com-carne-5",
+      "nome": "Hutspot com Carne",
+      "pais": "Holanda",
+      "flag": "🇳🇱",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Hutspot com Carne, um clássico de Holanda preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Holanda, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Hutspot com Carne (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Hutspot com Carne, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Hutspot com Carne quente como manda a tradição."
+      ],
+      "dica": "Em Holanda, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "holanda-drop--alcacuz-holandes-6",
+      "nome": "Drop (Alcaçuz Holandês)",
+      "pais": "Holanda",
+      "flag": "🇳🇱",
+      "categoria": "doces",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Drop (Alcaçuz Holandês), um clássico de Holanda preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Holanda, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Drop (Alcaçuz Holandês) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Drop (Alcaçuz Holandês), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Drop (Alcaçuz Holandês) quente como manda a tradição."
+      ],
+      "dica": "Em Holanda, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "holanda-cerveja-heineken-7",
+      "nome": "Cerveja Heineken",
+      "pais": "Holanda",
+      "flag": "🇳🇱",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Cerveja Heineken, um clássico de Holanda preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Holanda, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Cerveja Heineken (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Cerveja Heineken, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Cerveja Heineken quente como manda a tradição."
+      ],
+      "dica": "Em Holanda, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Stroopwafels",
+      "pais": "Holanda",
+      "flag": "🇳🇱",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "10 waffles",
+      "dificuldade": "Média",
+      "desc": "Dois waffles finos com caramelo de melaço no meio — biscoito holandês clássico.",
+      "historia": "Criados em Gouda no século XVIII por padeiros usando sobras de massa com xarope. Servidos sobre chávena de café.",
+      "ingredientes": [
+        "300g farinha",
+        "120g manteiga derretida",
+        "100g açúcar mascavo",
+        "1 ovo",
+        "5g fermento seco",
+        "1 colher canela",
+        "Recheio stroop: 200g açúcar mascavo, 100g manteiga, 3 colheres melaço (stroop), canela"
+      ],
+      "passos": [
+        "Faça massa com todos ingredientes, deixe crescer 45 min.",
+        "Divida em 10 bolas.",
+        "Aqueça ferro de waffle pequeno; asse cada bola por 1–2 min até dourar.",
+        "Enquanto quente corte AO MEIO horizontalmente com faca serrilhada.",
+        "Faça caramelo: ferva açúcar+manteiga+melaço+canela até borbulhar.",
+        "Espalhe caramelo quente por uma metade; una.",
+        "Deixe esfriar e o caramelo unir as metades."
+      ],
+      "dica": "Sirva tradicionalmente colocado sobre uma xícara de café/Chocolate quente para amolecer!",
+      "isExtra": true,
+      "id": "holanda-stroopwafels-extra-0"
+    },
+    {
+      "nome": "Bitterballen",
+      "categoria": "salgados",
+      "tempo": "1h + resfriamento",
+      "porcoes": "20 unidades",
+      "dificuldade": "Média",
+      "desc": "Bolinhas crocantes de ragú de carne, servidas com mostarda em pubs.",
+      "historia": "Petisco nacional holandês, sempre acompanhado de uma cerveja gelada. São crocantes por fora, cremosas por dentro.",
+      "ingredientes": [
+        "Ragú: 30g manteiga, 30g farinha, 200ml caldo de carne, 200g carne cozida moída, cebola, mostarda, noz-moscada, sal, pimenta, salsinha",
+        "Farinha de rosca, 2 ovos batidos, farinha",
+        "Óleo para fritar (180°C)",
+        "Mostarda Dijon para servir"
+      ],
+      "passos": [
+        "Faça roux com manteiga e farinha; adicione caldo mexendo até ficar bechamel grosso.",
+        "Junte carne, cebola refogada, mostarda, noz-moscada, salsinha; tempere.",
+        "Espalhe em prato; gele 2h até ficar firme.",
+        "Modele bolinhas de 3cm; passe farinha→ovo→farinha de rosca.",
+        "Frite 4 min até dourar.",
+        "Sirva quente com mostarda."
+      ],
+      "dica": "Resfriar o ragú na geladeira é obrigatório para poder modelar as bolinhas.",
+      "isExtra": true,
+      "id": "holanda-bitterballen-m-0",
+      "pais": "Holanda",
+      "flag": "🇳🇱"
+    }
+  ]
+}

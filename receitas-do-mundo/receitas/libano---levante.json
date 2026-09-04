@@ -1,0 +1,257 @@
+{
+  "pais": "Líbano & Levante",
+  "recipes": [
+    {
+      "id": "libano---levante-hummus-beiruti-0",
+      "nome": "Hummus Beiruti",
+      "pais": "Líbano & Levante",
+      "flag": "🇱🇧",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Hummus Beiruti, um clássico de Líbano & Levante preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Líbano & Levante, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Hummus Beiruti (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Hummus Beiruti, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Hummus Beiruti quente como manda a tradição."
+      ],
+      "dica": "Em Líbano & Levante, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "libano---levante-shawarma-de-frango-1",
+      "nome": "Shawarma de Frango",
+      "pais": "Líbano & Levante",
+      "flag": "🇱🇧",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Shawarma de Frango, um clássico de Líbano & Levante preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Líbano & Levante, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Shawarma de Frango (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Shawarma de Frango, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Shawarma de Frango quente como manda a tradição."
+      ],
+      "dica": "Em Líbano & Levante, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "libano---levante-tabule-salada-de-trigo-2",
+      "nome": "Tabule Salada de Trigo",
+      "pais": "Líbano & Levante",
+      "flag": "🇱🇧",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tabule Salada de Trigo, um clássico de Líbano & Levante preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Líbano & Levante, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tabule Salada de Trigo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tabule Salada de Trigo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tabule Salada de Trigo quente como manda a tradição."
+      ],
+      "dica": "Em Líbano & Levante, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "libano---levante-kibbe-de-carne-e-trigo-3",
+      "nome": "Kibbe de Carne e Trigo",
+      "pais": "Líbano & Levante",
+      "flag": "🇱🇧",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Kibbe de Carne e Trigo, um clássico de Líbano & Levante preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Líbano & Levante, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Kibbe de Carne e Trigo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Kibbe de Carne e Trigo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Kibbe de Carne e Trigo quente como manda a tradição."
+      ],
+      "dica": "Em Líbano & Levante, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "libano---levante-mujadara-lentilhas-com-arroz-4",
+      "nome": "Mujadara Lentilhas com Arroz",
+      "pais": "Líbano & Levante",
+      "flag": "🇱🇧",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Mujadara Lentilhas com Arroz, um clássico de Líbano & Levante preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Líbano & Levante, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Mujadara Lentilhas com Arroz (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Mujadara Lentilhas com Arroz, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Mujadara Lentilhas com Arroz quente como manda a tradição."
+      ],
+      "dica": "Em Líbano & Levante, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "libano---levante-fattoush-com-pao-torrado-5",
+      "nome": "Fattoush com Pão Torrado",
+      "pais": "Líbano & Levante",
+      "flag": "🇱🇧",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Fattoush com Pão Torrado, um clássico de Líbano & Levante preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Líbano & Levante, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Fattoush com Pão Torrado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Fattoush com Pão Torrado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Fattoush com Pão Torrado quente como manda a tradição."
+      ],
+      "dica": "Em Líbano & Levante, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "libano---levante-baklava-com-mel-de-laranjeira-6",
+      "nome": "Baklava com Mel de Laranjeira",
+      "pais": "Líbano & Levante",
+      "flag": "🇱🇧",
+      "categoria": "doces",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Baklava com Mel de Laranjeira, um clássico de Líbano & Levante preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Líbano & Levante, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Baklava com Mel de Laranjeira (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Baklava com Mel de Laranjeira, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Baklava com Mel de Laranjeira quente como manda a tradição."
+      ],
+      "dica": "Em Líbano & Levante, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "libano---levante-arak-com-agua-e-gelo-7",
+      "nome": "Arak com Água e Gelo",
+      "pais": "Líbano & Levante",
+      "flag": "🇱🇧",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Arak com Água e Gelo, um clássico de Líbano & Levante preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Líbano & Levante, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Arak com Água e Gelo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Arak com Água e Gelo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Arak com Água e Gelo quente como manda a tradição."
+      ],
+      "dica": "Em Líbano & Levante, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "libano---levante-manakish-com-za-atar-8",
+      "nome": "Manakish com Za'atar",
+      "pais": "Líbano & Levante",
+      "flag": "🇱🇧",
+      "categoria": "cafemanha",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Manakish com Za'atar, um clássico de Líbano & Levante preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Líbano & Levante, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Manakish com Za'atar (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Manakish com Za'atar, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Manakish com Za'atar quente como manda a tradição."
+      ],
+      "dica": "Em Líbano & Levante, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    }
+  ]
+}

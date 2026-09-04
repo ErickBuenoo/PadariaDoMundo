@@ -1,0 +1,354 @@
+{
+  "pais": "Portugal",
+  "recipes": [
+    {
+      "id": "portugal-bacalhau-a-gomes-de-sa-0",
+      "nome": "Bacalhau à Gomes de Sá",
+      "pais": "Portugal",
+      "flag": "🇵🇹",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Bacalhau à Gomes de Sá, um clássico de Portugal preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Portugal, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bacalhau à Gomes de Sá (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bacalhau à Gomes de Sá, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bacalhau à Gomes de Sá quente como manda a tradição."
+      ],
+      "dica": "Em Portugal, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "portugal-caldo-verde-com-chourico-1",
+      "nome": "Caldo Verde com Chouriço",
+      "pais": "Portugal",
+      "flag": "🇵🇹",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Caldo Verde com Chouriço, um clássico de Portugal preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Portugal, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Caldo Verde com Chouriço (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Caldo Verde com Chouriço, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Caldo Verde com Chouriço quente como manda a tradição."
+      ],
+      "dica": "Em Portugal, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "portugal-ovos-moles-de-aveiro-2",
+      "nome": "Ovos Moles de Aveiro",
+      "pais": "Portugal",
+      "flag": "🇵🇹",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Ovos Moles de Aveiro, um clássico de Portugal preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Portugal, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Ovos Moles de Aveiro (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Ovos Moles de Aveiro, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Ovos Moles de Aveiro quente como manda a tradição."
+      ],
+      "dica": "Em Portugal, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "portugal-bola-de-lamego-3",
+      "nome": "Bola de Lamego",
+      "pais": "Portugal",
+      "flag": "🇵🇹",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Bola de Lamego, um clássico de Portugal preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Portugal, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bola de Lamego (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bola de Lamego, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bola de Lamego quente como manda a tradição."
+      ],
+      "dica": "Em Portugal, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "portugal-pao-de-lo-de-ovar-4",
+      "nome": "Pão de Ló de Ovar",
+      "pais": "Portugal",
+      "flag": "🇵🇹",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pão de Ló de Ovar, um clássico de Portugal preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Portugal, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pão de Ló de Ovar (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pão de Ló de Ovar, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pão de Ló de Ovar quente como manda a tradição."
+      ],
+      "dica": "Em Portugal, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "portugal-vinho-do-porto-com-queijo-da-serra-5",
+      "nome": "Vinho do Porto com Queijo da Serra",
+      "pais": "Portugal",
+      "flag": "🇵🇹",
+      "categoria": "bebidas",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Vinho do Porto com Queijo da Serra, um clássico de Portugal preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Portugal, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Vinho do Porto com Queijo da Serra (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Vinho do Porto com Queijo da Serra, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Vinho do Porto com Queijo da Serra quente como manda a tradição."
+      ],
+      "dica": "Em Portugal, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "portugal-leitao-a-bairrada-6",
+      "nome": "Leitão à Bairrada",
+      "pais": "Portugal",
+      "flag": "🇵🇹",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Leitão à Bairrada, um clássico de Portugal preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Portugal, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Leitão à Bairrada (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Leitão à Bairrada, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Leitão à Bairrada quente como manda a tradição."
+      ],
+      "dica": "Em Portugal, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "portugal-pasteis-de-bacalhau-7",
+      "nome": "Pastéis de Bacalhau",
+      "pais": "Portugal",
+      "flag": "🇵🇹",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Pastéis de Bacalhau, um clássico de Portugal preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Portugal, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pastéis de Bacalhau (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pastéis de Bacalhau, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pastéis de Bacalhau quente como manda a tradição."
+      ],
+      "dica": "Em Portugal, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "portugal-arroz-doce-com-canela-8",
+      "nome": "Arroz Doce com Canela",
+      "pais": "Portugal",
+      "flag": "🇵🇹",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Arroz Doce com Canela, um clássico de Portugal preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Portugal, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Arroz Doce com Canela (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Arroz Doce com Canela, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Arroz Doce com Canela quente como manda a tradição."
+      ],
+      "dica": "Em Portugal, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Bacalhau à Brás",
+      "pais": "Portugal",
+      "flag": "🇵🇹",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Bacalhau desfiado com batata palha fina, ovos cremosos e azeitonas.",
+      "historia": "Criado por taberneiro \"Brás\" no Bairro Alto de Lisboa no século XIX — um dos pratos mais populares de bacalhau (existem 365 receitas!).",
+      "ingredientes": [
+        "400g bacalhau dessalgado desfiado",
+        "300g batata palha FINA",
+        "2 cebolas em meias-luas",
+        "3 dentes alho",
+        "4 ovos grandes + 2 gemas",
+        "100ml azeite virgem extra",
+        "100ml leite",
+        "Salsa fresca picada",
+        "Azeitonas pretas",
+        "Sal, pimenta preta"
+      ],
+      "passos": [
+        "Dessalgue o bacalhau de véspera (3 trocas de água); cozinhe rapidamente em água, desfie retirando espinhas.",
+        "Refogue cebola e alho em azeite generoso até ficar translúcido.",
+        "Adicione bacalhau; refogue 3 min.",
+        "Em tigela bata ovos+gemas com leite, sal e pimenta.",
+        "Junte batata palha ao bacalhau; mexa 1 min.",
+        "Adicione ovos e mexa RAPIDAMENTE em fogo baixíssimo — ovos devem ficar CREMOSOS, não secos!",
+        "Desligue antes dos ovos ficarem totalmente cozidos (eles cozinham com o calor residual).",
+        "Sirva imediatamente com salsa e azeitonas pretas."
+      ],
+      "dica": "Ovos CREMOSOS são tudo — não cozinhe demais. Se ficar parecendo ovos mexidos secos, errou o ponto.",
+      "isExtra": true,
+      "id": "portugal-bacalhau-a-bras-extra-0"
+    },
+    {
+      "nome": "Caldo Verde",
+      "pais": "Portugal",
+      "flag": "🇵🇹",
+      "categoria": "sopas",
+      "tempo": "40 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sopa cremosa de batata com couve-galega finamente fatiada e rodelas de chouriço.",
+      "historia": "Do Minho, norte de Portugal, é a sopa nacional — presença garantida em todas as festas.",
+      "ingredientes": [
+        "6 batatas grandes (700g) descascadas",
+        "1 cebola grande, 2 alhos",
+        "200g couve-galega cortada MUITO FINAMENTE",
+        "1 chouriço de carne em rodelas",
+        "3 colheres azeite extravirgem + extra para servir",
+        "1,5L água (ou caldo)",
+        "Sal marinho",
+        "Broa de milho para acompanhar"
+      ],
+      "passos": [
+        "Cozinhe batatas em rodelas com cebola, alho e azeite na água por 20 min até desmancharem.",
+        "Bata com mixer ou passe em espremedor para ficar creme.",
+        "Volte ao fogo; quando ferver adicione chouriço e a couve.",
+        "Cozinhe APENAS 3–4 min — couve deve ficar verde-brilhante, não marrom mole.",
+        "Ajuste sal.",
+        "Sirva com rodela de chouriço, fio generoso de azeite cru e broa de milho."
+      ],
+      "dica": "Couve fatiada finíssima (como papel) e cozida POUCO tempo. Couve mole não é caldo verde!",
+      "isExtra": true,
+      "id": "portugal-caldo-verde-extra-1"
+    },
+    {
+      "nome": "Pastel de Nata (Pastéis de Belém)",
+      "categoria": "doces",
+      "tempo": "1h30",
+      "porcoes": "12 unidades",
+      "dificuldade": "Difícil",
+      "desc": "Tartes de massa folhada com creme de ovos queimadas, polvilhadas canela.",
+      "historia": "Criados por monges do Mosteiro dos Jerônimos em Belém no século XVIII. A receita é segredo da Fábrica desde 1837.",
+      "ingredientes": [
+        "300g massa folhada amanteigada enrolada em cilindro",
+        "Creme: 250ml leite, casca limão, pau canela, 30g farinha, 200g açúcar, 80ml água, 4 gemas",
+        "Canela em pó e açúcar confeiteiro (opcional)"
+      ],
+      "passos": [
+        "Corte o rolo de massa em discos 1cm; forre formas de metal pressionando do centro para bordas.",
+        "Ferva leite com casca e canela.",
+        "Dissolva farinha em um pouco de leite; junte.",
+        "Faça calda de açúcar+água a 100°C; junte ao leite.",
+        "Tempere; adicione gemas peneiradas.",
+        "Coe; encha formas 3/4.",
+        "Asse a 270°C por 12–15 min — DEVE ficar com manchas queimadas (sinal de pastel autêntico).",
+        "Desenforme mornos; polvilhe canela a gosto."
+      ],
+      "dica": "Forno MUITO quente (270°C+) é obrigatório para criar as manchas neras típicas do Pastel de Belém!",
+      "isExtra": true,
+      "id": "portugal-pastel-de-nata--pasteis-de-belem-m-0",
+      "pais": "Portugal",
+      "flag": "🇵🇹"
+    }
+  ]
+}

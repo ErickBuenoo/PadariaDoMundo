@@ -1,0 +1,320 @@
+{
+  "pais": "Reino Unido",
+  "recipes": [
+    {
+      "id": "reino-unido-full-english-breakfast-0",
+      "nome": "Full English Breakfast",
+      "pais": "Reino Unido",
+      "flag": "🇬🇧",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Full English Breakfast, um clássico de Reino Unido preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Reino Unido, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Full English Breakfast (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Full English Breakfast, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Full English Breakfast quente como manda a tradição."
+      ],
+      "dica": "Em Reino Unido, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "reino-unido-shepherd-s-pie--torta-do-pastor-1",
+      "nome": "Shepherd's Pie (Torta do Pastor)",
+      "pais": "Reino Unido",
+      "flag": "🇬🇧",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Shepherd's Pie (Torta do Pastor), um clássico de Reino Unido preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Reino Unido, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Shepherd's Pie (Torta do Pastor) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Shepherd's Pie (Torta do Pastor), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Shepherd's Pie (Torta do Pastor) quente como manda a tradição."
+      ],
+      "dica": "Em Reino Unido, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "reino-unido-cornish-pasty-2",
+      "nome": "Cornish Pasty",
+      "pais": "Reino Unido",
+      "flag": "🇬🇧",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Cornish Pasty, um clássico de Reino Unido preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Reino Unido, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Cornish Pasty (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Cornish Pasty, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Cornish Pasty quente como manda a tradição."
+      ],
+      "dica": "Em Reino Unido, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "reino-unido-eton-mess-3",
+      "nome": "Eton Mess",
+      "pais": "Reino Unido",
+      "flag": "🇬🇧",
+      "categoria": "doces",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Eton Mess, um clássico de Reino Unido preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Reino Unido, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Eton Mess (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Eton Mess, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Eton Mess quente como manda a tradição."
+      ],
+      "dica": "Em Reino Unido, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "reino-unido-scones-com-clotted-cream-4",
+      "nome": "Scones com Clotted Cream",
+      "pais": "Reino Unido",
+      "flag": "🇬🇧",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Scones com Clotted Cream, um clássico de Reino Unido preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Reino Unido, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Scones com Clotted Cream (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Scones com Clotted Cream, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Scones com Clotted Cream quente como manda a tradição."
+      ],
+      "dica": "Em Reino Unido, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "reino-unido-pint-de-cerveja-ale-5",
+      "nome": "Pint de Cerveja Ale",
+      "pais": "Reino Unido",
+      "flag": "🇬🇧",
+      "categoria": "bebidas",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pint de Cerveja Ale, um clássico de Reino Unido preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Reino Unido, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pint de Cerveja Ale (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pint de Cerveja Ale, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pint de Cerveja Ale quente como manda a tradição."
+      ],
+      "dica": "Em Reino Unido, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "reino-unido-beef-wellington-6",
+      "nome": "Beef Wellington",
+      "pais": "Reino Unido",
+      "flag": "🇬🇧",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Beef Wellington, um clássico de Reino Unido preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Reino Unido, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Beef Wellington (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Beef Wellington, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Beef Wellington quente como manda a tradição."
+      ],
+      "dica": "Em Reino Unido, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "reino-unido-sticky-toffee-pudding-7",
+      "nome": "Sticky Toffee Pudding",
+      "pais": "Reino Unido",
+      "flag": "🇬🇧",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sticky Toffee Pudding, um clássico de Reino Unido preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Reino Unido, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sticky Toffee Pudding (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sticky Toffee Pudding, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sticky Toffee Pudding quente como manda a tradição."
+      ],
+      "dica": "Em Reino Unido, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "reino-unido-scotch-eggs-8",
+      "nome": "Scotch Eggs",
+      "pais": "Reino Unido",
+      "flag": "🇬🇧",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Scotch Eggs, um clássico de Reino Unido preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Reino Unido, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Scotch Eggs (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Scotch Eggs, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Scotch Eggs quente como manda a tradição."
+      ],
+      "dica": "Em Reino Unido, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Scones com Clotted Cream",
+      "categoria": "cafemanha",
+      "tempo": "40 min",
+      "porcoes": "8 scones",
+      "dificuldade": "Fácil",
+      "desc": "Pãezinhos servidos no chá da tarde com nata espessa e geleia de morango.",
+      "historia": "Clássico do Afternoon Tea instituído por Anna Russell, Duquesa de Bedford, nos anos 1840.",
+      "ingredientes": [
+        "350g farinha autolevedante",
+        "1 colher fermento",
+        "50g manteiga fria em cubos",
+        "25g açúcar",
+        "1 pitada sal",
+        "150ml leite",
+        "1 ovo batido para pincelar",
+        "Clotted cream e geleia de morango"
+      ],
+      "passos": [
+        "Faça farofa de farinha e manteiga com pontas dos dedos.",
+        "Adicione açúcar e leite; misture RAPIDAMENTE sem sovar.",
+        "Abra 3cm de espessura; corte círculos 6cm.",
+        "Pincele ovo. Asse 220°C por 12–15 min até altos e dourados.",
+        "Sirva mornos partidos ao meio com clotted cream e geleia."
+      ],
+      "dica": "Não trabalhe a massa — misture só até incorporar; senão os scones ficam duros.",
+      "isExtra": true,
+      "id": "reino-unido-scones-com-clotted-cream-m-0",
+      "pais": "Reino Unido",
+      "flag": "🇬🇧"
+    },
+    {
+      "nome": "Shepherd's Pie",
+      "categoria": "pratos",
+      "tempo": "1h20",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Torta de carne moída de cordeiro com cobertura de purê de batata gratinado.",
+      "historia": "Prato camponês medieval inglês — versão com carne de vaca chama-se Cottage Pie.",
+      "ingredientes": [
+        "500g carne cordeiro moída (ou boi)",
+        "1 cebola, 2 cenouras, 2 dentes alho",
+        "2 colheres molho inglês",
+        "2 colheres extrato tomate",
+        "200ml caldo carne",
+        "1 colher farinha",
+        "Ervilhas congeladas",
+        "Purê: 1kg batatas, 50g manteiga, 100ml leite, noz-moscada",
+        "Queijo ralado para gratinar"
+      ],
+      "passos": [
+        "Refogue cebola, cenoura, alho; doure carne.",
+        "Adicione farinha, extrato, molho inglês, caldo; cozinhe 20 min.",
+        "Junte ervilhas; transfira para refratário.",
+        "Faça purê de batatas; espalhe sobre carne, marque textura com garfo.",
+        "Polvilhe queijo; asse a 200°C por 30 min até borbulhar e dourar."
+      ],
+      "dica": "A textura do purê com garfo cria sulcos que ficam crocantes no forno.",
+      "isExtra": true,
+      "id": "reino-unido-shepherd-s-pie-m-1",
+      "pais": "Reino Unido",
+      "flag": "🇬🇧"
+    }
+  ]
+}

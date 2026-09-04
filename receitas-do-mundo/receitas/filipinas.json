@@ -1,0 +1,293 @@
+{
+  "pais": "Filipinas",
+  "recipes": [
+    {
+      "id": "filipinas-adobo-de-frango-e-porco-0",
+      "nome": "Adobo de Frango e Porco",
+      "pais": "Filipinas",
+      "flag": "🇵🇭",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Adobo de Frango e Porco, um clássico de Filipinas preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Filipinas, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Adobo de Frango e Porco (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Adobo de Frango e Porco, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Adobo de Frango e Porco quente como manda a tradição."
+      ],
+      "dica": "Em Filipinas, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "filipinas-sinigang-sopa-azeda-de-tamarindo-1",
+      "nome": "Sinigang Sopa Azeda de Tamarindo",
+      "pais": "Filipinas",
+      "flag": "🇵🇭",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Sinigang Sopa Azeda de Tamarindo, um clássico de Filipinas preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Filipinas, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sinigang Sopa Azeda de Tamarindo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sinigang Sopa Azeda de Tamarindo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sinigang Sopa Azeda de Tamarindo quente como manda a tradição."
+      ],
+      "dica": "Em Filipinas, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "filipinas-lechon--leitao-assado-inteiro-2",
+      "nome": "Lechon (Leitão Assado Inteiro)",
+      "pais": "Filipinas",
+      "flag": "🇵🇭",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Lechon (Leitão Assado Inteiro), um clássico de Filipinas preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Filipinas, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Lechon (Leitão Assado Inteiro) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Lechon (Leitão Assado Inteiro), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Lechon (Leitão Assado Inteiro) quente como manda a tradição."
+      ],
+      "dica": "Em Filipinas, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "filipinas-kare-kare-com-molho-amendoim-3",
+      "nome": "Kare-Kare com Molho Amendoim",
+      "pais": "Filipinas",
+      "flag": "🇵🇭",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Kare-Kare com Molho Amendoim, um clássico de Filipinas preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Filipinas, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Kare-Kare com Molho Amendoim (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Kare-Kare com Molho Amendoim, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Kare-Kare com Molho Amendoim quente como manda a tradição."
+      ],
+      "dica": "Em Filipinas, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "filipinas-halo-halo-com-gelo-raspado-4",
+      "nome": "Halo-Halo com Gelo Raspado",
+      "pais": "Filipinas",
+      "flag": "🇵🇭",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Halo-Halo com Gelo Raspado, um clássico de Filipinas preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Filipinas, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Halo-Halo com Gelo Raspado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Halo-Halo com Gelo Raspado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Halo-Halo com Gelo Raspado quente como manda a tradição."
+      ],
+      "dica": "Em Filipinas, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "filipinas-ube-halaya-doce-roxo-5",
+      "nome": "Ube Halaya Doce Roxo",
+      "pais": "Filipinas",
+      "flag": "🇵🇭",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Ube Halaya Doce Roxo, um clássico de Filipinas preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Filipinas, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Ube Halaya Doce Roxo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Ube Halaya Doce Roxo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Ube Halaya Doce Roxo quente como manda a tradição."
+      ],
+      "dica": "Em Filipinas, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "filipinas-pandesal-pao-do-cafe-da-manha-6",
+      "nome": "Pandesal Pão do Café da Manhã",
+      "pais": "Filipinas",
+      "flag": "🇵🇭",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Pandesal Pão do Café da Manhã, um clássico de Filipinas preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Filipinas, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pandesal Pão do Café da Manhã (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pandesal Pão do Café da Manhã, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pandesal Pão do Café da Manhã quente como manda a tradição."
+      ],
+      "dica": "Em Filipinas, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "filipinas-lumpia-rolinhos-primavera-7",
+      "nome": "Lumpia Rolinhos Primavera",
+      "pais": "Filipinas",
+      "flag": "🇵🇭",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Lumpia Rolinhos Primavera, um clássico de Filipinas preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Filipinas, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Lumpia Rolinhos Primavera (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Lumpia Rolinhos Primavera, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Lumpia Rolinhos Primavera quente como manda a tradição."
+      ],
+      "dica": "Em Filipinas, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Adobo de Frango e Porco",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Carne cozida em vinagre, shoyu, alho e louro — prato nacional filipino.",
+      "historia": "Adobo vem do espanhol \"adobar\" (marinar). É antigo método de conservar carne antes da refrigeração.",
+      "ingredientes": [
+        "600g coxas de frango",
+        "300g barriga de porco em cubos",
+        "80ml vinagre de cana (vinagre branco serve)",
+        "80ml shoyu",
+        "8 dentes alho esmagados",
+        "1 colher pimenta preta em grãos",
+        "2 folhas louro",
+        "1 colher açúcar",
+        "Óleo, 100ml água",
+        "Arroz branco para servir"
+      ],
+      "passos": [
+        "Em panela coloque todos ingredientes MENOS óleo; deixe marinar 30 min.",
+        "Leve a ferver; abaixe fogo, tampe, cozinhe 30 min virando de vez em quando.",
+        "Retire tampa, deixe reduzir o molho.",
+        "Sele carnes em óleo quente para dourar; volte ao molho apurado.",
+        "Sirva com arroz branco, regue com molho."
+      ],
+      "dica": "A proporção vinagre:shoyu = 1:1. O vinagre cozinha e conserva — o sabor azedo-salgado é inconfundível.",
+      "isExtra": true,
+      "id": "filipinas-adobo-de-frango-e-porco-m-0",
+      "pais": "Filipinas",
+      "flag": "🇵🇭"
+    },
+    {
+      "nome": "Halo-Halo",
+      "categoria": "doces",
+      "tempo": "10 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sobremesa gelada com gelo moído, leite evaporado, frutas doces, feijão doce, flan e ube halaya.",
+      "historia": "Halo-halo significa \"mistura-mistura\" — é a sobremesa nacional das Filipinas, feita em copos altos.",
+      "ingredientes": [
+        "Gelo moído bem fininho",
+        "Leite evaporado e leite condensado",
+        "Ube halaya (doce roxo de inhame)",
+        "Flan caramel em cubos",
+        "Feijão vermelho doce, grão-de-bico doce",
+        "Frutas em calda (coco, banana, jackfruit)",
+        "Nata de coco, kaong (palmeira doce)",
+        "Sorvete ube (roxos) no topo"
+      ],
+      "passos": [
+        "Em copos altos coloque colheradas de cada doce: feijão, frutas, nata.",
+        "Encha com gelo moído até o topo.",
+        "Despeje leite evaporado e condensado.",
+        "Coloque sorvete de ube no topo.",
+        "Sirva com colher longa; MISTURE TUDO ao comer (halo-halo!)."
+      ],
+      "dica": "Misturar BEM ao comer — a graça é os sabores todos misturados.",
+      "isExtra": true,
+      "id": "filipinas-halo-halo-m-1",
+      "pais": "Filipinas",
+      "flag": "🇵🇭"
+    }
+  ]
+}

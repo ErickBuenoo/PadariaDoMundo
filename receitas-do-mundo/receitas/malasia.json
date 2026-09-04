@@ -1,0 +1,232 @@
+{
+  "pais": "Malásia",
+  "recipes": [
+    {
+      "id": "malasia-nasi-lemak-arroz-de-coco-0",
+      "nome": "Nasi Lemak Arroz de Coco",
+      "pais": "Malásia",
+      "flag": "🇲🇾",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Nasi Lemak Arroz de Coco, um clássico de Malásia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Malásia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Nasi Lemak Arroz de Coco (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Nasi Lemak Arroz de Coco, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Nasi Lemak Arroz de Coco quente como manda a tradição."
+      ],
+      "dica": "Em Malásia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "malasia-laksa-de-penang-sopa-de-macarrao-picante-1",
+      "nome": "Laksa de Penang Sopa de Macarrão Picante",
+      "pais": "Malásia",
+      "flag": "🇲🇾",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Laksa de Penang Sopa de Macarrão Picante, um clássico de Malásia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Malásia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Laksa de Penang Sopa de Macarrão Picante (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Laksa de Penang Sopa de Macarrão Picante, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Laksa de Penang Sopa de Macarrão Picante quente como manda a tradição."
+      ],
+      "dica": "Em Malásia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "malasia-roti-canai-pao-indiano-malaio-2",
+      "nome": "Roti Canai Pão Indiano Malaio",
+      "pais": "Malásia",
+      "flag": "🇲🇾",
+      "categoria": "cafemanha",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Roti Canai Pão Indiano Malaio, um clássico de Malásia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Malásia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Roti Canai Pão Indiano Malaio (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Roti Canai Pão Indiano Malaio, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Roti Canai Pão Indiano Malaio quente como manda a tradição."
+      ],
+      "dica": "Em Malásia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "malasia-char-kway-teow-macarrao-frito-3",
+      "nome": "Char Kway Teow Macarrão Frito",
+      "pais": "Malásia",
+      "flag": "🇲🇾",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Char Kway Teow Macarrão Frito, um clássico de Malásia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Malásia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Char Kway Teow Macarrão Frito (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Char Kway Teow Macarrão Frito, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Char Kway Teow Macarrão Frito quente como manda a tradição."
+      ],
+      "dica": "Em Malásia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "malasia-satay-celup-com-molho-amendoim-4",
+      "nome": "Satay Celup com Molho Amendoim",
+      "pais": "Malásia",
+      "flag": "🇲🇾",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Satay Celup com Molho Amendoim, um clássico de Malásia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Malásia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Satay Celup com Molho Amendoim (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Satay Celup com Molho Amendoim, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Satay Celup com Molho Amendoim quente como manda a tradição."
+      ],
+      "dica": "Em Malásia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "malasia-teh-tarik-cha-puxado-com-leite-5",
+      "nome": "Teh Tarik Chá Puxado com Leite",
+      "pais": "Malásia",
+      "flag": "🇲🇾",
+      "categoria": "bebidas",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Teh Tarik Chá Puxado com Leite, um clássico de Malásia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Malásia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Teh Tarik Chá Puxado com Leite (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Teh Tarik Chá Puxado com Leite, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Teh Tarik Chá Puxado com Leite quente como manda a tradição."
+      ],
+      "dica": "Em Malásia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "malasia-kuih-talam-bicolor-6",
+      "nome": "Kuih Talam Bicolor",
+      "pais": "Malásia",
+      "flag": "🇲🇾",
+      "categoria": "doces",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Kuih Talam Bicolor, um clássico de Malásia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Malásia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Kuih Talam Bicolor (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Kuih Talam Bicolor, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Kuih Talam Bicolor quente como manda a tradição."
+      ],
+      "dica": "Em Malásia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Laksa de Penang",
+      "categoria": "sopas",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Difícil",
+      "desc": "Sopa picante azeda de macarrão com caldo de peixe, ervas, camarão e leite de coco na versão assam laksa.",
+      "historia": "Penang Laksa é famoso mundo afora — o caldo é feito de peixe com tamarindo, capim-limão e flores de gengibre.",
+      "ingredientes": [
+        "Macarrão de arroz (laksa)",
+        "500g peixe (cavala/sardinha) cozido desfiado",
+        "Caldo da cozedura do peixe",
+        "Capim-limão, galanga, pimentas secas",
+        "Tamarindo (assam) para dar azedo",
+        "Daun kesum (hortelã vietnamita), flores de torch ginger",
+        "Camarões cozidos, pepino ralado, abacaxi, cebola roxa, hortelã, ovo cozido",
+        "Haekoe (pasta de camarão preto) opcional"
+      ],
+      "passos": [
+        "Cozinhe o peixe em água; desfie; reserve caldo.",
+        "Bata capim-limão, galanga, pimenta; cozinhe no caldo 15 min; coe.",
+        "Adicione peixe desfiado, tamarindo e ervas.",
+        "Cozinhe macarrão; escorra.",
+        "Monte: macarrão em tigelas; caldo quente por cima; guarnições à parte para cada um se servir."
+      ],
+      "dica": "Laksa é SOPA DE ERVAS — capim-limão e daun kesum são obrigatórios.",
+      "isExtra": true,
+      "id": "malasia-laksa-de-penang-m-0",
+      "pais": "Malásia",
+      "flag": "🇲🇾"
+    }
+  ]
+}

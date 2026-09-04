@@ -1,0 +1,351 @@
+{
+  "pais": "Espanha",
+  "recipes": [
+    {
+      "id": "espanha-tortilla-de-patatas-com-cebola-0",
+      "nome": "Tortilla de Patatas com Cebola",
+      "pais": "Espanha",
+      "flag": "🇪🇸",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Tortilla de Patatas com Cebola, um clássico de Espanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Espanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tortilla de Patatas com Cebola (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tortilla de Patatas com Cebola, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tortilla de Patatas com Cebola quente como manda a tradição."
+      ],
+      "dica": "Em Espanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "espanha-gazpacho-andaluz-1",
+      "nome": "Gazpacho Andaluz",
+      "pais": "Espanha",
+      "flag": "🇪🇸",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Gazpacho Andaluz, um clássico de Espanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Espanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Gazpacho Andaluz (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Gazpacho Andaluz, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Gazpacho Andaluz quente como manda a tradição."
+      ],
+      "dica": "Em Espanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "espanha-jamon-iberico-com-pao-e-tomate-2",
+      "nome": "Jamón Ibérico com Pão e Tomate",
+      "pais": "Espanha",
+      "flag": "🇪🇸",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Jamón Ibérico com Pão e Tomate, um clássico de Espanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Espanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Jamón Ibérico com Pão e Tomate (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Jamón Ibérico com Pão e Tomate, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Jamón Ibérico com Pão e Tomate quente como manda a tradição."
+      ],
+      "dica": "Em Espanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "espanha-turron-de-alicante-3",
+      "nome": "Turrón de Alicante",
+      "pais": "Espanha",
+      "flag": "🇪🇸",
+      "categoria": "doces",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Turrón de Alicante, um clássico de Espanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Espanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Turrón de Alicante (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Turrón de Alicante, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Turrón de Alicante quente como manda a tradição."
+      ],
+      "dica": "Em Espanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "espanha-pan-con-tomate-4",
+      "nome": "Pan con Tomate",
+      "pais": "Espanha",
+      "flag": "🇪🇸",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pan con Tomate, um clássico de Espanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Espanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pan con Tomate (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pan con Tomate, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pan con Tomate quente como manda a tradição."
+      ],
+      "dica": "Em Espanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "espanha-sangria-de-frutas-5",
+      "nome": "Sangria de Frutas",
+      "pais": "Espanha",
+      "flag": "🇪🇸",
+      "categoria": "bebidas",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Sangria de Frutas, um clássico de Espanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Espanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sangria de Frutas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sangria de Frutas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sangria de Frutas quente como manda a tradição."
+      ],
+      "dica": "Em Espanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "espanha-pulpo-a-la-gallega-6",
+      "nome": "Pulpo a la Gallega",
+      "pais": "Espanha",
+      "flag": "🇪🇸",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Pulpo a la Gallega, um clássico de Espanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Espanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pulpo a la Gallega (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pulpo a la Gallega, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pulpo a la Gallega quente como manda a tradição."
+      ],
+      "dica": "Em Espanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "espanha-calamares-a-la-romana-7",
+      "nome": "Calamares a la Romana",
+      "pais": "Espanha",
+      "flag": "🇪🇸",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Calamares a la Romana, um clássico de Espanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Espanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Calamares a la Romana (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Calamares a la Romana, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Calamares a la Romana quente como manda a tradição."
+      ],
+      "dica": "Em Espanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "espanha-crema-catalana-8",
+      "nome": "Crema Catalana",
+      "pais": "Espanha",
+      "flag": "🇪🇸",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Crema Catalana, um clássico de Espanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Espanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Crema Catalana (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Crema Catalana, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Crema Catalana quente como manda a tradição."
+      ],
+      "dica": "Em Espanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Pulpo a la Gallega",
+      "pais": "Espanha",
+      "flag": "🇪🇸",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Polvo cozido em água fervendo com batatas, salpicado de páprica e azeite.",
+      "historia": "Prato mais famoso da Galiza, servido em tabernas sobre prato de madeira.",
+      "ingredientes": [
+        "1 polvo de 1,5kg (ou 1kg pernas congeladas)",
+        "4 batatas galegas (pequenas)",
+        "Sal grosso (flor de sal)",
+        "Páprica doce e picante",
+        "Azeite galego extravirgem generoso"
+      ],
+      "passos": [
+        "Se usar polvo fresco, bata ou congele para amaciar (congelamento substitui batida).",
+        "Ferva água em panela grande; pegue o polvo pela cabeça e mergulhe 3 vezes (entrando e saindo) antes de soltar — isso enrola os tentáculos.",
+        "Cozinhe 30–40 min a 100°C fervendo leve (se ferver muito a pele estraga).",
+        "Desligue, deixe descansar 10 min na água.",
+        "Cozinhe batatas na mesma água do polvo.",
+        "Corte tentáculos em fatias de 1cm com tesoura (tradicional!).",
+        "Disponha sobre prato de madeira com batatas; salpique páprica, sal grosso e MUITO azeite."
+      ],
+      "dica": "O polvo deve estar tenro mas não desmanchando — espete com palito; quando entra suave está pronto.",
+      "isExtra": true,
+      "id": "espanha-pulpo-a-la-gallega-extra-0"
+    },
+    {
+      "nome": "Churros con Chocolate",
+      "pais": "Espanha",
+      "flag": "🇪🇸",
+      "categoria": "doces",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Massa choux frita em formato estriado, polvilhada com açúcar e canela, mergulhada em chocolate grosso.",
+      "historia": "Introduzidos pelos pastores espanhóis nas montanhas, os churros são o café da manhã icônico servido em churrerías.",
+      "ingredientes": [
+        "250ml água",
+        "50g manteiga",
+        "1 pitada sal",
+        "1 colher açúcar",
+        "150g farinha trigo",
+        "2 ovos",
+        "Óleo para fritar",
+        "Chocolate grosso: 200g chocolate amargo 70%, 200ml leite, 1 colher manteiga",
+        "Açúcar com canela para polvilhar"
+      ],
+      "passos": [
+        "Ferva água com manteiga, sal e açúcar. Retire do fogo e adicione farinha de uma vez; mexa vigorosamente.",
+        "Volte ao fogo 1 min secando a massa; transfira.",
+        "Deixe amornar e adicione ovos um a um.",
+        "Coloque em manga de confeitar com bico estrela grande.",
+        "Frite tiras de 10 cm em óleo 180°C até dourar.",
+        "Escorra e passe no açúcar com canela.",
+        "Aqueça leite, desligue, derreta chocolate e manteiga; mexa até ficar liso e grosso.",
+        "Serva quente para mergulhar."
+      ],
+      "dica": "O bico estrela é essencial para ficar com sulcos que acumulam chocolate!",
+      "isExtra": true,
+      "id": "espanha-churros-con-chocolate-extra-1"
+    },
+    {
+      "nome": "Tortilla Española",
+      "categoria": "salgados",
+      "tempo": "50 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Omelete grossa de batata e cebola — prato nacional espanhol.",
+      "historia": "Surgiu em Navarra no século XVIII. É comida a qualquer hora, em qualquer lugar da Espanha.",
+      "ingredientes": [
+        "6 ovos grandes",
+        "1kg batatas (monalisa ou yukon)",
+        "1 cebola grande (opcional mas tradicional)",
+        "Sal grosso",
+        "Azeite virgem extra (para fritar)"
+      ],
+      "passos": [
+        "Corte batatas em fatias finas de 3mm; seque.",
+        "Em azeite morno (não muito quente) cozinhe batatas e cebola por 15 min sem dourar (escalfando); escorra bem.",
+        "Bata ovos com sal, misture com batatas; deixe descansar 5 min.",
+        "Em frigideira antiaderente (22cm), coloque mistura em azeite quente; cozinhe 4 min.",
+        "Vire com ajuda de prato; cozinhe mais 3 min.",
+        "Deixe mornear antes de fatiar."
+      ],
+      "dica": "Deixe a tortilla morna — a tortilla espanhola não é comida quente, é ambiente/morna.",
+      "isExtra": true,
+      "id": "espanha-tortilla-espanola-m-0",
+      "pais": "Espanha",
+      "flag": "🇪🇸"
+    }
+  ]
+}

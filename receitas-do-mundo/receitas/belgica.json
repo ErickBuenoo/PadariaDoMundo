@@ -1,0 +1,324 @@
+{
+  "pais": "Bélgica",
+  "recipes": [
+    {
+      "id": "belgica-waffles-de-liege-com-acucar-perlado-0",
+      "nome": "Waffles de Liège com Açúcar Perlado",
+      "pais": "Bélgica",
+      "flag": "🇧🇪",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Waffles de Liège com Açúcar Perlado, um clássico de Bélgica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Bélgica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Waffles de Liège com Açúcar Perlado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Waffles de Liège com Açúcar Perlado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Waffles de Liège com Açúcar Perlado quente como manda a tradição."
+      ],
+      "dica": "Em Bélgica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "belgica-moules-frites--mexilhoes-com-batatas-1",
+      "nome": "Moules-Frites (Mexilhões com Batatas)",
+      "pais": "Bélgica",
+      "flag": "🇧🇪",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Moules-Frites (Mexilhões com Batatas), um clássico de Bélgica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Bélgica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Moules-Frites (Mexilhões com Batatas) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Moules-Frites (Mexilhões com Batatas), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Moules-Frites (Mexilhões com Batatas) quente como manda a tradição."
+      ],
+      "dica": "Em Bélgica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "belgica-carbonnade-flamande-2",
+      "nome": "Carbonnade Flamande",
+      "pais": "Bélgica",
+      "flag": "🇧🇪",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Carbonnade Flamande, um clássico de Bélgica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Bélgica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Carbonnade Flamande (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Carbonnade Flamande, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Carbonnade Flamande quente como manda a tradição."
+      ],
+      "dica": "Em Bélgica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "belgica-waterzooi-de-frango-3",
+      "nome": "Waterzooi de Frango",
+      "pais": "Bélgica",
+      "flag": "🇧🇪",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Waterzooi de Frango, um clássico de Bélgica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Bélgica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Waterzooi de Frango (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Waterzooi de Frango, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Waterzooi de Frango quente como manda a tradição."
+      ],
+      "dica": "Em Bélgica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "belgica-speculoos--biscoitos-de-canela-4",
+      "nome": "Speculoos (Biscoitos de Canela)",
+      "pais": "Bélgica",
+      "flag": "🇧🇪",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Speculoos (Biscoitos de Canela), um clássico de Bélgica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Bélgica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Speculoos (Biscoitos de Canela) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Speculoos (Biscoitos de Canela), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Speculoos (Biscoitos de Canela) quente como manda a tradição."
+      ],
+      "dica": "Em Bélgica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "belgica-chocolates-belgas-artesanais-5",
+      "nome": "Chocolates Belgas Artesanais",
+      "pais": "Bélgica",
+      "flag": "🇧🇪",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Chocolates Belgas Artesanais, um clássico de Bélgica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Bélgica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chocolates Belgas Artesanais (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chocolates Belgas Artesanais, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chocolates Belgas Artesanais quente como manda a tradição."
+      ],
+      "dica": "Em Bélgica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "belgica-pao-cervejeiro-6",
+      "nome": "Pão Cervejeiro",
+      "pais": "Bélgica",
+      "flag": "🇧🇪",
+      "categoria": "paes",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pão Cervejeiro, um clássico de Bélgica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Bélgica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pão Cervejeiro (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pão Cervejeiro, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pão Cervejeiro quente como manda a tradição."
+      ],
+      "dica": "Em Bélgica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "belgica-cerveja-trapista-7",
+      "nome": "Cerveja Trapista",
+      "pais": "Bélgica",
+      "flag": "🇧🇪",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Cerveja Trapista, um clássico de Bélgica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Bélgica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Cerveja Trapista (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Cerveja Trapista, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Cerveja Trapista quente como manda a tradição."
+      ],
+      "dica": "Em Bélgica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "belgica-stoofvlees-com-batatas-8",
+      "nome": "Stoofvlees com Batatas",
+      "pais": "Bélgica",
+      "flag": "🇧🇪",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Stoofvlees com Batatas, um clássico de Bélgica preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Bélgica, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Stoofvlees com Batatas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Stoofvlees com Batatas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Stoofvlees com Batatas quente como manda a tradição."
+      ],
+      "dica": "Em Bélgica, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Moules-Frites",
+      "pais": "Bélgica",
+      "flag": "🇧🇪",
+      "categoria": "pratos",
+      "tempo": "25 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Mexilhões cozidos no vapor com vinho branco, salsão, cebola e creme — servidos com batatas fritas.",
+      "historia": "O prato nacional belga, especialmente da costa flamenga. É tradicionalmente comido com as mãos usando casca vazia como pinça.",
+      "ingredientes": [
+        "2kg mexilhões frescos limpos (barbas retiradas)",
+        "200ml vinho branco seco",
+        "1 cebola picada",
+        "1 talo salsão",
+        "2 dentes alho",
+        "100ml creme de leite fresco",
+        "50g manteiga",
+        "Salsa picada, louro, tomilho",
+        "Batatas fritas crocantes",
+        "Maionese caseira"
+      ],
+      "passos": [
+        "Lave mexilhões, jogue fora os quebrados e os que não fecham ao bater.",
+        "Em panela grande de ferro derreta manteiga, refogue cebola, salsão, alho, ervas.",
+        "Junte vinho; ferva.",
+        "Adicione mexilhões TUDO DE UMA VEZ; tampe.",
+        "Cozinhe em fogo alto, sacudindo panela, por 4–5 min até todos abrirem (jogue fora os que não abriram).",
+        "Adicione creme e salsa; mexa.",
+        "Sirva IMEDIATAMENTE com fritas e maionese."
+      ],
+      "dica": "Mexilhões cozinham MUITO rápido. Quando abrem estão prontos. Se cozinhar demais borracham.",
+      "isExtra": true,
+      "id": "belgica-moules-frites-extra-0"
+    },
+    {
+      "nome": "Waffles de Liège",
+      "categoria": "cafemanha",
+      "tempo": "2h",
+      "porcoes": "10 waffles",
+      "dificuldade": "Média",
+      "desc": "Waffles densos doces com açúcar perlado que carameliza na máquina.",
+      "historia": "Waffles de Liège são diferentes de Bruxelas — mais densos, doces e com açúcar perolado que carameliza.",
+      "ingredientes": [
+        "350g farinha",
+        "150ml leite morno",
+        "7g fermento",
+        "2 ovos",
+        "100g manteiga amolecida",
+        "1 colher canela",
+        "1 pitada sal",
+        "150g açúcar perolado belga"
+      ],
+      "passos": [
+        "Faça massa com farinha, leite, fermento, ovos, manteiga, canela, sal; sove bem.",
+        "Deixe crescer 1h.",
+        "Incorpore açúcar perlado GENTILMENTE no final (sem amassar muito).",
+        "Divida em 10 bolas; descanse 15 min.",
+        "Cozinhe na máquina de waffle por 2–3 min até dourar profundamente.",
+        "Sirva puro ou com chocolate/frutas."
+      ],
+      "dica": "Açúcar PERLADO belga não se dissolve no calor — forma cristais caramelizados crocantes.",
+      "isExtra": true,
+      "id": "belgica-waffles-de-liege-m-0",
+      "pais": "Bélgica",
+      "flag": "🇧🇪"
+    }
+  ]
+}

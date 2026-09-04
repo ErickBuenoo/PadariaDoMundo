@@ -1,0 +1,36 @@
+{
+  "pais": "Costa Rica",
+  "recipes": [
+    {
+      "nome": "Gallo Pinto",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Mistura de arroz e feijão preto fritos com cebola e pimentão — café da manhã costarriquenho.",
+      "historia": "\"Galo Pinto\" = galo pintado. É o prato nacional da Costa Rica, mistura de arroz e feijão de véspera.",
+      "ingredientes": [
+        "2 xícaras arroz branco cozido de véspera",
+        "1 xícara feijão preto cozido com um pouco do caldo",
+        "1 cebola, 1 pimentão, 2 dentes alho",
+        "Salsa Lizano (molho costarriquenho)",
+        "Coentro picado",
+        "Ovos fritos, banana madura frita, queijo turrialba",
+        "Tortilhas de milho",
+        "Café forte"
+      ],
+      "passos": [
+        "Refogue cebola, pimentão e alho.",
+        "Junte feijão com um pouco do caldo; cozinhe 3 min.",
+        "Adicione arroz, misture bem com a colher, deixe tostar levemente.",
+        "Tempere com Salsa Lizano e coentro.",
+        "Sirva com ovo frito por cima, banana frita, queijo e tortilhas."
+      ],
+      "dica": "Arroz e feijão DE VÉSPERA é fundamental — arroz fresco empapa.",
+      "isExtra": true,
+      "id": "costa-rica-gallo-pinto-m-0",
+      "pais": "Costa Rica",
+      "flag": "🇨🇷"
+    }
+  ]
+}

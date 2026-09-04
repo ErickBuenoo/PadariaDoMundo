@@ -1,0 +1,33 @@
+{
+  "pais": "Arábia Saudita",
+  "recipes": [
+    {
+      "nome": "Kabsa",
+      "categoria": "pratos",
+      "tempo": "1h30",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Arroz basmati com especiarias e frango/cordeiro assado — prato nacional da Península Arábica.",
+      "historia": "Kabsa é prato do Golfo, também chamado machbūs no resto da região. Arroz cozinha no caldo aromatizado.",
+      "ingredientes": [
+        "600g coxas de frango inteiras com pele",
+        "4 xícaras arroz basmati longo",
+        "2 cebolas, 4 dentes alho",
+        "4 tomates, 2 colheres extrato",
+        "Especiarias: baharat, cardamomo preto, canela, cravo, louro, limão seco (loomi), açafrão",
+        "Amêndoas e passas douradas tostadas para decorar"
+      ],
+      "passos": [
+        "Doure cebola e alho em azeite/ghee; junte especiarias.",
+        "Adicione frango e doure; junte tomates e extrato; cubra com água; cozinhe 40 min.",
+        "Retire frango; leve ao forno para dourar. No caldo cozinhe arroz 20 min.",
+        "Sirva arroz com frango dourado por cima, polvilhe amêndoas e passas."
+      ],
+      "dica": "Limão seco preto persa (loomi) dá sabor cítrico fermentado inconfundível.",
+      "isExtra": true,
+      "id": "arabia-saudita-kabsa-m-0",
+      "pais": "Arábia Saudita",
+      "flag": "🇸🇦"
+    }
+  ]
+}

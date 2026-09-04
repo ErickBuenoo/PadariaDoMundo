@@ -1,0 +1,318 @@
+{
+  "pais": "Marrocos",
+  "recipes": [
+    {
+      "id": "marrocos-tagine-de-frango-com-limao-confit-0",
+      "nome": "Tagine de Frango com Limão Confit",
+      "pais": "Marrocos",
+      "flag": "🇲🇦",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Tagine de Frango com Limão Confit, um clássico de Marrocos preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Marrocos, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tagine de Frango com Limão Confit (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tagine de Frango com Limão Confit, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tagine de Frango com Limão Confit quente como manda a tradição."
+      ],
+      "dica": "Em Marrocos, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "marrocos-harira-do-ramada-1",
+      "nome": "Harira do Ramadã",
+      "pais": "Marrocos",
+      "flag": "🇲🇦",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Harira do Ramadã, um clássico de Marrocos preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Marrocos, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Harira do Ramadã (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Harira do Ramadã, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Harira do Ramadã quente como manda a tradição."
+      ],
+      "dica": "Em Marrocos, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "marrocos-pastilla--torta-doce-salgada-de-pombo-2",
+      "nome": "Pastilla (Torta Doce-Salgada de Pombo)",
+      "pais": "Marrocos",
+      "flag": "🇲🇦",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Pastilla (Torta Doce-Salgada de Pombo), um clássico de Marrocos preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Marrocos, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pastilla (Torta Doce-Salgada de Pombo) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pastilla (Torta Doce-Salgada de Pombo), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pastilla (Torta Doce-Salgada de Pombo) quente como manda a tradição."
+      ],
+      "dica": "Em Marrocos, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "marrocos-briouats-de-queijo-3",
+      "nome": "Briouats de Queijo",
+      "pais": "Marrocos",
+      "flag": "🇲🇦",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Briouats de Queijo, um clássico de Marrocos preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Marrocos, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Briouats de Queijo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Briouats de Queijo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Briouats de Queijo quente como manda a tradição."
+      ],
+      "dica": "Em Marrocos, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "marrocos-khobz--pao-marroquino-4",
+      "nome": "Khobz (Pão Marroquino)",
+      "pais": "Marrocos",
+      "flag": "🇲🇦",
+      "categoria": "paes",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Khobz (Pão Marroquino), um clássico de Marrocos preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Marrocos, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Khobz (Pão Marroquino) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Khobz (Pão Marroquino), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Khobz (Pão Marroquino) quente como manda a tradição."
+      ],
+      "dica": "Em Marrocos, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "marrocos-cha-de-hortela-com-amendoas-5",
+      "nome": "Chá de Hortelã com Amêndoas",
+      "pais": "Marrocos",
+      "flag": "🇲🇦",
+      "categoria": "bebidas",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Chá de Hortelã com Amêndoas, um clássico de Marrocos preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Marrocos, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chá de Hortelã com Amêndoas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chá de Hortelã com Amêndoas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chá de Hortelã com Amêndoas quente como manda a tradição."
+      ],
+      "dica": "Em Marrocos, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "marrocos-msemen-folhado-6",
+      "nome": "Msemen Folhado",
+      "pais": "Marrocos",
+      "flag": "🇲🇦",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Msemen Folhado, um clássico de Marrocos preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Marrocos, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Msemen Folhado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Msemen Folhado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Msemen Folhado quente como manda a tradição."
+      ],
+      "dica": "Em Marrocos, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "marrocos-zaalouk--salada-de-berinjela-7",
+      "nome": "Zaalouk (Salada de Berinjela)",
+      "pais": "Marrocos",
+      "flag": "🇲🇦",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Zaalouk (Salada de Berinjela), um clássico de Marrocos preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Marrocos, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Zaalouk (Salada de Berinjela) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Zaalouk (Salada de Berinjela), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Zaalouk (Salada de Berinjela) quente como manda a tradição."
+      ],
+      "dica": "Em Marrocos, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "marrocos-chebakia-com-gergelim-8",
+      "nome": "Chebakia com Gergelim",
+      "pais": "Marrocos",
+      "flag": "🇲🇦",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Chebakia com Gergelim, um clássico de Marrocos preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Marrocos, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chebakia com Gergelim (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chebakia com Gergelim, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chebakia com Gergelim quente como manda a tradição."
+      ],
+      "dica": "Em Marrocos, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Msemen",
+      "categoria": "cafemanha",
+      "tempo": "2h",
+      "porcoes": "10 unidades",
+      "dificuldade": "Média",
+      "desc": "Pão achatado quadrado folhado, manteigado, servido no café com mel.",
+      "historia": "Msemen (ou rghaif) é folhado magrebino, feito dobrado como um envelope.",
+      "ingredientes": [
+        "300g farinha trigo",
+        "200g sêmola fina",
+        "7g fermento",
+        "1 colher açúcar, 1 colher sal",
+        "250ml água morna",
+        "Manteiga derretida misturada com sêmola para dobrar"
+      ],
+      "passos": [
+        "Faça massa macia; descanse 30 min.",
+        "Divida em 10 bolas; unte e descanse 30 min.",
+        "Abra MUITO fina na superfície untada, polvilhe sêmola/manteiga.",
+        "Dobre bordas para dentro formando quadrado.",
+        "Aqueça chapa; asse msemen dos dois lados em fogo médio pincelando manteiga.",
+        "Sirva quente com mel ou queijo."
+      ],
+      "dica": "Quanto mais fina abrir a massa, mais folhado fica o msemen.",
+      "isExtra": true,
+      "id": "marrocos-msemen-m-0",
+      "pais": "Marrocos",
+      "flag": "🇲🇦"
+    },
+    {
+      "nome": "Cuscuz Marroquino",
+      "categoria": "pratos",
+      "tempo": "1h30",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Sêmola de trigo cozida a vapor, com sete legumes e cordeiro/frango.",
+      "historia": "Cuscuz é prato nacional berbere. Patrimônio UNESCO desde 2020. Cozido em camadas na cuscuzeira.",
+      "ingredientes": [
+        "500g sêmola média cuscuz",
+        "Azeite, sal, manteiga",
+        "4 coxas frango",
+        "500g cordeiro em cubos",
+        "Grão-de-bico (1 xícara demolhado)",
+        "Cenouras, nabos, abobrinhas, abóbora, tomate, cebola",
+        "2 colheres ras el hanout, gengibre, cúrcuma, pimenta, açafrão",
+        "Harissa para acompanhar"
+      ],
+      "passos": [
+        "Cozinhe carnes e legumes firmes na parte inferior da cuscuzeira por 30 min.",
+        "Umedeça cuscuz com água salgada e azeite; coloque no cesto superior a vapor por 15 min.",
+        "Retire cuscuz; trabalhe com manteiga.",
+        "Adicione legumes macios e grão-de-bico; vaporize mais 20 min com cuscuz em cima.",
+        "Sirva cuscuz em monte com carnes e legumes por cima, caldo e harissa separados."
+      ],
+      "dica": "O cuscuz é cozido NO VAPOR — nunca em água diretamente! Este é o erro comum.",
+      "isExtra": true,
+      "id": "marrocos-cuscuz-marroquino-m-1",
+      "pais": "Marrocos",
+      "flag": "🇲🇦"
+    }
+  ]
+}

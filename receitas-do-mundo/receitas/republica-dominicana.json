@@ -1,0 +1,34 @@
+{
+  "pais": "República Dominicana",
+  "recipes": [
+    {
+      "nome": "Mangú",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Purê de banana verde cozida com cebola roxa dourada — café da manhã dominicano.",
+      "historia": "Parte do \"Los Tres Golpes\": mangú com queijo frito, salami frito e ovos — o café da manhã dominicano.",
+      "ingredientes": [
+        "4 bananas verdes descascadas em rodelas",
+        "Sal",
+        "50g manteiga",
+        "Água de cozimento (quente)",
+        "2 cebolas roxas em rodelas",
+        "Vinagre",
+        "Acompanhamentos: salami dominicano frito, queijo branco frito, ovos fritos"
+      ],
+      "passos": [
+        "Cozinhe bananas em água salgada até amaciarem.",
+        "Enquanto isso doure cebolas em vinagre com azeite.",
+        "Escorra bananas reservando água; amasse com manteiga e água suficiente para ficar purê grosso.",
+        "Sirva com cebolas vinagre por cima, acompanhado de queijo, salami e ovos fritos."
+      ],
+      "dica": "Mangú deve ser bem grosso, sem grumos — amasse ainda quente.",
+      "isExtra": true,
+      "id": "republica-dominicana-mangu-m-0",
+      "pais": "República Dominicana",
+      "flag": "🇩🇴"
+    }
+  ]
+}

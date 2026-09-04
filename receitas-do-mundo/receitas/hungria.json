@@ -1,0 +1,264 @@
+{
+  "pais": "Hungria",
+  "recipes": [
+    {
+      "id": "hungria-goulash-sopa-de-carne-e-paprica-0",
+      "nome": "Goulash Sopa de Carne e Páprica",
+      "pais": "Hungria",
+      "flag": "🇭🇺",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Goulash Sopa de Carne e Páprica, um clássico de Hungria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Hungria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Goulash Sopa de Carne e Páprica (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Goulash Sopa de Carne e Páprica, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Goulash Sopa de Carne e Páprica quente como manda a tradição."
+      ],
+      "dica": "Em Hungria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "hungria-lecso-prato-de-pimentao-e-tomate-1",
+      "nome": "Lecsó Prato de Pimentão e Tomate",
+      "pais": "Hungria",
+      "flag": "🇭🇺",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Lecsó Prato de Pimentão e Tomate, um clássico de Hungria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Hungria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Lecsó Prato de Pimentão e Tomate (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Lecsó Prato de Pimentão e Tomate, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Lecsó Prato de Pimentão e Tomate quente como manda a tradição."
+      ],
+      "dica": "Em Hungria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "hungria-paprikash-de-frango-com-natas-2",
+      "nome": "Paprikash de Frango com Natas",
+      "pais": "Hungria",
+      "flag": "🇭🇺",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Paprikash de Frango com Natas, um clássico de Hungria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Hungria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Paprikash de Frango com Natas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Paprikash de Frango com Natas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Paprikash de Frango com Natas quente como manda a tradição."
+      ],
+      "dica": "Em Hungria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "hungria-toltott-kaposzta-rolinhos-repolho-3",
+      "nome": "Töltött Káposzta Rolinhos Repolho",
+      "pais": "Hungria",
+      "flag": "🇭🇺",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Töltött Káposzta Rolinhos Repolho, um clássico de Hungria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Hungria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Töltött Káposzta Rolinhos Repolho (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Töltött Káposzta Rolinhos Repolho, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Töltött Káposzta Rolinhos Repolho quente como manda a tradição."
+      ],
+      "dica": "Em Hungria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "hungria-dobos-torta-caramelizada-4",
+      "nome": "Dobos Torta Caramelizada",
+      "pais": "Hungria",
+      "flag": "🇭🇺",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Dobos Torta Caramelizada, um clássico de Hungria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Hungria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Dobos Torta Caramelizada (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Dobos Torta Caramelizada, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Dobos Torta Caramelizada quente como manda a tradição."
+      ],
+      "dica": "Em Hungria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "hungria-kurtoskalacs-pao-chamine-5",
+      "nome": "Kürtőskalács Pão Chaminé",
+      "pais": "Hungria",
+      "flag": "🇭🇺",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Kürtőskalács Pão Chaminé, um clássico de Hungria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Hungria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Kürtőskalács Pão Chaminé (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Kürtőskalács Pão Chaminé, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Kürtőskalács Pão Chaminé quente como manda a tradição."
+      ],
+      "dica": "Em Hungria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "hungria-pao-de-paprica-6",
+      "nome": "Pão de Páprica",
+      "pais": "Hungria",
+      "flag": "🇭🇺",
+      "categoria": "paes",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Pão de Páprica, um clássico de Hungria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Hungria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pão de Páprica (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pão de Páprica, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pão de Páprica quente como manda a tradição."
+      ],
+      "dica": "Em Hungria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "hungria-tokaji-aszu-vinho-de-sobremesa-7",
+      "nome": "Tokaji Aszú Vinho de Sobremesa",
+      "pais": "Hungria",
+      "flag": "🇭🇺",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tokaji Aszú Vinho de Sobremesa, um clássico de Hungria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Hungria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tokaji Aszú Vinho de Sobremesa (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tokaji Aszú Vinho de Sobremesa, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tokaji Aszú Vinho de Sobremesa quente como manda a tradição."
+      ],
+      "dica": "Em Hungria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Goulash (Gulyás)",
+      "categoria": "sopas",
+      "tempo": "2h30",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sopa/ensopado de carne com páprica húngara, servido com nokedli (massa caseira).",
+      "historia": "Gulyás = pastor de gado em húngaro. Era a comida dos pastores magiares cozida em caldeirões no campo.",
+      "ingredientes": [
+        "800g acém boi em cubos",
+        "2 cebolas grandes picadas",
+        "2 cenouras, 2 batatas",
+        "1 pimentão, 2 tomates",
+        "3 colheres páprica DOCE húngara",
+        "1 colher cominho, alho, louro",
+        "Banha ou óleo",
+        "Sal, pimenta",
+        "Nokedli: 200g farinha, 1 ovo, 100ml água, sal (massa caseira)"
+      ],
+      "passos": [
+        "Doure cebola na banha até ficar dourada clara.",
+        "Junte carne, doure.",
+        "Retire fogo, adicione páprica (NÃO QUEIME!).",
+        "Junte cominho, alho, tomate, pimentão.",
+        "Cubra com água, cozinhe tampado em fogo baixo 1h30.",
+        "Adicione cenoura e batata; cozinhe mais 25 min.",
+        "Enquanto isso faça nokedli: bata massa mole, corte pedacinhos e cozinhe na água fervendo.",
+        "Sirva goulash com nokedli dentro ao lado."
+      ],
+      "dica": "Páprica HÚNGARA de QUALIDADE é o segredo. Páprica barata amarga e é fraca!",
+      "isExtra": true,
+      "id": "hungria-goulash--gulyas-m-0",
+      "pais": "Hungria",
+      "flag": "🇭🇺"
+    }
+  ]
+}

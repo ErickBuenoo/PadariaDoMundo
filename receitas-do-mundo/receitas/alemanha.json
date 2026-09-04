@@ -1,0 +1,289 @@
+{
+  "pais": "Alemanha",
+  "recipes": [
+    {
+      "id": "alemanha-currywurst-com-batatas-fritas-0",
+      "nome": "Currywurst com Batatas Fritas",
+      "pais": "Alemanha",
+      "flag": "🇩🇪",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Currywurst com Batatas Fritas, um clássico de Alemanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Alemanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Currywurst com Batatas Fritas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Currywurst com Batatas Fritas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Currywurst com Batatas Fritas quente como manda a tradição."
+      ],
+      "dica": "Em Alemanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "alemanha-sopa-de-ervilhas-com-bacon-1",
+      "nome": "Sopa de Ervilhas com Bacon",
+      "pais": "Alemanha",
+      "flag": "🇩🇪",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sopa de Ervilhas com Bacon, um clássico de Alemanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Alemanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sopa de Ervilhas com Bacon (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sopa de Ervilhas com Bacon, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sopa de Ervilhas com Bacon quente como manda a tradição."
+      ],
+      "dica": "Em Alemanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "alemanha-apfelstrudel-com-creme-2",
+      "nome": "Apfelstrudel com Creme",
+      "pais": "Alemanha",
+      "flag": "🇩🇪",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Apfelstrudel com Creme, um clássico de Alemanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Alemanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Apfelstrudel com Creme (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Apfelstrudel com Creme, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Apfelstrudel com Creme quente como manda a tradição."
+      ],
+      "dica": "Em Alemanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "alemanha-maultaschen-da-baviera-3",
+      "nome": "Maultaschen da Baviera",
+      "pais": "Alemanha",
+      "flag": "🇩🇪",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Maultaschen da Baviera, um clássico de Alemanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Alemanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Maultaschen da Baviera (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Maultaschen da Baviera, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Maultaschen da Baviera quente como manda a tradição."
+      ],
+      "dica": "Em Alemanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "alemanha-pao-de-centeio-com-sementes-4",
+      "nome": "Pão de Centeio com Sementes",
+      "pais": "Alemanha",
+      "flag": "🇩🇪",
+      "categoria": "paes",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Pão de Centeio com Sementes, um clássico de Alemanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Alemanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pão de Centeio com Sementes (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pão de Centeio com Sementes, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pão de Centeio com Sementes quente como manda a tradição."
+      ],
+      "dica": "Em Alemanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "alemanha-kolsch--cerveja-de-colonia-5",
+      "nome": "Kölsch (Cerveja de Colônia)",
+      "pais": "Alemanha",
+      "flag": "🇩🇪",
+      "categoria": "bebidas",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Kölsch (Cerveja de Colônia), um clássico de Alemanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Alemanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Kölsch (Cerveja de Colônia) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Kölsch (Cerveja de Colônia), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Kölsch (Cerveja de Colônia) quente como manda a tradição."
+      ],
+      "dica": "Em Alemanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "alemanha-weisswurst-com-mostarda-doce-6",
+      "nome": "Weisswurst com Mostarda Doce",
+      "pais": "Alemanha",
+      "flag": "🇩🇪",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Weisswurst com Mostarda Doce, um clássico de Alemanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Alemanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Weisswurst com Mostarda Doce (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Weisswurst com Mostarda Doce, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Weisswurst com Mostarda Doce quente como manda a tradição."
+      ],
+      "dica": "Em Alemanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "alemanha-kartoffelsalat--salada-de-batata-7",
+      "nome": "Kartoffelsalat (Salada de Batata)",
+      "pais": "Alemanha",
+      "flag": "🇩🇪",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Kartoffelsalat (Salada de Batata), um clássico de Alemanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Alemanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Kartoffelsalat (Salada de Batata) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Kartoffelsalat (Salada de Batata), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Kartoffelsalat (Salada de Batata) quente como manda a tradição."
+      ],
+      "dica": "Em Alemanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "alemanha-kasespatzle-8",
+      "nome": "Käsespätzle",
+      "pais": "Alemanha",
+      "flag": "🇩🇪",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Käsespätzle, um clássico de Alemanha preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Alemanha, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Käsespätzle (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Käsespätzle, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Käsespätzle quente como manda a tradição."
+      ],
+      "dica": "Em Alemanha, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Schwarzwälder Kirschtorte",
+      "pais": "Alemanha",
+      "flag": "🇩🇪",
+      "categoria": "doces",
+      "tempo": "3h + geladeira",
+      "porcoes": "12 fatias",
+      "dificuldade": "Difícil",
+      "desc": "Bolo Floresta Negra de chocolate com cerejas ao kirsch, chantilly e raspas de chocolate.",
+      "historia": "Criado na região da Floresta Negra em 1915 pelo confeiteiro Josef Keller. O kirsch (aguardente de cereja) é indispensável.",
+      "ingredientes": [
+        "Bolo: 6 ovos, 180g açúcar, 120g farinha, 40g cacau 50%, 40g manteiga derretida",
+        "Recheio: 700g cerejas pretas (frescas ou vidro, escorra reservando caldo)",
+        "80ml Kirschwasser (aguardente de cereja)",
+        "Calda: 100g açúcar + 100ml água + 50ml kirsch",
+        "Cobertura: 800ml creme de leite fresco batido com 40g açúcar",
+        "500g chocolate meio amargo ralado/flocos",
+        "Cerejas inteiras com talo para decorar"
+      ],
+      "passos": [
+        "Asse bolo de chocolate esponjoso (bata ovos+açúcar em banho-maria); divida em 3 discos após frio.",
+        "Faça calda simples com açúcar e água, misture kirsch.",
+        "Regue os discos com calda.",
+        "Monte camadas: bolo, chantilly, cerejas; bolo, chantilly, cerejas; bolo.",
+        "Cubra todo bolo com chantilly.",
+        "Decore laterais com flocos de chocolate; topo com rosetas de chantilly e cerejas.",
+        "Gele 4h antes de servir."
+      ],
+      "dica": "Deixe o bolo descansar 1 dia na geladeira — o kirsch penetra no bolo e fica incomparável.",
+      "isExtra": true,
+      "id": "alemanha-schwarzwalder-kirschtorte-extra-0"
+    }
+  ]
+}

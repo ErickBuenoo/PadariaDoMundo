@@ -1,0 +1,372 @@
+{
+  "pais": "Índia",
+  "recipes": [
+    {
+      "id": "india-curry-de-lentilhas--dal-makhani-0",
+      "nome": "Curry de Lentilhas (Dal Makhani)",
+      "pais": "Índia",
+      "flag": "🇮🇳",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Curry de Lentilhas (Dal Makhani), um clássico de Índia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Índia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Curry de Lentilhas (Dal Makhani) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Curry de Lentilhas (Dal Makhani), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Curry de Lentilhas (Dal Makhani) quente como manda a tradição."
+      ],
+      "dica": "Em Índia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "india-frango-tikka-masala-1",
+      "nome": "Frango Tikka Masala",
+      "pais": "Índia",
+      "flag": "🇮🇳",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Frango Tikka Masala, um clássico de Índia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Índia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Frango Tikka Masala (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Frango Tikka Masala, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Frango Tikka Masala quente como manda a tradição."
+      ],
+      "dica": "Em Índia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "india-rogan-josh-de-cordeiro-2",
+      "nome": "Rogan Josh de Cordeiro",
+      "pais": "Índia",
+      "flag": "🇮🇳",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Rogan Josh de Cordeiro, um clássico de Índia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Índia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Rogan Josh de Cordeiro (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Rogan Josh de Cordeiro, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Rogan Josh de Cordeiro quente como manda a tradição."
+      ],
+      "dica": "Em Índia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "india-sopa-mulligatawny-3",
+      "nome": "Sopa Mulligatawny",
+      "pais": "Índia",
+      "flag": "🇮🇳",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sopa Mulligatawny, um clássico de Índia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Índia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sopa Mulligatawny (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sopa Mulligatawny, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sopa Mulligatawny quente como manda a tradição."
+      ],
+      "dica": "Em Índia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "india-jalebi--doce-em-espiral-4",
+      "nome": "Jalebi (doce em espiral)",
+      "pais": "Índia",
+      "flag": "🇮🇳",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Jalebi (doce em espiral), um clássico de Índia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Índia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Jalebi (doce em espiral) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Jalebi (doce em espiral), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Jalebi (doce em espiral) quente como manda a tradição."
+      ],
+      "dica": "Em Índia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "india-pakora-de-legumes-5",
+      "nome": "Pakora de Legumes",
+      "pais": "Índia",
+      "flag": "🇮🇳",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pakora de Legumes, um clássico de Índia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Índia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pakora de Legumes (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pakora de Legumes, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pakora de Legumes quente como manda a tradição."
+      ],
+      "dica": "Em Índia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "india-paratha-recheada-6",
+      "nome": "Paratha Recheada",
+      "pais": "Índia",
+      "flag": "🇮🇳",
+      "categoria": "paes",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Paratha Recheada, um clássico de Índia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Índia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Paratha Recheada (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Paratha Recheada, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Paratha Recheada quente como manda a tradição."
+      ],
+      "dica": "Em Índia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "india-lassi-de-manga-7",
+      "nome": "Lassi de Manga",
+      "pais": "Índia",
+      "flag": "🇮🇳",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Lassi de Manga, um clássico de Índia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Índia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Lassi de Manga (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Lassi de Manga, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Lassi de Manga quente como manda a tradição."
+      ],
+      "dica": "Em Índia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "india-idli-com-chutney-de-coco-8",
+      "nome": "Idli com Chutney de Coco",
+      "pais": "Índia",
+      "flag": "🇮🇳",
+      "categoria": "cafemanha",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Idli com Chutney de Coco, um clássico de Índia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Índia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Idli com Chutney de Coco (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Idli com Chutney de Coco, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Idli com Chutney de Coco quente como manda a tradição."
+      ],
+      "dica": "Em Índia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Butter Chicken (Murgh Makhani)",
+      "pais": "Índia",
+      "flag": "🇮🇳",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Frango tandoori em molho cremoso de tomate com manteiga — o prato indiano mais famoso do mundo.",
+      "historia": "Criado nos anos 50 em Delhi no restaurante Moti Mahal por acidente, usando sobras de frango tandoori.",
+      "ingredientes": [
+        "600g coxas de frango sem pele/cortadas em cubos",
+        "Marinada tandoori: 150g iogurte, 2 colheres garam masala, 1 cúrcuma, 1 cominho, gengibre+alho, suco limão, 1 colher colorau",
+        "Molho: 800g tomates pelados, 1 cebola, 4 alhos, gengibre, 2 garam masala, 1 cominho, 1 coentro em pó",
+        "100g manteiga sem sal",
+        "150ml creme de leite",
+        "1 colher mel ou açúcar",
+        "Kasuri methi (feno-grego seco esmagado)",
+        "Sal, coentro",
+        "Arroz basmati, naan"
+      ],
+      "passos": [
+        "Marine frango por 2h+; grelhe/forne 12 min a 220°C (deve ficar dourado mas não totalmente cozido).",
+        "Para molho: refogue cebola, alho, gengibre, temperos, junte tomates batidos; cozinhe 25 min; bata lisinho e coe (opcional).",
+        "Volte molho à panela, adicione 80g manteiga e creme; cozinhe 10 min.",
+        "Adicione frango; cozinhe 8 min até ficar macio.",
+        "Finalize com kasuri methi esmagado entre os dedos, resto da manteiga.",
+        "Sirva com naan e arroz."
+      ],
+      "dica": "Kasuri methi esmagado NO FINAL é o toque que faz butter chicken autêntico — não omita!",
+      "isExtra": true,
+      "id": "india-butter-chicken--murgh-makhani-extra-0"
+    },
+    {
+      "nome": "Masala Dosa",
+      "pais": "Índia",
+      "flag": "🇮🇳",
+      "categoria": "cafemanha",
+      "tempo": "12h fermentação",
+      "porcoes": "6 dosas",
+      "dificuldade": "Difícil",
+      "desc": "Crepe crocante de arroz e lentilha fermentados, recheado com batata masala — café da manhã do sul da Índia.",
+      "historia": "Prato milenar de Karnataka e Tamil Nadu, comido no café da manhã em todo o sul, servido com chutney de coco e sambar.",
+      "ingredientes": [
+        "Dosa: 200g arroz parboilizado, 50g urad dal (lentilha preta), 1 colher feno-grego, sal",
+        "Recheio: 4 batatas cozidas amassadas, 1 cebola, mostarda preta, curry, 1 pimenta verde, gengibre, cúrcuma, coentro, suco limão",
+        "Chutney de coco: 100g coco ralado fresco, pimenta verde, gengibre, sal",
+        "Sambar (sopa de lentilhas com legumes)"
+      ],
+      "passos": [
+        "Deixe arroz, urad dal e feno-grego de molho 6h. Bata e deixe fermentar 8–12h em local morno (deve dobrar).",
+        "Faça recheio: tempere com sementes mostarda estourando no óleo, adicione cebola, curry, pimenta, gengibre, cúrcuma, junte batata, limão e coentro.",
+        "Aqueça chapa de ferro; unte com azeite.",
+        "Espalhe massa com concha fazendo círculos FINOS.",
+        "Pingue ghee ou óleo nas bordas; deixe dourar.",
+        "Coloque recheio no centro; dobre ao meio.",
+        "Sirva com chutney e sambar."
+      ],
+      "dica": "A massa fermentada é obrigatória — sem fermentação não é dosa, é panqueca!",
+      "isExtra": true,
+      "id": "india-masala-dosa-extra-1"
+    },
+    {
+      "nome": "Chicken Tikka Masala",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Frango marinado em iogurte e especiarias grelhado, servido em molho cremoso de tomate.",
+      "historia": "Dizem que foi inventado por imigrantes indianos no Reino Unido nos anos 70 — hoje é o prato mais pedido do país!",
+      "ingredientes": [
+        "600g peito de frango cubos",
+        "Marinada: 150g iogurte, gengibre-alho, garam masala, cúrcuma, cominho, páprica, sal",
+        "Molho: 2 cebolas, 4 tomates, 150ml creme, gengibre-alho, garam masala, cominho, coentro",
+        "Manteiga, coentro"
+      ],
+      "passos": [
+        "Marine frango por 2h. Grelhe/forne até dourar levemente (chamas levemente queimadas são boas).",
+        "Refogue cebola e aromáticos para o molho; junte tomates cozinhe 15 min; bata e coe.",
+        "Volte ao fogo, adicione creme e frango; cozinhe 10 min.",
+        "Finalize manteiga e coentro; sirva com naan."
+      ],
+      "dica": "O leve queimado dos pedaços de frango do grill é o que dá o sabor defumado característico.",
+      "isExtra": true,
+      "id": "india-chicken-tikka-masala-m-0",
+      "pais": "Índia",
+      "flag": "🇮🇳"
+    },
+    {
+      "nome": "Samosas",
+      "categoria": "salgados",
+      "tempo": "1h30",
+      "porcoes": "20 unidades",
+      "dificuldade": "Média",
+      "desc": "Pastéis triangulares fritos recheados de batata temperada e ervilhas.",
+      "historia": "Petisco indiano medieval, vindo da Ásia Central por rotas comerciais, é vendido em toda esquina.",
+      "ingredientes": [
+        "Massa: 250g farinha, 50ml óleo, 60ml água, sal",
+        "Recheio: 4 batatas cozidas, ervilhas, cominho, coentro, gengibre, pimenta verde, garam masala",
+        "Óleo para fritar",
+        "Chutney de tamarindo e hortelã"
+      ],
+      "passos": [
+        "Faça massa; deixe descansar 30 min.",
+        "Prepare recheio: refogue temperos, junte batata amassada com ervilhas; deixe esfriar.",
+        "Abra massa em círculos 10cm; corte ao meio; faça cones; recheie; feche bem.",
+        "Frite a 170°C até dourar.",
+        "Sirva com chutneys."
+      ],
+      "dica": "Feche bem as pontas — se furar na fritura explode óleo!",
+      "isExtra": true,
+      "id": "india-samosas-m-1",
+      "pais": "Índia",
+      "flag": "🇮🇳"
+    }
+  ]
+}

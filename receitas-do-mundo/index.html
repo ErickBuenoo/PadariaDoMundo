@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Padaria do Mundo — Receitas Tradicionais de Todos os Cantos</title>
+  <meta name="description" content="Uma padaria virtual com as mais deliciosas receitas tradicionais de todos os países do mundo." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Pacifico&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Courgette&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image/svg+xml" href="assets/bread-icon.svg" />
+</head>
+<body>
+  <!-- SVG Icon Sprite Sheet -->
+  <object data="assets/icons.svg" type="image/svg+xml" style="position:absolute;width:0;height:0;overflow:hidden" aria-hidden="true"></object>
+  <svg style="position:absolute;width:0;height:0;overflow:hidden" aria-hidden="true">
+    <use href="assets/icons.svg#i-chef"/>
+    <use href="assets/icons.svg#i-bread"/>
+    <use href="assets/icons.svg#i-wheat"/>
+    <use href="assets/icons.svg#i-cupcake"/>
+    <use href="assets/icons.svg#i-spoon"/>
+    <use href="assets/icons.svg#i-rollingpin"/>
+  </svg>
+
+  <!-- ===== PADARIA HEADER / AWNING ===== -->
+  <header class="bakery-header" id="topo">
+    <div class="awning-stripes">
+      <span></span><span></span><span></span><span></span>
+      <span></span><span></span><span></span><span></span>
+      <span></span><span></span><span></span><span></span>
+    </div>
+    <div class="header-inner">
+      <div class="logo-wrap">
+        <img src="assets/chef-hat.svg" alt="" class="hat-icon" aria-hidden="true" />
+        <div class="title-block">
+          <h1 class="main-title">Padaria do Mundo</h1>
+          <p class="subtitle">— Receitas tradicionais de todos os cantos do planeta —</p>
+        </div>
+        <img src="assets/bread-icon.svg" alt="" class="bread-icon" aria-hidden="true" />
+      </div>
+      <p class="tagline">Desde 2026, assando pão, histórias e afeto ao redor do globo <svg class="tagline-icon" width="20" height="20"><use href="assets/icons.svg#i-bread"/></svg> <svg class="tagline-icon" width="20" height="20"><use href="assets/icons.svg#i-globe"/></svg></p>
+      <nav class="main-nav" aria-label="Navegação principal">
+        <a href="#paises" class="nav-btn">
+          <svg class="mini-icon"><use href="assets/icons.svg#i-wheat"/></svg> Países
+        </a>
+        <a href="#categorias" class="nav-btn">
+          <svg class="mini-icon"><use href="assets/icons.svg#i-rollingpin"/></svg> Categorias
+        </a>
+        <a href="#destaques" class="nav-btn">
+          <svg class="mini-icon"><use href="assets/icons.svg#i-cupcake"/></svg> Destaques
+        </a>
+        <a href="#favoritos" class="nav-btn favs-btn" id="favNavBtn">
+          <svg class="mini-icon heart-icon"><use href="assets/icons.svg#i-heart"/></svg> Favoritos
+          <span class="fav-count hidden" id="favCount">0</span>
+        </a>
+        <button id="shoplistBtn" class="nav-btn" title="Sua lista de compras">
+          <svg class="mini-icon"><use href="assets/icons.svg#i-basket"/></svg> Compras
+          <span class="fav-count hidden" id="shoplistCount">0</span>
+        </button>
+        <a href="#sobre" class="nav-btn">
+          <svg class="mini-icon"><use href="assets/icons.svg#i-spoon"/></svg> Sobre
+        </a>
+        <button id="searchToggle" class="nav-btn search-btn" aria-label="Buscar receita">
+          <svg class="mini-icon"><use href="assets/icons.svg#i-search"/></svg> Buscar
+        </button>
+        <button id="randomBtn" class="nav-btn surprise-btn" title="Receita surpresa!">
+          <svg class="mini-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="3" y="3" width="18" height="18" rx="3"/>
+            <circle cx="8" cy="8" r="1.3" fill="currentColor"/>
+            <circle cx="16" cy="8" r="1.3" fill="currentColor"/>
+            <circle cx="12" cy="12" r="1.3" fill="currentColor"/>
+            <circle cx="8" cy="16" r="1.3" fill="currentColor"/>
+            <circle cx="16" cy="16" r="1.3" fill="currentColor"/>
+          </svg>
+          Surpresa
+        </button>
+        <!-- Auth buttons -->
+        <button id="loginBtn" class="nav-btn auth-btn" title="Entrar ou cadastrar">
+          <svg class="mini-icon"><use href="assets/icons.svg#i-chef"/></svg>
+          <span id="loginBtnText">Entrar</span>
+        </button>
+        <div id="userMenu" class="user-menu hidden">
+          <button id="userMenuBtn" class="nav-btn user-menu-btn">
+            <span class="user-avatar" id="userAvatar">P</span>
+            <span id="userName">Perfil</span>
+            <svg class="mini-icon chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="user-dropdown" id="userDropdown">
+            <div class="ud-header">
+              <strong id="udName">—</strong>
+              <span id="udEmail">—</span>
+              <span id="udVerifyBadge" class="ud-verified hidden">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>
+                E-mail verificado
+              </span>
+              <button id="udResendVerify" class="ud-link hidden">Reenviar verificação</button>
+            </div>
+            <div class="ud-divider"></div>
+            <a href="#favoritos" class="ud-item" data-action="favs">
+              <svg class="mini-icon"><use href="assets/icons.svg#i-heart"/></svg> Meus favoritos
+            </a>
+            <a href="#feitasesao" class="ud-item" data-action="made">
+              <svg class="mini-icon"><use href="assets/icons.svg#i-chef"/></svg> Receitas que já fiz
+            </a>
+            <a href="#querofazer" class="ud-item" data-action="wish">
+              <svg class="mini-icon"><use href="assets/icons.svg#i-pancake"/></svg> Quero fazer
+            </a>
+            <div class="ud-divider"></div>
+            <button id="logoutBtn" class="ud-item ud-logout">
+              <svg class="mini-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg>
+              Sair
+            </button>
+          </div>
+        </div>
+      </nav>
+      <!-- Mobile menu hamburger -->
+      <button class="hamburger" id="hamburger" aria-label="Abrir menu">
+        <span></span><span></span><span></span>
+      </button>
+      <!-- Dark mode toggle (desktop only, fixed pos is used) -->
+      <button id="themeToggle" class="theme-toggle" title="Alternar modo claro/escuro" aria-label="Alternar tema">
+        <svg id="themeIcon" width="22" height="22"><use href="assets/icons.svg#i-moon"/></svg>
+      </button>
+      <div id="searchBar" class="search-bar hidden">
+        <svg class="search-bar-icon" width="20" height="20" aria-hidden="true"><use href="assets/icons.svg#i-search"/></svg>
+        <input type="text" id="searchInput" placeholder="Digite um prato, país ou ingrediente…" />
+        <button id="searchClose" class="close-btn" aria-label="Fechar busca">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="awning-scallop"></div>
+  </header>
+
+  <!-- ===== WELCOME / HERO ===== -->
+  <section class="hero">
+    <div class="wooden-shelf">
+      <div class="flour-sack" aria-hidden="true"></div>
+      <div class="paper-bag" aria-hidden="true"></div>
+      <div class="hero-text">
+        <h2><svg class="title-svg"><use href="assets/icons.svg#i-bread"/></svg> Bem-vindo à nossa <em>boulangerie</em> global!</h2>
+        <p>Entre, puxe uma cadeira de vime e sinta o aroma que sai do forno. Aqui, cada país é uma prateleira recheada de delícias: do croissant francês ao pão de queijo brasileiro, do ramen japonês ao tagine marroquino. Explore, aprenda e delicie-se!</p>
+        <div class="hero-stats">
+          <div class="stat"><span class="stat-num" id="statRecipes">0</span><span class="stat-label">receitas</span></div>
+          <div class="stat"><span class="stat-num" id="statCountries">0</span><span class="stat-label">países</span></div>
+          <div class="stat"><span class="stat-num" id="statCategories">0</span><span class="stat-label">categorias</span></div>
+        </div>
+      </div>
+      <div class="jam-jar" aria-hidden="true"></div>
+      <div class="bread-loaf" aria-hidden="true"></div>
+    </div>
+  </section>
+
+  <!-- ===== CATEGORIAS ===== -->
+  <section class="section" id="categorias">
+    <div class="section-heading">
+      <img src="assets/wheat.svg" alt="" aria-hidden="true" />
+      <h2>Escolha uma prateleira…</h2>
+      <img src="assets/wheat.svg" alt="" aria-hidden="true" style="transform:scaleX(-1)" />
+    </div>
+    <div class="category-grid" id="categoryGrid"></div>
+  </section>
+
+  <!-- ===== DESTAQUES ===== -->
+  <section class="section section-cream" id="destaques">
+    <div class="section-heading">
+      <img src="assets/cupcake.svg" alt="" aria-hidden="true" />
+      <h2>Especialidades da Casa</h2>
+      <img src="assets/cupcake.svg" alt="" aria-hidden="true" />
+    </div>
+    <p class="section-intro">As receitas mais amadas, escolhidas a dedo pelo padeiro-chefe. Perfeitas para impressionar a família, conquistar alguém ou simplesmente saborear em um domingo chuvoso.</p>
+    <div class="featured-grid" id="featuredGrid"></div>
+  </section>
+
+  <!-- ===== PAÍSES / TODAS AS RECEITAS ===== -->
+  <section class="section" id="paises">
+    <div class="section-heading">
+      <img src="assets/bread-icon.svg" alt="" aria-hidden="true" />
+      <h2>Viagem ao Redor do Forno</h2>
+      <img src="assets/bread-icon.svg" alt="" aria-hidden="true" />
+    </div>
+    <p class="section-intro">Selecione um país para descobrir seus pratos tradicionais. Cada bandeira abre a porta de uma cozinha diferente!</p>
+    <!-- Filtros rápidos -->
+    <div class="quick-filters" id="quickFilters">
+      <button class="chip-filter active" data-time="all">
+        <svg class="chip-svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>
+        Todos os tempos
+      </button>
+      <button class="chip-filter" data-time="fast">
+        <svg class="chip-svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13 2L4 14h7l-1 8 9-12h-7z"/></svg>
+        Rápidas (≤35min)
+      </button>
+      <button class="chip-filter" data-diff="easy">
+        <svg class="chip-svg" width="16" height="16"><use href="assets/icons.svg#i-wheat"/></svg>
+        Fáceis
+      </button>
+      <button class="chip-filter" data-diff="medium">
+        <svg class="chip-svg" width="16" height="16"><use href="assets/icons.svg#i-fire"/></svg>
+        Médias
+      </button>
+      <button class="chip-filter" data-diff="hard">
+        <svg class="chip-svg" width="16" height="16"><use href="assets/icons.svg#i-chef"/></svg>
+        Desafiadoras
+      </button>
+    </div>
+    <div class="country-chips" id="countryChips"></div>
+    <div id="loadingIndicator" class="loading-indicator hidden">
+      <div class="loader-bread">
+        <svg width="64" height="64" viewBox="0 0 64 64" class="spin-bread">
+          <ellipse cx="32" cy="38" rx="24" ry="18" fill="#E8B56A" stroke="#8B4513" stroke-width="2.5"/>
+          <path d="M16 30 Q22 18 28 28 Q32 16 36 28 Q42 18 48 30" stroke="#8B4513" stroke-width="2" fill="none"/>
+          <circle cx="24" cy="40" r="2" fill="#8B4513"/>
+          <circle cx="40" cy="40" r="2" fill="#8B4513"/>
+        </svg>
+        <p>O padeiro está assando mais receitas…</p>
+      </div>
+    </div>
+    <div id="recipeList" class="recipe-list"></div>
+  </section>
+
+  <!-- ===== RECIPE MODAL ===== -->
+  <div id="recipeModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-backdrop" data-close></div>
+    <article class="modal-card paper-texture">
+      <button class="modal-close" data-close aria-label="Fechar receita">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+      <div class="modal-topbar">
+        <button id="favBtn" class="modal-action-btn" title="Favoritar">
+          <svg id="favIcon" width="22" height="22"><use href="assets/icons.svg#i-heart"/></svg>
+        </button>
+        <button id="wishBtn" class="modal-action-btn" title="Quero fazer">
+          <svg id="wishIcon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.4 7.4H22l-6.2 4.5 2.4 7.4L12 16.8 5.8 21.3l2.4-7.4L2 9.4h7.6z"/></svg>
+        </button>
+        <button id="madeBtn" class="modal-action-btn" title="Já fiz esta receita">
+          <svg id="madeIcon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>
+        </button>
+        <button id="printBtn" class="modal-action-btn" title="Imprimir receita">
+          <svg width="22" height="22"><use href="assets/icons.svg#i-printer"/></svg>
+        </button>
+        <button id="shareBtn" class="modal-action-btn" title="Copiar link">
+          <svg width="22" height="22"><use href="assets/icons.svg#i-share"/></svg>
+        </button>
+        <button id="shopBtn" class="modal-action-btn" title="Adicionar ingredientes à lista de compras">
+          <svg id="shopIcon" width="22" height="22"><use href="assets/icons.svg#i-basket"/></svg>
+        </button>
+        <button id="cookModeBtn" class="modal-action-btn" title="Modo Cozinha (tela cheia)">
+          <svg id="cookModeIcon" width="22" height="22"><use href="assets/icons.svg#i-fullscreen"/></svg>
+        </button>
+      </div>
+      <div class="modal-emblem" id="modalFlag">🇧🇷</div>
+      <h2 id="modalTitle" class="modal-title">Título</h2>
+      <p id="modalOrigin" class="modal-origin"></p>
+      <div class="modal-meta" id="modalMeta"></div>
+      <!-- Porções converter -->
+      <div class="servings-bar" id="servingsBar">
+        <button class="serv-btn" id="servDec" aria-label="Diminuir porções">
+          <svg width="18" height="18"><use href="assets/icons.svg#i-minus"/></svg>
+        </button>
+        <span class="serv-label"><strong id="servNumber">4</strong> <span id="servText">porções</span></span>
+        <button class="serv-btn" id="servInc" aria-label="Aumentar porções">
+          <svg width="18" height="18"><use href="assets/icons.svg#i-plus"/></svg>
+        </button>
+        <span class="serv-hint">Ingredientes recalculam automaticamente</span>
+      </div>
+      <div class="modal-chalkboard">
+        <h3><svg class="chalk-icon" width="22" height="22" aria-hidden="true"><use href="assets/icons.svg#i-sparkle"/></svg> História &amp; Curiosidades</h3>
+        <p id="modalStory"></p>
+      </div>
+      <div class="modal-body">
+        <div class="ingredients-col">
+          <h3><svg class="mini-icon"><use href="assets/icons.svg#i-spoon"/></svg> Ingredientes</h3>
+          <ul id="modalIngredients"></ul>
+        </div>
+        <div class="prep-col">
+          <h3><svg class="mini-icon"><use href="assets/icons.svg#i-rollingpin"/></svg> Modo de Preparo</h3>
+          <ol id="modalSteps"></ol>
+        </div>
+      </div>
+      <div class="modal-tip">
+        <svg class="tip-icon" width="22" height="22" aria-hidden="true"><use href="assets/icons.svg#i-sparkle"/></svg>
+        <strong>Dica do Padeiro:</strong> <span id="modalTip"></span>
+      </div>
+      <div id="madePanel" class="made-panel hidden">
+        <h4><svg class="mini-icon"><use href="assets/icons.svg#i-chef"/></svg> Seu caderninho</h4>
+        <div class="made-stars" id="madeStars">
+          <button data-star="1" aria-label="1 estrela">★</button>
+          <button data-star="2" aria-label="2 estrelas">★</button>
+          <button data-star="3" aria-label="3 estrelas">★</button>
+          <button data-star="4" aria-label="4 estrelas">★</button>
+          <button data-star="5" aria-label="5 estrelas">★</button>
+        </div>
+        <textarea id="madeNotes" placeholder="Anotações: o que achou? Mudou alguma coisa? Vai repetir?" maxlength="500"></textarea>
+        <button id="madeSaveBtn" class="bake-btn made-save-btn">Salvar anotações</button>
+      </div>
+    </article>
+  </div>
+
+  <!-- ===== AUTH MODAL ===== -->
+  <div id="authModal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modal-backdrop" data-auth-close></div>
+    <article class="auth-card paper-texture">
+      <button class="modal-close" data-auth-close aria-label="Fechar">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+
+      <!-- LOGIN VIEW -->
+      <div id="authLogin" class="auth-view">
+        <div class="auth-head">
+          <img src="assets/chef-hat.svg" alt="" width="48"/>
+          <h2>Bem-vindo de volta!</h2>
+          <p>Entre para salvar suas receitas favoritas</p>
+        </div>
+        <form id="loginForm" class="auth-form" autocomplete="on">
+          <label>E-mail
+            <input type="email" name="email" required autocomplete="email" placeholder="seu-email@padaria.com"/>
+          </label>
+          <label>Senha
+            <div class="pw-wrap">
+              <input type="password" name="password" required autocomplete="current-password" placeholder="Sua senha" id="loginPw"/>
+              <button type="button" class="pw-toggle" data-target="loginPw" aria-label="Mostrar senha">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+              </button>
+            </div>
+          </label>
+          <button type="submit" class="bake-btn auth-submit">
+            <svg class="btn-icon" width="16" height="16"><use href="assets/icons.svg#i-bread"/></svg> Entrar
+          </button>
+          <p class="auth-msg" id="loginMsg"></p>
+          <div class="auth-foot">
+            <button type="button" class="link-btn" id="toForgot">Esqueci minha senha</button>
+            <span>·</span>
+            <button type="button" class="link-btn" id="toRegister">Criar conta</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- REGISTER VIEW -->
+      <div id="authRegister" class="auth-view hidden">
+        <div class="auth-head">
+          <img src="assets/bread-icon.svg" alt="" width="48"/>
+          <h2>Cadastre-se na Padaria</h2>
+          <p>Leva 30 segundos e é de graça</p>
+        </div>
+        <form id="registerForm" class="auth-form" autocomplete="on">
+          <label>Seu nome
+            <input type="text" name="name" required minlength="2" maxlength="80" autocomplete="name" placeholder="Padeiro ou Padeira"/>
+          </label>
+          <label>E-mail
+            <input type="email" name="email" required autocomplete="email" placeholder="seu-email@padaria.com"/>
+          </label>
+          <label>Senha <small>(mínimo 8 caracteres, com letra e número)</small>
+            <div class="pw-wrap">
+              <input type="password" name="password" required minlength="8" autocomplete="new-password" placeholder="Crie uma senha" id="regPw"/>
+              <button type="button" class="pw-toggle" data-target="regPw" aria-label="Mostrar senha">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+              </button>
+            </div>
+          </label>
+          <button type="submit" class="bake-btn auth-submit">
+            <svg class="btn-icon" width="16" height="16"><use href="assets/icons.svg#i-cupcake"/></svg> Criar minha conta
+          </button>
+          <p class="auth-msg" id="registerMsg"></p>
+          <p class="auth-small">Enviaremos um e-mail de confirmação. Você pode usar a conta enquanto isso, mas algumas ações pedem verificação.</p>
+          <div class="auth-foot">
+            <button type="button" class="link-btn" id="toLogin">Já tenho conta — entrar</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- FORGOT VIEW -->
+      <div id="authForgot" class="auth-view hidden">
+        <div class="auth-head">
+          <img src="assets/wheat.svg" alt="" width="48"/>
+          <h2>Esqueceu sua senha?</h2>
+          <p>Digite seu e-mail para receber um link de redefinição</p>
+        </div>
+        <form id="forgotForm" class="auth-form" autocomplete="on">
+          <label>E-mail
+            <input type="email" name="email" required autocomplete="email" placeholder="seu-email@padaria.com" id="forgotEmail"/>
+          </label>
+          <button type="submit" class="bake-btn auth-submit" id="forgotSubmit">
+            <svg class="btn-icon" width="16" height="16"><use href="assets/icons.svg#i-mail"/></svg> Enviar link
+          </button>
+          <p class="auth-cooldown hidden" id="forgotCooldown"></p>
+          <p class="auth-msg" id="forgotMsg"></p>
+          <div class="auth-foot">
+            <button type="button" class="link-btn" id="toLoginFromForgot">Voltar para o login</button>
+          </div>
+        </form>
+      </div>
+    </article>
+  </div>
+
+  <!-- ===== VERIFY EMAIL / RESET PASSWORD (rota direta) ===== -->
+  <div id="tokenView" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modal-backdrop" data-token-close></div>
+    <article class="auth-card paper-texture">
+      <button class="modal-close" data-token-close aria-label="Fechar">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+      <div class="auth-head" id="tokenHead"></div>
+      <div id="tokenBody" class="auth-form"></div>
+    </article>
+  </div>
+
+  <!-- ===== SOBRE ===== -->
+  <section class="section section-warm" id="sobre">
+    <div class="section-heading">
+      <img src="assets/chef-hat.svg" alt="" aria-hidden="true" />
+      <h2>Sobre Nossa Padaria</h2>
+      <img src="assets/chef-hat.svg" alt="" aria-hidden="true" />
+    </div>
+    <div class="about-box paper-texture">
+      <p>A <strong>Padaria do Mundo</strong> nasceu de uma simples ideia: <em>toda cultura conta sua história pelo que põe na mesa</em>. Do pão sírio achatado na pedra ao brioche amanteigado francês, do mole poblano com suas vinte especiarias ao sushi que vira arte no Japão — cada prato guarda gerações de afeto.</p>
+      <p>Aqui, reunimos centenas de receitas tradicionais de dezenas de países, organizadas com o mesmo cuidado de uma padaria de bairro que conhece cada freguês pelo nome. Esperamos que você encontre aqui não apenas instruções, mas inspiração para cozinhar com alma.</p>
+      <p class="signature">— O Padeiro <svg class="sig-icon" width="22" height="22"><use href="assets/icons.svg#i-chef"/></svg> <svg class="sig-icon" width="22" height="22"><use href="assets/icons.svg#i-cupcake"/></svg></p>
+    </div>
+    <div class="newsletter">
+      <h3><svg class="newsletter-icon" width="24" height="24"><use href="assets/icons.svg#i-mail"/></svg> Receba receitas fresquinhas em casa!</h3>
+      <p>Cadastre seu e-mail e ganhe uma receita surpresa toda semana, quentinha do forno.</p>
+      <form id="newsletterForm" class="newsletter-form" onsubmit="return false;">
+        <input type="email" id="emailInput" placeholder="seu-email@padaria.com" required />
+        <button type="submit" class="bake-btn"><svg class="btn-icon" width="16" height="16"><use href="assets/icons.svg#i-bread"/></svg> Cadastrar</button>
+      </form>
+      <p id="newsletterMsg" class="newsletter-msg"></p>
+    </div>
+  </section>
+
+  <!-- ===== FAVORITOS SECTION ===== -->
+  <section class="section" id="favoritos" hidden>
+    <div class="section-heading">
+      <svg width="40" height="40"><use href="assets/icons.svg#i-heart"/></svg>
+      <h2>Minhas Receitas Favoritas</h2>
+      <svg width="40" height="40"><use href="assets/icons.svg#i-heart"/></svg>
+    </div>
+    <p class="section-intro">As receitas que você marcou com <svg class="inline-heart" width="16" height="16"><use href="assets/icons.svg#i-heart"/></svg> — todas num lugar só, pra não esquecer de fazer no fim de semana!</p>
+    <div id="favList" class="recipe-list"></div>
+    <p id="favEmpty" class="fav-empty hidden">
+      <span class="fav-empty-icon"><svg width="56" height="56"><use href="assets/icons.svg#i-bread"/></svg></span><br/>
+      Você ainda não favoritou nenhuma receita. Clique no <svg class="inline-heart" width="16" height="16"><use href="assets/icons.svg#i-heart"/></svg> dentro das receitas para guardar suas preferidas!
+    </p>
+  </section>
+
+  <!-- ===== RECEITAS QUE JÁ FIZ ===== -->
+  <section class="section section-cream" id="feitasesao" hidden>
+    <div class="section-heading">
+      <svg width="40" height="40"><use href="assets/icons.svg#i-chef"/></svg>
+      <h2>Livro do Padeiro — Receitas que já fiz</h2>
+      <svg width="40" height="40"><use href="assets/icons.svg#i-chef"/></svg>
+    </div>
+    <p class="section-intro">Cada receita que você preparou, com sua nota (de 1 a 5) e anotações pessoais. Seu próprio caderno de receitas!</p>
+    <div id="madeList" class="recipe-list made-list"></div>
+    <p id="madeEmpty" class="fav-empty hidden">
+      <span class="fav-empty-icon"><svg width="56" height="56"><use href="assets/icons.svg#i-rollingpin"/></svg></span><br/>
+      Você ainda não marcou nenhuma receita como feita. Quando preparar algo, volte e marque ✓ para guardar sua experiência!
+    </p>
+  </section>
+
+  <!-- ===== QUERO FAZER ===== -->
+  <section class="section" id="querofazer" hidden>
+    <div class="section-heading">
+      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.4 7.4H22l-6.2 4.5 2.4 7.4L12 16.8 5.8 21.3l2.4-7.4L2 9.4h7.6z"/></svg>
+      <h2>Na Lista do Próximo Domingo</h2>
+      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.4 7.4H22l-6.2 4.5 2.4 7.4L12 16.8 5.8 21.3l2.4-7.4L2 9.4h7.6z"/></svg>
+    </div>
+    <p class="section-intro">As receitas que estão na sua lista para fazer em breve — aquelas que te deram água na boca!</p>
+    <div id="wishList" class="recipe-list"></div>
+    <p id="wishEmpty" class="fav-empty hidden">
+      <span class="fav-empty-icon"><svg width="56" height="56"><use href="assets/icons.svg#i-pancake"/></svg></span><br/>
+      Sua lista está vazia! Clique na estrelinha ✦ dentro das receitas para salvar o que ainda quer fazer.
+    </p>
+  </section>
+
+  <!-- ===== LOGIN PROMPT CTA ===== -->
+  <section class="section login-cta-section" id="loginCta">
+    <div class="login-cta paper-texture">
+      <img src="assets/chef-hat.svg" alt="" width="56"/>
+      <h3>Salve suas receitas favoritas</h3>
+      <p>Crie uma conta grátis para guardar suas receitas preferidas, anotar aquelas que já preparou e montar sua lista das próximas delícias!</p>
+      <button class="bake-btn" id="ctaLoginBtn"><svg class="btn-icon" width="16" height="16"><use href="assets/icons.svg#i-chef"/></svg> Entrar ou cadastrar</button>
+    </div>
+  </section>
+
+  <!-- ===== Dev Outbox (apenas sem SMTP configurado) ===== -->
+  <div id="devOutbox" class="dev-outbox hidden">
+    <button id="devOutboxToggle" class="dev-outbox-toggle" title="Bandeja de e-mails (modo dev)">
+      <svg width="20" height="20"><use href="assets/icons.svg#i-mail"/></svg>
+      <span id="devOutboxCount">0</span>
+    </button>
+    <div id="devOutboxPanel" class="dev-outbox-panel hidden">
+      <div class="dop-header">
+        <strong>📬 Caixa de saída (dev)</strong>
+        <button id="devOutboxClear" class="dop-clear">Limpar</button>
+      </div>
+      <p class="dop-note">SMTP não configurado — links aparecem aqui. Configure SMTP_HOST/USER/PASS para enviar e-mails de verdade.</p>
+      <div id="devOutboxList"></div>
+    </div>
+  </div>
+
+  <!-- ===== Botão Voltar ao Topo ===== -->
+  <button id="backToTop" class="back-to-top hidden" aria-label="Voltar ao topo">
+    <svg width="28" height="28"><use href="assets/icons.svg#i-arrow-up"/></svg>
+  </button>
+
+  <!-- ===== Timer flutuante ===== -->
+  <div id="timerFloat" class="timer-float hidden" role="timer" aria-live="polite">
+    <svg class="timer-bell" width="22" height="22"><use href="assets/icons.svg#i-bell"/></svg>
+    <div class="timer-body">
+      <div class="timer-label" id="timerLabel">Timer</div>
+      <div class="timer-time" id="timerTime">00:00</div>
+    </div>
+    <button id="timerStop" class="timer-stop" aria-label="Parar timer">
+      <svg width="16" height="16"><use href="assets/icons.svg#i-minus"/></svg>
+    </button>
+  </div>
+  <div class="timer-ring"></div>
+
+  <!-- ===== Lista de Compras sidebar ===== -->
+  <div id="shoplistBackdrop" class="shoplist-backdrop hidden"></div>
+  <aside id="shoplistPanel" class="shoplist-panel" aria-hidden="true">
+    <div class="shoplist-header">
+      <div class="shoplist-awning"></div>
+      <div class="shoplist-head">
+        <h3>
+          <svg class="shoplist-head-icon" width="32" height="32"><use href="assets/icons.svg#i-basket"/></svg>
+          Cesta do Padeiro
+        </h3>
+        <button id="shoplistClose" class="shoplist-close" aria-label="Fechar">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+        </button>
+      </div>
+      <p class="shoplist-subtitle">Seus ingredientes, organizados pra ir ao mercado</p>
+    </div>
+    <p class="shoplist-empty" id="shoplistEmpty">
+      <svg class="shoplist-empty-icon" width="56" height="56"><use href="assets/icons.svg#i-basket"/></svg><br/>
+      Sua cesta está vazia!<br/>
+      <small>Abra uma receita e toque no <svg width="14" height="14" style="vertical-align:-3px"><use href="assets/icons.svg#i-basket"/></svg> para adicionar ingredientes.</small>
+    </p>
+    <ul id="shoplistItems" class="shoplist-items"></ul>
+    <div class="shoplist-foot">
+      <span id="shoplistInfo">0 itens</span>
+      <div class="shoplist-actions">
+        <button id="shoplistCopy" class="shop-btn" title="Copiar lista">
+          <svg width="15" height="15"><use href="assets/icons.svg#i-share"/></svg> Copiar
+        </button>
+        <button id="shoplistPrint" class="shop-btn" title="Imprimir">
+          <svg width="15" height="15"><use href="assets/icons.svg#i-printer"/></svg> Imprimir
+        </button>
+        <button id="shoplistClear" class="shop-btn shop-btn-danger" title="Limpar tudo">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M3 6h18M8 6V4a2 2 0 012-2h4a2 2 0 012 2v2M6 6l1 14a2 2 0 002 2h6a2 2 0 002-2l1-14"/></svg> Limpar
+        </button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- ===== Modo Cozinha barra inferior ===== -->
+  <div id="cookModeBar" class="cook-bar hidden">
+    <span><svg class="cook-bar-icon" width="20" height="20"><use href="assets/icons.svg#i-chef"/></svg> <strong>Modo Cozinha ativo</strong> — não apaga a tela</span>
+    <button id="exitCookMode" class="cook-exit"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg> Sair</button>
+  </div>
+  <footer class="bakery-footer">
+    <div class="footer-inner">
+      <div class="footer-col">
+        <h4><svg class="footer-title-icon" width="22" height="22"><use href="assets/icons.svg#i-bread"/></svg> Padaria do Mundo</h4>
+        <p>Rua dos Fornos, nº 7<br/>Esquina com a Avenida Global<br/>Cozinha Aberta 24h/24</p>
+      </div>
+      <div class="footer-col">
+        <h4><svg class="footer-title-icon" width="22" height="22"><use href="assets/icons.svg#i-wheat"/></svg> Nossos Pães</h4>
+        <ul>
+          <li><a href="#paises">Por País</a></li>
+          <li><a href="#categorias">Por Categoria</a></li>
+          <li><a href="#destaques">Especiais</a></li>
+          <li><a href="#topo">Voltar ao topo</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4><svg class="footer-title-icon" width="22" height="22"><use href="assets/icons.svg#i-cupcake"/></svg> Horário (imaginário)</h4>
+        <p>Seg–Sáb: 06h–20h<br/>Domingo: 07h–13h<br/>Feriados: só para receitas especiais</p>
+      </div>
+    </div>
+    <div class="footer-divider"></div>
+    <p class="copyright">© 2026 Padaria do Mundo — Feito com farinha, manteiga e muito carinho <svg class="copyright-icon" width="16" height="16"><use href="assets/icons.svg#i-heart"/></svg></p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="auth.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

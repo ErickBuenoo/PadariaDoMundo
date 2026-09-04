@@ -1,0 +1,374 @@
+{
+  "pais": "México",
+  "recipes": [
+    {
+      "id": "mexico-enchiladas-verdes-0",
+      "nome": "Enchiladas Verdes",
+      "pais": "México",
+      "flag": "🇲🇽",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Enchiladas Verdes, um clássico de México preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em México, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Enchiladas Verdes (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Enchiladas Verdes, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Enchiladas Verdes quente como manda a tradição."
+      ],
+      "dica": "Em México, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "mexico-pozole-vermelho-1",
+      "nome": "Pozole Vermelho",
+      "pais": "México",
+      "flag": "🇲🇽",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pozole Vermelho, um clássico de México preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em México, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pozole Vermelho (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pozole Vermelho, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pozole Vermelho quente como manda a tradição."
+      ],
+      "dica": "Em México, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "mexico-tamales-de-folha-de-bananeira-2",
+      "nome": "Tamales de Folha de Bananeira",
+      "pais": "México",
+      "flag": "🇲🇽",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tamales de Folha de Bananeira, um clássico de México preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em México, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tamales de Folha de Bananeira (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tamales de Folha de Bananeira, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tamales de Folha de Bananeira quente como manda a tradição."
+      ],
+      "dica": "Em México, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "mexico-tres-leches-3",
+      "nome": "Tres Leches",
+      "pais": "México",
+      "flag": "🇲🇽",
+      "categoria": "doces",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tres Leches, um clássico de México preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em México, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tres Leches (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tres Leches, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tres Leches quente como manda a tradição."
+      ],
+      "dica": "Em México, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "mexico-pan-dulce-concha-4",
+      "nome": "Pan Dulce Concha",
+      "pais": "México",
+      "flag": "🇲🇽",
+      "categoria": "paes",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pan Dulce Concha, um clássico de México preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em México, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pan Dulce Concha (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pan Dulce Concha, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pan Dulce Concha quente como manda a tradição."
+      ],
+      "dica": "Em México, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "mexico-atole-de-baunilha-5",
+      "nome": "Atole de Baunilha",
+      "pais": "México",
+      "flag": "🇲🇽",
+      "categoria": "bebidas",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Atole de Baunilha, um clássico de México preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em México, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Atole de Baunilha (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Atole de Baunilha, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Atole de Baunilha quente como manda a tradição."
+      ],
+      "dica": "Em México, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "mexico-chilaquiles-com-ovo-6",
+      "nome": "Chilaquiles com Ovo",
+      "pais": "México",
+      "flag": "🇲🇽",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Chilaquiles com Ovo, um clássico de México preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em México, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chilaquiles com Ovo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chilaquiles com Ovo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chilaquiles com Ovo quente como manda a tradição."
+      ],
+      "dica": "Em México, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "mexico-camarones-a-la-diabla-7",
+      "nome": "Camarones a la Diabla",
+      "pais": "México",
+      "flag": "🇲🇽",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Camarones a la Diabla, um clássico de México preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em México, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Camarones a la Diabla (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Camarones a la Diabla, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Camarones a la Diabla quente como manda a tradição."
+      ],
+      "dica": "Em México, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "mexico-flan-napolitano-8",
+      "nome": "Flan Napolitano",
+      "pais": "México",
+      "flag": "🇲🇽",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Flan Napolitano, um clássico de México preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em México, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Flan Napolitano (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Flan Napolitano, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Flan Napolitano quente como manda a tradição."
+      ],
+      "dica": "Em México, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Mole Poblano (o molho com 20+ ingredientes)",
+      "pais": "México",
+      "flag": "🇲🇽",
+      "categoria": "pratos",
+      "tempo": "3h30",
+      "porcoes": "8 porções",
+      "dificuldade": "Difícil",
+      "desc": "Molho complexo com várias pimentas, chocolate, especiarias e nozes servido sobre frango.",
+      "historia": "Considerado o prato nacional do México, criado por freiras em Puebla no século XVII para uma visita do bispo. Leva 20+ ingredientes.",
+      "ingredientes": [
+        "6 peças de frango cozidas (coxinhas/sobrecoxas)",
+        "Caldo de frango",
+        "4 pimentas mulato, 3 ancho, 3 pasilla (sem sementes, tostadas)",
+        "2 tomates assados, 1 cebola assada, 3 alhos",
+        "1 tortilla tostada, 1 pão francês tostado",
+        "50g amendoim torrado, 30g gergelim tostado, 30g amêndoas, passas",
+        "1 tablete chocolate amargo (90g)",
+        "Canela, cravo, coentro, orégano, anis, pimenta preta",
+        "1 colher açúcar, sal",
+        "Banha ou óleo, arroz para acompanhar"
+      ],
+      "passos": [
+        "Toste levemente pimentas, sementes, tortilla, pão, especiarias (cuidado para não queimar!).",
+        "Hidrate pimentas em água quente por 25 min.",
+        "No liquidificador, bata TODOS os ingredientes (menos chocolate e frango) com caldo até ficar lisíssimo; passe por peneira.",
+        "Refogue o mole em panela larga por 10 min em banha; adicione chocolate, mexa até derreter.",
+        "Acrescente caldo se necessário para ficar molho espesso; cozinhe 45 min em fogo baixo mexendo sempre.",
+        "Sirva sobre frango cozido, polvilhe gergelim, acompanhe arroz."
+      ],
+      "dica": "Dizem que mole fica melhor NO DIA SEGUINTE. Faça de véspera e aqueça antes de servir — o sabor é incomparável.",
+      "isExtra": true,
+      "id": "mexico-mole-poblano--o-molho-com-20--ingredientes-extra-0"
+    },
+    {
+      "nome": "Chiles en Nogada",
+      "pais": "México",
+      "flag": "🇲🇽",
+      "categoria": "pratos",
+      "tempo": "2h",
+      "porcoes": "6 porções",
+      "dificuldade": "Difícil",
+      "desc": "Pimentões poblano recheados com carne e frutas, cobertos com molho de nozes e romã — cores da bandeira mexicana.",
+      "historia": "Criado em Puebla em 1821 para receber o imperador Agustín de Iturbide — verde, branco e vermelho são as cores do México.",
+      "ingredientes": [
+        "6 pimentões poblanos grandes",
+        "Recheio: 400g carne moída porco+boi, 1 maçã, 1 pera, 50g passas, 50g amêndoas, 1 cebola, tomate, canela",
+        "Nogada: 150g nozes castillia hidratadas 2h, 100ml creme de leite, 100g queijo fresco, 20g açúcar, sal",
+        "Romã (grãos), salsa picada, óleo para fritar"
+      ],
+      "passos": [
+        "Toste os pimentões no fogo até a pele ficar preta; sue em saco plástico 10 min; descasque; abra e retire sementes.",
+        "Faça recheio: doure cebola e carne, junte frutas picadas, passas, amêndoas, tomate e canela; cozinhe 15 min.",
+        "Recheie os pimentões; passe em farinha e ovo; frite rapidamente em óleo.",
+        "Faça nogada: bata nozes escorridas com creme, queijo, açúcar e sal até ficar creme branco grosso.",
+        "Cubra os pimentões com nogada; polvilhe grãos de romã vermelha e salsa (verde+branco+vermelho!)."
+      ],
+      "dica": "Servida FRIA ou à temperatura ambiente em setembro — temporada de romã no México. Prato de Independência!",
+      "isExtra": true,
+      "id": "mexico-chiles-en-nogada-extra-1"
+    },
+    {
+      "nome": "Enchiladas Verdes",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tortillas de milho passadas em molho de tomate verde, recheadas com frango, cobertas com creme e queijo.",
+      "historia": "Prato mexicano doméstico por excelência — \"en-chilada\" = mergulhada em chile.",
+      "ingredientes": [
+        "12 tortillas milho",
+        "2 xícaras molho tomatillo (tomate verde cozido com cebola, alho, serrano, coentro)",
+        "300g frango desfiado",
+        "100ml crema mexicana (creme azedo)",
+        "100g queijo fresco esfarelado",
+        "Cebola roxa fatiada, coentro"
+      ],
+      "passos": [
+        "Aqueça molho. Mergulhe tortillas no molho rapidamente.",
+        "Recheie com frango desfiado; enrole; disponha em refratário.",
+        "Cubra com molho restante; leve ao forno 10 min.",
+        "Sirva com creme, queijo, cebola e coentro."
+      ],
+      "dica": "Mergulhe tortillas RAPIDAMENTE ou desmancham.",
+      "isExtra": true,
+      "id": "mexico-enchiladas-verdes-m-0",
+      "pais": "México",
+      "flag": "🇲🇽"
+    },
+    {
+      "nome": "Pozole Rojo",
+      "categoria": "sopas",
+      "tempo": "2h + demolho",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Ensopado de milho canjica gigante com porco, pimenta seca, guarnecido com alface, rabanete e limão.",
+      "historia": "Sopa pré-hispânica — era usada em rituais; hoje é prato de festa especialmente nas quintas-feiras.",
+      "ingredientes": [
+        "500g canjica (maíz pozolero) cozida até explodir",
+        "1kg paleta de porco em cubos",
+        "3 pimentas guajillo hidratadas, 1 ancho",
+        "2 dentes alho, 1 cebola, orégano, cominho",
+        "Guarnições: alface fatiada, rabanete em rodelas, cebola picada, limão, orégano, tostadas"
+      ],
+      "passos": [
+        "Cozinhe a canjica de véspera em água até ficar macia.",
+        "Cozinhe a carne na água da canjica por 1h.",
+        "Bata pimentas com alho, cebola e cominho; coe para o caldo.",
+        "Adicione canjica; cozinhe 20 min.",
+        "Sirva em tigelas grandes com guarnições ao lado (todo mundo se serve)."
+      ],
+      "dica": "Guarnições são essenciais: sem alface e rabanete não é pozole autêntico!",
+      "isExtra": true,
+      "id": "mexico-pozole-rojo-m-1",
+      "pais": "México",
+      "flag": "🇲🇽"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "pais": "Chile",
+  "recipes": [
+    {
+      "id": "chile-empanadas-de-pino-0",
+      "nome": "Empanadas de Pino",
+      "pais": "Chile",
+      "flag": "🇨🇱",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Empanadas de Pino, um clássico de Chile preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Chile, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Empanadas de Pino (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Empanadas de Pino, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Empanadas de Pino quente como manda a tradição."
+      ],
+      "dica": "Em Chile, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "chile-pastel-de-choclo-1",
+      "nome": "Pastel de Choclo",
+      "pais": "Chile",
+      "flag": "🇨🇱",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pastel de Choclo, um clássico de Chile preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Chile, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pastel de Choclo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pastel de Choclo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pastel de Choclo quente como manda a tradição."
+      ],
+      "dica": "Em Chile, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "chile-completo-italiano--cachorro-quente-2",
+      "nome": "Completo Italiano (Cachorro-quente)",
+      "pais": "Chile",
+      "flag": "🇨🇱",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Completo Italiano (Cachorro-quente), um clássico de Chile preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Chile, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Completo Italiano (Cachorro-quente) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Completo Italiano (Cachorro-quente), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Completo Italiano (Cachorro-quente) quente como manda a tradição."
+      ],
+      "dica": "Em Chile, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "chile-caldillo-de-congrio-3",
+      "nome": "Caldillo de Congrio",
+      "pais": "Chile",
+      "flag": "🇨🇱",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Caldillo de Congrio, um clássico de Chile preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Chile, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Caldillo de Congrio (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Caldillo de Congrio, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Caldillo de Congrio quente como manda a tradição."
+      ],
+      "dica": "Em Chile, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "chile-mote-con-huesillo-4",
+      "nome": "Mote con Huesillo",
+      "pais": "Chile",
+      "flag": "🇨🇱",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Mote con Huesillo, um clássico de Chile preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Chile, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Mote con Huesillo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Mote con Huesillo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Mote con Huesillo quente como manda a tradição."
+      ],
+      "dica": "Em Chile, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "chile-alfajores-chilenos-com-manjar-5",
+      "nome": "Alfajores Chilenos com Manjar",
+      "pais": "Chile",
+      "flag": "🇨🇱",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Alfajores Chilenos com Manjar, um clássico de Chile preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Chile, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Alfajores Chilenos com Manjar (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Alfajores Chilenos com Manjar, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Alfajores Chilenos com Manjar quente como manda a tradição."
+      ],
+      "dica": "Em Chile, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "chile-pan-amasado-6",
+      "nome": "Pan Amasado",
+      "pais": "Chile",
+      "flag": "🇨🇱",
+      "categoria": "paes",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pan Amasado, um clássico de Chile preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Chile, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pan Amasado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pan Amasado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pan Amasado quente como manda a tradição."
+      ],
+      "dica": "Em Chile, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "chile-pisco-chileno-sour-7",
+      "nome": "Pisco Chileno Sour",
+      "pais": "Chile",
+      "flag": "🇨🇱",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pisco Chileno Sour, um clássico de Chile preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Chile, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pisco Chileno Sour (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pisco Chileno Sour, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pisco Chileno Sour quente como manda a tradição."
+      ],
+      "dica": "Em Chile, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Completo Italiano",
+      "categoria": "salgados",
+      "tempo": "15 min",
+      "porcoes": "4 completos",
+      "dificuldade": "Fácil",
+      "desc": "Cachorro-quente chileno com tomate, abacate e maionese — cores da bandeira italiana.",
+      "historia": "O completo chileno é venerado. \"Italiano\" = tomate (vermelho), abacate (verde), maionese (branco).",
+      "ingredientes": [
+        "4 salsichas vienenses longas",
+        "4 pães de completo (longos, macios)",
+        "2 tomates bem maduros picados",
+        "2 abacates grandes amassados com sal e limão",
+        "Maionese generosa",
+        "Chucrut (opcional)",
+        "Pimenta merkén"
+      ],
+      "passos": [
+        "Cozinhe salsichas em água quente (sem ferver) 5 min.",
+        "Aqueça pães no vapor.",
+        "Corte pão ao meio, coloque salsicha.",
+        "Cubra com tomate, abacate e MUITA maionese (transbordando).",
+        "Salpique merkén."
+      ],
+      "dica": "Maionese deve transbordar! O completo chileno é bagunçado de propósito.",
+      "isExtra": true,
+      "id": "chile-completo-italiano-m-0",
+      "pais": "Chile",
+      "flag": "🇨🇱"
+    },
+    {
+      "nome": "Pastel de Choclo",
+      "categoria": "pratos",
+      "tempo": "1h30",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Torta de milho doce com pino (carne, ovo, azeitonas, uvas-passas) — clássico chileno.",
+      "historia": "É servido em tigela de barro em todo o Chile desde o século XVII.",
+      "ingredientes": [
+        "Pino: 500g carne moída, 2 cebolas, azeitonas pretas, uvas-passas, 2 ovos cozidos",
+        "8 choclos grandes (milho) ou 600g milho congelado",
+        "50g manjericão",
+        "2 colheres farinha ou amido",
+        "1 leite, 30g manteiga, açúcar, sal",
+        "Açúcar para polvilhar por cima"
+      ],
+      "passos": [
+        "Faça o pino: refogue cebola, junte carne; cozinhe 20 min; reserve e misture azeitonas/passas.",
+        "Bata milho cru no processador com manjericão.",
+        "Refogue a massa de milho em manteiga com leite; adicione farinha até ficar grosso como purê.",
+        "Em tigelas de barro coloque pino com rodelas de ovo; cubra com massa de milho.",
+        "Polvilhe açúcar por cima para fazer uma casquinha doce.",
+        "Asse a 200°C por 30–35 min até dourar."
+      ],
+      "dica": "O contraste doce do milho com o salgado do pino é a essência deste prato.",
+      "isExtra": true,
+      "id": "chile-pastel-de-choclo-m-1",
+      "pais": "Chile",
+      "flag": "🇨🇱"
+    }
+  ]
+}

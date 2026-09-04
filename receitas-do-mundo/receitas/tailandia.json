@@ -1,0 +1,323 @@
+{
+  "pais": "Tailândia",
+  "recipes": [
+    {
+      "id": "tailandia-massaman-curry-0",
+      "nome": "Massaman Curry",
+      "pais": "Tailândia",
+      "flag": "🇹🇭",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Massaman Curry, um clássico de Tailândia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Tailândia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Massaman Curry (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Massaman Curry, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Massaman Curry quente como manda a tradição."
+      ],
+      "dica": "Em Tailândia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "tailandia-som-tum--salada-de-mamao-verde-1",
+      "nome": "Som Tum (Salada de Mamão Verde)",
+      "pais": "Tailândia",
+      "flag": "🇹🇭",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Som Tum (Salada de Mamão Verde), um clássico de Tailândia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Tailândia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Som Tum (Salada de Mamão Verde) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Som Tum (Salada de Mamão Verde), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Som Tum (Salada de Mamão Verde) quente como manda a tradição."
+      ],
+      "dica": "Em Tailândia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "tailandia-pad-see-ew--macarrao-largo-com-molho-de-soja-2",
+      "nome": "Pad See Ew (Macarrão Largo com Molho de Soja)",
+      "pais": "Tailândia",
+      "flag": "🇹🇭",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Pad See Ew (Macarrão Largo com Molho de Soja), um clássico de Tailândia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Tailândia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pad See Ew (Macarrão Largo com Molho de Soja) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pad See Ew (Macarrão Largo com Molho de Soja), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pad See Ew (Macarrão Largo com Molho de Soja) quente como manda a tradição."
+      ],
+      "dica": "Em Tailândia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "tailandia-sopa-tom-kha-gai-3",
+      "nome": "Sopa Tom Kha Gai",
+      "pais": "Tailândia",
+      "flag": "🇹🇭",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sopa Tom Kha Gai, um clássico de Tailândia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Tailândia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sopa Tom Kha Gai (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sopa Tom Kha Gai, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sopa Tom Kha Gai quente como manda a tradição."
+      ],
+      "dica": "Em Tailândia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "tailandia-mango-sticky-rice-4",
+      "nome": "Mango Sticky Rice",
+      "pais": "Tailândia",
+      "flag": "🇹🇭",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Mango Sticky Rice, um clássico de Tailândia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Tailândia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Mango Sticky Rice (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Mango Sticky Rice, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Mango Sticky Rice quente como manda a tradição."
+      ],
+      "dica": "Em Tailândia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "tailandia-roti-com-leite-condensado-5",
+      "nome": "Roti com Leite Condensado",
+      "pais": "Tailândia",
+      "flag": "🇹🇭",
+      "categoria": "paes",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Roti com Leite Condensado, um clássico de Tailândia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Tailândia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Roti com Leite Condensado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Roti com Leite Condensado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Roti com Leite Condensado quente como manda a tradição."
+      ],
+      "dica": "Em Tailândia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "tailandia-cha-thai-gelado-6",
+      "nome": "Chá Thai Gelado",
+      "pais": "Tailândia",
+      "flag": "🇹🇭",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Chá Thai Gelado, um clássico de Tailândia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Tailândia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chá Thai Gelado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chá Thai Gelado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chá Thai Gelado quente como manda a tradição."
+      ],
+      "dica": "Em Tailândia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "tailandia-khao-soi-do-norte-7",
+      "nome": "Khao Soi do Norte",
+      "pais": "Tailândia",
+      "flag": "🇹🇭",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Khao Soi do Norte, um clássico de Tailândia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Tailândia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Khao Soi do Norte (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Khao Soi do Norte, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Khao Soi do Norte quente como manda a tradição."
+      ],
+      "dica": "Em Tailândia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "tailandia-satay-de-frango-com-molho-amendoim-8",
+      "nome": "Satay de Frango com Molho Amendoim",
+      "pais": "Tailândia",
+      "flag": "🇹🇭",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Satay de Frango com Molho Amendoim, um clássico de Tailândia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Tailândia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Satay de Frango com Molho Amendoim (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Satay de Frango com Molho Amendoim, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Satay de Frango com Molho Amendoim quente como manda a tradição."
+      ],
+      "dica": "Em Tailândia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Tom Yum Goong",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Sopa picante azeda de camarão com capim-limão, galanga e folhas de lima kaffir.",
+      "historia": "Uma das sopas mais famosas da Tailândia — equilíbrio de azedo, salgado, picante e doce.",
+      "ingredientes": [
+        "400g camarões grandes",
+        "1L caldo",
+        "2 capim-limão em pedaços",
+        "3 fatias galanga",
+        "4 folhas lima kaffir rasgadas",
+        "3 pimentas thai esmagadas",
+        "200g cogumelos palha/shiitake",
+        "2 tomates em gomos",
+        "3 colheres nam pla (molho peixe)",
+        "3 colheres suco limão",
+        "1 colher nam prik pao (pasta de pimenta torrada)",
+        "Coentro"
+      ],
+      "passos": [
+        "Ferva caldo com capim-limão, galanga e kaffir 5 min.",
+        "Adicione cogumelos e tomate 3 min.",
+        "Junte camarões; cozinhe 2 min até mudarem cor.",
+        "DESLIGUE fogo. Junte nam pla, suco limão, nam prik pao.",
+        "Prove e ajuste equilíbrio; salpique coentro."
+      ],
+      "dica": "Limão e coentro NÃO FERVEM — adicionar desligado para manter frescor.",
+      "isExtra": true,
+      "id": "tailandia-tom-yum-goong-m-0",
+      "pais": "Tailândia",
+      "flag": "🇹🇭"
+    },
+    {
+      "nome": "Pad See Ew",
+      "categoria": "pratos",
+      "tempo": "20 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Macarrão largo frito em shoyu preto, com brócolis chinês e frango/boi.",
+      "historia": "Comida de rua tailandesa — sabor defumado de wok. O nome significa \"frito com shoyu\".",
+      "ingredientes": [
+        "200g macarrão de arroz largo (sen yai)",
+        "150g frango em tiras ou boi",
+        "2 dentes alho picados",
+        "1 ovo",
+        "1 xícara brócolis chinês (kai lan) em pedaços",
+        "2 colheres shoyu preto doce",
+        "1 colher shoyu claro",
+        "1 colher molho ostra",
+        "Óleo"
+      ],
+      "passos": [
+        "Aqueça wok EM FOGO ALTO. Doure alho e carne.",
+        "Empurre para o lado; quebre ovo e mexa.",
+        "Adicione macarrão diretamente na wok; junte molhos e brócolis.",
+        "Salteie rápido 3 min; macarrão deve ficar tostado levemente."
+      ],
+      "dica": "Wok muito quente — o leve \"queimado\" do macarrão é chamado wok hei e é essencial.",
+      "isExtra": true,
+      "id": "tailandia-pad-see-ew-m-1",
+      "pais": "Tailândia",
+      "flag": "🇹🇭"
+    }
+  ]
+}

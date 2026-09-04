@@ -1,0 +1,31 @@
+{
+  "pais": "El Salvador",
+  "recipes": [
+    {
+      "nome": "Pupusas",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "12 pupusas",
+      "dificuldade": "Média",
+      "desc": "Tortillas de milho recheadas com queijo, feijão, chicharrón ou loroco — prato nacional salvadorenho.",
+      "historia": "Indígenas pipil faziam pupusas há milhares de anos. Servidas com curtido (repolho curtido) e molho de tomate.",
+      "ingredientes": [
+        "Massa: 400g farinha de milho (masa harina), água morna, sal",
+        "Recheios: queijo quesillo, feijão refrito, chicharrón moído, queijo com loroco",
+        "Curtido: repolho ralado, cenoura, cebola, vinagre, orégano",
+        "Molho: tomate cozido batido com cebola, alho, pimenta"
+      ],
+      "passos": [
+        "Faça massa homogênea; divida em 12 bolas.",
+        "Achate na mão, coloque recheio no centro, feche e achate disco de 1cm.",
+        "Cozinhe em comal (chapa) quente sem óleo, 3 min cada lado, até formar bolhas douradas.",
+        "Sirva com curtido e molho de tomate."
+      ],
+      "dica": "Curtido DEVE ficar curtido por algumas horas em vinagre para ficar azedo — é essencial com pupusas quentes.",
+      "isExtra": true,
+      "id": "el-salvador-pupusas-m-0",
+      "pais": "El Salvador",
+      "flag": "🇸🇻"
+    }
+  ]
+}

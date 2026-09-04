@@ -1,0 +1,351 @@
+{
+  "pais": "Grécia",
+  "recipes": [
+    {
+      "id": "grecia-tzatziki-com-pao-pita-0",
+      "nome": "Tzatziki com Pão Pita",
+      "pais": "Grécia",
+      "flag": "🇬🇷",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tzatziki com Pão Pita, um clássico de Grécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Grécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tzatziki com Pão Pita (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tzatziki com Pão Pita, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tzatziki com Pão Pita quente como manda a tradição."
+      ],
+      "dica": "Em Grécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "grecia-moussaka-classica-1",
+      "nome": "Moussaka Clássica",
+      "pais": "Grécia",
+      "flag": "🇬🇷",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Moussaka Clássica, um clássico de Grécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Grécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Moussaka Clássica (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Moussaka Clássica, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Moussaka Clássica quente como manda a tradição."
+      ],
+      "dica": "Em Grécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "grecia-spanakopita--torta-de-espinafre-2",
+      "nome": "Spanakopita (Torta de Espinafre)",
+      "pais": "Grécia",
+      "flag": "🇬🇷",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Spanakopita (Torta de Espinafre), um clássico de Grécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Grécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Spanakopita (Torta de Espinafre) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Spanakopita (Torta de Espinafre), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Spanakopita (Torta de Espinafre) quente como manda a tradição."
+      ],
+      "dica": "Em Grécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "grecia-avgolemono--sopa-de-ovo-e-limao-3",
+      "nome": "Avgolemono (Sopa de Ovo e Limão)",
+      "pais": "Grécia",
+      "flag": "🇬🇷",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Avgolemono (Sopa de Ovo e Limão), um clássico de Grécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Grécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Avgolemono (Sopa de Ovo e Limão) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Avgolemono (Sopa de Ovo e Limão), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Avgolemono (Sopa de Ovo e Limão) quente como manda a tradição."
+      ],
+      "dica": "Em Grécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "grecia-loukoumades-com-mel-4",
+      "nome": "Loukoumades com Mel",
+      "pais": "Grécia",
+      "flag": "🇬🇷",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Loukoumades com Mel, um clássico de Grécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Grécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Loukoumades com Mel (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Loukoumades com Mel, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Loukoumades com Mel quente como manda a tradição."
+      ],
+      "dica": "Em Grécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "grecia-pao-pita-assado-5",
+      "nome": "Pão Pita Assado",
+      "pais": "Grécia",
+      "flag": "🇬🇷",
+      "categoria": "paes",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pão Pita Assado, um clássico de Grécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Grécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pão Pita Assado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pão Pita Assado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pão Pita Assado quente como manda a tradição."
+      ],
+      "dica": "Em Grécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "grecia-ouzo-com-mezedes-6",
+      "nome": "Ouzo com Mezedes",
+      "pais": "Grécia",
+      "flag": "🇬🇷",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Ouzo com Mezedes, um clássico de Grécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Grécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Ouzo com Mezedes (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Ouzo com Mezedes, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Ouzo com Mezedes quente como manda a tradição."
+      ],
+      "dica": "Em Grécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "grecia-bougatsa-com-creme-7",
+      "nome": "Bougatsa com Creme",
+      "pais": "Grécia",
+      "flag": "🇬🇷",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Bougatsa com Creme, um clássico de Grécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Grécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bougatsa com Creme (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bougatsa com Creme, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bougatsa com Creme quente como manda a tradição."
+      ],
+      "dica": "Em Grécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "grecia-pastitsio-8",
+      "nome": "Pastitsio",
+      "pais": "Grécia",
+      "flag": "🇬🇷",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pastitsio, um clássico de Grécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Grécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pastitsio (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pastitsio, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pastitsio quente como manda a tradição."
+      ],
+      "dica": "Em Grécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Tzatziki",
+      "pais": "Grécia",
+      "flag": "🇬🇷",
+      "categoria": "salgados",
+      "tempo": "20 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Iogurte grego espesso com pepino, alho e azeite — meze refrescante.",
+      "historia": "Existe em todo o Mediterrâneo, mas a versão grega é a mais famosa. Acompanhamento de souvlaki e giroscópios.",
+      "ingredientes": [
+        "500g iogurte grego integral ESPESSO (coado)",
+        "1 pepino grande",
+        "2–3 dentes alho esmagados",
+        "40ml azeite extravirgem",
+        "1 colher vinagre de vinho branco",
+        "Sal marinho",
+        "Azeitonas pretas e pão pita para servir"
+      ],
+      "passos": [
+        "Descasque o pepino, rale grosso e ESPREMA MUITO BEM com as mãos ou pano para tirar toda água (passo crucial!).",
+        "Esmague alho com sal em pilão para ficar pasta.",
+        "Misture iogurte com pepino espremido, alho, azeite e vinagre.",
+        "Ajuste sal; gele por 1h antes de servir.",
+        "Sirva regado com azeite e azeitonas, acompanhado de pita."
+      ],
+      "dica": "Aperte o pepino até sair TUDO a água — pepino molhado = tzatziki aguado.",
+      "isExtra": true,
+      "id": "grecia-tzatziki-extra-0"
+    },
+    {
+      "nome": "Moussaka",
+      "pais": "Grécia",
+      "flag": "🇬🇷",
+      "categoria": "pratos",
+      "tempo": "2h30",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Berinjela fatiada, molho de carne com tomate e canela, cobertura de bechamel dourado.",
+      "historia": "A versão que conhecemos foi criada pelo chef grego Tselementes em 1920, inspirado na lasanha italiana.",
+      "ingredientes": [
+        "3 berinjelas grandes fatiadas longitudinalmente",
+        "500g carne moída cordeiro (ou boi)",
+        "1 cebola, 2 dentes alho",
+        "400g tomate pelado",
+        "50ml vinho tinto",
+        "1 colher canela em pó, orégano, sal, pimenta",
+        "Bechamel: 60g manteiga, 60g farinha, 600ml leite, noz-moscada, 2 ovos, 80g queijo kefalotyri",
+        "Azeite, queijo extra para polvilhar"
+      ],
+      "passos": [
+        "Fatie berinjela 1cm; grelhe ou frite até dourar; escorra em papel.",
+        "Faça o molho: refogue cebola, alho, doure carne, deglace vinho, junte tomate e canela; cozinhe 25 min até ficar espesso.",
+        "Faça bechamel: derreta manteiga, cozinhe farinha 2 min, adicione leite mexendo; cozinhe engrossar; tempere; junte ovos e queijo fora do fogo.",
+        "Monte: camada berinjela, todo molho de carne, camada berinjela, todo bechamel por cima.",
+        "Asse a 180°C por 45–50 min até dourar e borbulhar.",
+        "Deixe DESCANSAR 25 min antes de fatiar!"
+      ],
+      "dica": "Deixar esfriar 20+ min antes de fatiar é OBRIGATÓRIO — se cortar quente desmancha completamente.",
+      "isExtra": true,
+      "id": "grecia-moussaka-extra-1"
+    },
+    {
+      "nome": "Spanakopita",
+      "categoria": "salgados",
+      "tempo": "1h15",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Torta folhada de espinafre e queijo feta entre folhas de massa filo.",
+      "historia": "Prato camponês grego, servido em festas e piqueniques, em forma de triângulos ou torta grande.",
+      "ingredientes": [
+        "10 folhas massa filo",
+        "500g espinafre refogado espremido MUITO BEM",
+        "200g queijo feta esfarelado",
+        "2 ovos batidos",
+        "1 cebola pequena picada",
+        "2 colheres dill (endro) ou salsa",
+        "100g manteiga derretida",
+        "Sal, pimenta, noz-moscada"
+      ],
+      "passos": [
+        "Refogue espinafre MUITO; escorra TOTALMENTE. Deixe esfriar.",
+        "Misture espinafre com feta, ovos, cebola, dill, temperos.",
+        "Unte forma, coloque 5 folhas filo, untando cada com manteiga.",
+        "Espalhe recheio; cubra com 5 folhas filo, untando cada; dobre bordas para dentro.",
+        "Asse a 180°C por 45 min até dourar.",
+        "Sirva morno ou frio."
+      ],
+      "dica": "Esprema espinafre até sair toda água — recheio molhado deixa a filo encharcada.",
+      "isExtra": true,
+      "id": "grecia-spanakopita-m-0",
+      "pais": "Grécia",
+      "flag": "🇬🇷"
+    }
+  ]
+}

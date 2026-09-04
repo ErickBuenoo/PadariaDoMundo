@@ -1,0 +1,382 @@
+{
+  "pais": "Argentina",
+  "recipes": [
+    {
+      "id": "argentina-choripan-com-chimichurri-0",
+      "nome": "Choripán com Chimichurri",
+      "pais": "Argentina",
+      "flag": "🇦🇷",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Choripán com Chimichurri, um clássico de Argentina preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Argentina, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Choripán com Chimichurri (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Choripán com Chimichurri, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Choripán com Chimichurri quente como manda a tradição."
+      ],
+      "dica": "Em Argentina, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "argentina-locro-do-dia-da-independencia-1",
+      "nome": "Locro do Dia da Independência",
+      "pais": "Argentina",
+      "flag": "🇦🇷",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Locro do Dia da Independência, um clássico de Argentina preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Argentina, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Locro do Dia da Independência (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Locro do Dia da Independência, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Locro do Dia da Independência quente como manda a tradição."
+      ],
+      "dica": "Em Argentina, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "argentina-alfajores-de-maizena-2",
+      "nome": "Alfajores de Maizena",
+      "pais": "Argentina",
+      "flag": "🇦🇷",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Alfajores de Maizena, um clássico de Argentina preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Argentina, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Alfajores de Maizena (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Alfajores de Maizena, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Alfajores de Maizena quente como manda a tradição."
+      ],
+      "dica": "Em Argentina, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "argentina-medialunas-de-manteiga-3",
+      "nome": "Medialunas de Manteiga",
+      "pais": "Argentina",
+      "flag": "🇦🇷",
+      "categoria": "paes",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Medialunas de Manteiga, um clássico de Argentina preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Argentina, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Medialunas de Manteiga (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Medialunas de Manteiga, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Medialunas de Manteiga quente como manda a tradição."
+      ],
+      "dica": "Em Argentina, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "argentina-mate-amargo-4",
+      "nome": "Mate Amargo",
+      "pais": "Argentina",
+      "flag": "🇦🇷",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Mate Amargo, um clássico de Argentina preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Argentina, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Mate Amargo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Mate Amargo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Mate Amargo quente como manda a tradição."
+      ],
+      "dica": "Em Argentina, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "argentina-milanesa-napolitana-5",
+      "nome": "Milanesa Napolitana",
+      "pais": "Argentina",
+      "flag": "🇦🇷",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Milanesa Napolitana, um clássico de Argentina preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Argentina, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Milanesa Napolitana (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Milanesa Napolitana, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Milanesa Napolitana quente como manda a tradição."
+      ],
+      "dica": "Em Argentina, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "argentina-provoleta-na-churrasqueira-6",
+      "nome": "Provoleta na Churrasqueira",
+      "pais": "Argentina",
+      "flag": "🇦🇷",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Provoleta na Churrasqueira, um clássico de Argentina preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Argentina, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Provoleta na Churrasqueira (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Provoleta na Churrasqueira, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Provoleta na Churrasqueira quente como manda a tradição."
+      ],
+      "dica": "Em Argentina, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "argentina-flan-mixto-com-dulce-de-leche-7",
+      "nome": "Flan Mixto com Dulce de Leche",
+      "pais": "Argentina",
+      "flag": "🇦🇷",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Flan Mixto com Dulce de Leche, um clássico de Argentina preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Argentina, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Flan Mixto com Dulce de Leche (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Flan Mixto com Dulce de Leche, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Flan Mixto com Dulce de Leche quente como manda a tradição."
+      ],
+      "dica": "Em Argentina, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "argentina-facturas-com-cafe-8",
+      "nome": "Facturas com Café",
+      "pais": "Argentina",
+      "flag": "🇦🇷",
+      "categoria": "cafemanha",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Facturas com Café, um clássico de Argentina preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Argentina, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Facturas com Café (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Facturas com Café, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Facturas com Café quente como manda a tradição."
+      ],
+      "dica": "Em Argentina, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Chimichurri",
+      "pais": "Argentina",
+      "flag": "🇦🇷",
+      "categoria": "salgados",
+      "tempo": "15 min",
+      "porcoes": "1 pote",
+      "dificuldade": "Fácil",
+      "desc": "Molho de salsa, alho, orégano e vinagre — alma do asado argentino.",
+      "historia": "Molho de origem incerta (hispano-crioulo) que acompanha todas as carnes do churrasco.",
+      "ingredientes": [
+        "1 maço grande salsa fresca picada fininha",
+        "8 dentes alho picados MUITO",
+        "1 cebola pequena picada (opcional)",
+        "1 colher orégano seco",
+        "1 colher páprica (doce ou picante)",
+        "1 colher pimenta calabresa",
+        "100ml vinagre de vinho tinto",
+        "200ml azeite extravirgem",
+        "Sal marinho",
+        "Pimenta moída"
+      ],
+      "passos": [
+        "Pique salsa e alho finamente.",
+        "Misture todos os ingredientes secos.",
+        "Adicione vinagre e azeite; mexa bem.",
+        "Deixe descansar GELADEIRA por pelo menos 2h para sabores casarem.",
+        "Sirva com churrasco, empanadas, choripán.",
+        "Dura até 2 semanas na geladeira em vidro fechado."
+      ],
+      "dica": "Não bata no liquidificador — o chimichurri é PICADO, não triturado! Textura é importante.",
+      "isExtra": true,
+      "id": "argentina-chimichurri-extra-0"
+    },
+    {
+      "nome": "Alfajor de Maizena",
+      "pais": "Argentina",
+      "flag": "🇦🇷",
+      "categoria": "doces",
+      "tempo": "1h30",
+      "porcoes": "20 unidades",
+      "dificuldade": "Fácil",
+      "desc": "Biscoitos leves de amido de milho recheados com dulce de leche e coco ralado.",
+      "historia": "O alfajor argentino por excelência, existem em todas as confeitarias.",
+      "ingredientes": [
+        "200g manteiga amolecida",
+        "150g açúcar",
+        "3 gemas",
+        "1 essência de baunilha",
+        "100g farinha trigo",
+        "250g amido milho (maizena)",
+        "1 colher fermento",
+        "Coco ralado QS",
+        "400g dulce de leche repostero"
+      ],
+      "passos": [
+        "Bata manteiga com açúcar até creme.",
+        "Junte gemas e baunilha batendo.",
+        "Incorpore farinha, maizena e fermento. Aperte sem sovar.",
+        "Descanse 1h geladeira.",
+        "Abra massa 5mm, corte círculos 5cm.",
+        "Asse 170°C por 8 min (não deve dourar!).",
+        "Deixe esfriar COMPLETAMENTE.",
+        "Una dois biscoitos com abundante dulce de leche.",
+        "Passe coco ralado pela lateral."
+      ],
+      "dica": "Os biscoitos NÃO devem dourar. Se dourarem ficam duros depois de frios — eles firmam ao esfriar!",
+      "isExtra": true,
+      "id": "argentina-alfajor-de-maizena-extra-1"
+    },
+    {
+      "nome": "Choripán",
+      "categoria": "salgados",
+      "tempo": "25 min",
+      "porcoes": "4 unidades",
+      "dificuldade": "Fácil",
+      "desc": "Chouriço criollo assado partido ao meio no pão francês, com chimichurri.",
+      "historia": "Símbolo do asado e das ruas argentinas — \"chori\" no \"pan\". Comida de estádio de futebol!",
+      "ingredientes": [
+        "4 chouriços criollos",
+        "4 pães franceses pequenos (marraquetas)",
+        "Chimichurri",
+        "Tomate, alface (opcional)"
+      ],
+      "passos": [
+        "Asse chouriços na brasa/grelha até estourarem.",
+        "Abra pão, aqueça na grelha.",
+        "Corte chouriço ao meio longitudinalmente (tipo borboleta).",
+        "Coloque no pão; espalhe chimichurri generosamente.",
+        "Sirva quente com mais chimichurri."
+      ],
+      "dica": "Chori deve estar \"reventando\" (com a gordura saindo) — este é o ponto.",
+      "isExtra": true,
+      "id": "argentina-choripan-m-0",
+      "pais": "Argentina",
+      "flag": "🇦🇷"
+    },
+    {
+      "nome": "Medialunas",
+      "categoria": "paes",
+      "tempo": "4h + fermentação",
+      "porcoes": "12 medialunas",
+      "dificuldade": "Difícil",
+      "desc": "Croissants argentinos doces brilhantes, mais macios que os franceses, cobertos de calda.",
+      "historia": "A medialuna é o café da manhã portenho — doce, brilhante, folhada, sempre acompanhada de café com leite.",
+      "ingredientes": [
+        "Massa folhada: 500g farinha, 10g sal, 40g açúcar, 7g fermento, 2 ovos, 200ml leite, 50g manteiga",
+        "300g manteiga para laminar",
+        "Calda: 100g açúcar, 100ml água, 1 colher mel"
+      ],
+      "passos": [
+        "Faça massa com os ingredientes, adicionando 50g manteiga.",
+        "Deixe crescer 1h.",
+        "Lamine com 300g manteiga como croissant (3 dobras simples).",
+        "Corte triângulos; enrole em media-lua curvada.",
+        "Cresçam 2h até dobrarem.",
+        "Asse a 200°C por 15 min.",
+        "Pincele calda quente ao sair do forno para dar brilho."
+      ],
+      "dica": "Calda pincelada quente deixa as medialunas brilhantes e doce por fora como as da confeitaria.",
+      "isExtra": true,
+      "id": "argentina-medialunas-m-1",
+      "pais": "Argentina",
+      "flag": "🇦🇷"
+    }
+  ]
+}

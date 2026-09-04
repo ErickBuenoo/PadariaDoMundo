@@ -1,0 +1,31 @@
+{
+  "pais": "Trinidad e Tobago",
+  "recipes": [
+    {
+      "nome": "Doubles",
+      "categoria": "salgados",
+      "tempo": "3h + fermentação",
+      "porcoes": "20 doubles",
+      "dificuldade": "Médio",
+      "desc": "Sanduíche de dois bara (pão frito) com recheio de channa (grão-de-bico temperado).",
+      "historia": "Comida de rua icônica de Trinidad inventada nos anos 1930 — café da manhã popular.",
+      "ingredientes": [
+        "Bara: 300g farinha, 7g fermento, 1 colher açúcar, 1 colher sal, 1 colher cominho, óleo, água",
+        "Channa: 300g grão-de-bico demolhado, 1 cebola, 3 alhos, curry em pó, cominho, coentro, pimenta scotch bonnet",
+        "Molhos: chutney de manga, chutney de tamarindo",
+        "Cebola picada, pepino, coentro para guarnecer"
+      ],
+      "passos": [
+        "Faça massa mole para bara; deixe crescer 2h.",
+        "Cozinhe grão-de-bico com temperos até ficar macio e engrossar.",
+        "Frite discos de massa em óleo quente (incha imediatamente) até dourar.",
+        "Sirva 2 baras com channa por cima, chutneys e guarnições."
+      ],
+      "dica": "O bara deve inchar ao fritar — massa bem hidratada e fermentada.",
+      "isExtra": true,
+      "id": "trinidad-e-tobago-doubles-m-0",
+      "pais": "Trinidad e Tobago",
+      "flag": "🇹🇹"
+    }
+  ]
+}

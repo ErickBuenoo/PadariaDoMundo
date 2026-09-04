@@ -1,0 +1,263 @@
+{
+  "pais": "Indonésia",
+  "recipes": [
+    {
+      "id": "indonesia-nasi-goreng-arroz-frito-indonesio-0",
+      "nome": "Nasi Goreng Arroz Frito Indonésio",
+      "pais": "Indonésia",
+      "flag": "🇮🇩",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Nasi Goreng Arroz Frito Indonésio, um clássico de Indonésia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Indonésia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Nasi Goreng Arroz Frito Indonésio (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Nasi Goreng Arroz Frito Indonésio, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Nasi Goreng Arroz Frito Indonésio quente como manda a tradição."
+      ],
+      "dica": "Em Indonésia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "indonesia-rendang-de-carne-de-padang-1",
+      "nome": "Rendang de Carne de Padang",
+      "pais": "Indonésia",
+      "flag": "🇮🇩",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Rendang de Carne de Padang, um clássico de Indonésia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Indonésia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Rendang de Carne de Padang (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Rendang de Carne de Padang, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Rendang de Carne de Padang quente como manda a tradição."
+      ],
+      "dica": "Em Indonésia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "indonesia-satay-espetinhos-com-amendoim-2",
+      "nome": "Satay Espetinhos com Amendoim",
+      "pais": "Indonésia",
+      "flag": "🇮🇩",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Satay Espetinhos com Amendoim, um clássico de Indonésia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Indonésia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Satay Espetinhos com Amendoim (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Satay Espetinhos com Amendoim, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Satay Espetinhos com Amendoim quente como manda a tradição."
+      ],
+      "dica": "Em Indonésia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "indonesia-soto-ayam-sopa-de-frango-3",
+      "nome": "Soto Ayam Sopa de Frango",
+      "pais": "Indonésia",
+      "flag": "🇮🇩",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Soto Ayam Sopa de Frango, um clássico de Indonésia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Indonésia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Soto Ayam Sopa de Frango (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Soto Ayam Sopa de Frango, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Soto Ayam Sopa de Frango quente como manda a tradição."
+      ],
+      "dica": "Em Indonésia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "indonesia-gado-gado-salada-com-molho-amendoim-4",
+      "nome": "Gado-Gado Salada com Molho Amendoim",
+      "pais": "Indonésia",
+      "flag": "🇮🇩",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Gado-Gado Salada com Molho Amendoim, um clássico de Indonésia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Indonésia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Gado-Gado Salada com Molho Amendoim (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Gado-Gado Salada com Molho Amendoim, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Gado-Gado Salada com Molho Amendoim quente como manda a tradição."
+      ],
+      "dica": "Em Indonésia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "indonesia-kue-lapis-bolo-em-camadas-5",
+      "nome": "Kue Lapis Bolo em Camadas",
+      "pais": "Indonésia",
+      "flag": "🇮🇩",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Kue Lapis Bolo em Camadas, um clássico de Indonésia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Indonésia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Kue Lapis Bolo em Camadas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Kue Lapis Bolo em Camadas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Kue Lapis Bolo em Camadas quente como manda a tradição."
+      ],
+      "dica": "Em Indonésia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "indonesia-es-teh-manis-cha-doce-gelado-6",
+      "nome": "Es Teh Manis Chá Doce Gelado",
+      "pais": "Indonésia",
+      "flag": "🇮🇩",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Es Teh Manis Chá Doce Gelado, um clássico de Indonésia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Indonésia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Es Teh Manis Chá Doce Gelado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Es Teh Manis Chá Doce Gelado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Es Teh Manis Chá Doce Gelado quente como manda a tradição."
+      ],
+      "dica": "Em Indonésia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "indonesia-bubur-ayam-mingau-de-arroz-7",
+      "nome": "Bubur Ayam Mingau de Arroz",
+      "pais": "Indonésia",
+      "flag": "🇮🇩",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Bubur Ayam Mingau de Arroz, um clássico de Indonésia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Indonésia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bubur Ayam Mingau de Arroz (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bubur Ayam Mingau de Arroz, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bubur Ayam Mingau de Arroz quente como manda a tradição."
+      ],
+      "dica": "Em Indonésia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Nasi Goreng",
+      "categoria": "pratos",
+      "tempo": "20 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Arroz frito indonésio com kecap manis, terasi, frango/frutos do mar e ovo frito no topo.",
+      "historia": "Prato nacional da Indonésia. O ovo frito no topo com gema mole é obrigatório.",
+      "ingredientes": [
+        "4 xícaras arroz cozido de VÉSPERA",
+        "3 colheres kecap manis (molho soja doce)",
+        "1 colher molho peixe",
+        "1 colher terasi (pasta de camarão tostada)",
+        "2 alhos, 1 cebola picada",
+        "1 pimenta vermelha",
+        "2 ovos + 4 ovos para fritar",
+        "200g frango ou camarões",
+        "Cebolinha, pepino, tomate, krupuk (bolachas de camarão)"
+      ],
+      "passos": [
+        "Bata 2 ovos e faça omelete fina; fatie.",
+        "Aqueça wok; refogue alho, cebola, terasi e pimenta.",
+        "Junte frango/camarões e cozinhe.",
+        "Adicione arroz, kecap manis e molho peixe; salteie em fogo alto.",
+        "Incorpore omelete fatiada.",
+        "Frite os 4 ovos separados (com gema mole).",
+        "Sirva arroz com ovo frito por cima, krupuk, pepino e tomate."
+      ],
+      "dica": "Arroz de VÉSPERA gelado é indispensável — arroz fresco empapa o nasi goreng.",
+      "isExtra": true,
+      "id": "indonesia-nasi-goreng-m-0",
+      "pais": "Indonésia",
+      "flag": "🇮🇩"
+    }
+  ]
+}

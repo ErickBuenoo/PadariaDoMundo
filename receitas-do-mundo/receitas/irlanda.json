@@ -1,0 +1,62 @@
+{
+  "pais": "Irlanda",
+  "recipes": [
+    {
+      "nome": "Irish Stew",
+      "categoria": "sopas",
+      "tempo": "2h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Ensopado de cordeiro com batatas, cebolas e cenouras — uma panela só.",
+      "historia": "Ensopado camponês irlandês tradicional — um dos pratos mais antigos da Irlanda. Simples e reconfortante.",
+      "ingredientes": [
+        "1kg paleta de cordeiro em cubos (com osso se possível)",
+        "6 batatas grandes fatiadas grossas",
+        "4 cebolas em quartos",
+        "4 cenouras em rodelas",
+        "2 talos tomilho",
+        "1 litro caldo/água",
+        "Sal, pimenta preta",
+        "Salsinha para polvilhar"
+      ],
+      "passos": [
+        "Em panela grossa, monte CAMADAS: cordeiro temperado, cebola, cenoura, batata. Repita terminando com batata.",
+        "Cubra com caldo; adicione tomilho.",
+        "Tampe; cozinhe em fogo MUITO baixo 1h30 sem abrir.",
+        "Ajuste sal; sirva quente em tigelas, polvilhado de salsinha. Acompanhe pão soda bread."
+      ],
+      "dica": "Camadas, sem mexer — o ensopado se faz sozinho em fogo baixo.",
+      "isExtra": true,
+      "id": "irlanda-irish-stew-m-0",
+      "pais": "Irlanda",
+      "flag": "🇮🇪"
+    },
+    {
+      "nome": "Soda Bread",
+      "categoria": "paes",
+      "tempo": "50 min",
+      "porcoes": "1 pão",
+      "dificuldade": "Fácil",
+      "desc": "Pão rápido de farinha, bicarbonato e buttermilk — sem fermento nem sovar.",
+      "historia": "Pão irlandês de milhares de anos, quando não havia fermento nem forno controlado. Rápido e rústico.",
+      "ingredientes": [
+        "500g farinha integral ou branca",
+        "1 colher bicarbonato",
+        "1 colher sal",
+        "400ml buttermilk (ou leite + 1 colher suco limão)"
+      ],
+      "passos": [
+        "Pré-aqueça forno 220°C com panela de ferro dentro.",
+        "Misture farinha, bicarbonato e sal; adicione buttermilk até formar massa macia SEM sovar.",
+        "Forme bola, faça corte em cruz no topo.",
+        "Coloque na panela quente; asse 35 min. Quando bate o som oco na base está pronto.",
+        "Deixe esfriar sobre grade."
+      ],
+      "dica": "NÃO SOVE — sovar desenvolve glúten e deixa pão duro. Misture só até incorporar.",
+      "isExtra": true,
+      "id": "irlanda-soda-bread-m-1",
+      "pais": "Irlanda",
+      "flag": "🇮🇪"
+    }
+  ]
+}

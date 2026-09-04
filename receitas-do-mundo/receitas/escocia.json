@@ -1,0 +1,65 @@
+{
+  "pais": "Escócia",
+  "recipes": [
+    {
+      "nome": "Haggis com Neeps & Tatties",
+      "categoria": "pratos",
+      "tempo": "3h",
+      "porcoes": "6 porções",
+      "dificuldade": "Difícil",
+      "desc": "Miúdos de cordeiro com aveia, cebola e especiarias, cozido dentro do estômago, com nabo e batata.",
+      "historia": "Prato nacional escocês celebrado por Robert Burns na sua \"Address to a Haggis\" (1787). Noite de Burns é 25 de janeiro.",
+      "ingredientes": [
+        "1 estômago de cordeiro limpo (ou tigela refratária)",
+        "Coração, fígado e pulmões de cordeiro cozidos e moídos",
+        "200g aveia em flocos tostada",
+        "2 cebolas picadas",
+        "1 colher sal, pimenta, noz-moscada",
+        "Caldo do cozimento dos órgãos",
+        "Acompanhamento: 500g nabo amassado (neeps), 500g batata amassada (tatties)",
+        "Whisky escocês"
+      ],
+      "passos": [
+        "Limpe bem o estômago; deixe de molho em água salgada de véspera.",
+        "Cozinhe os órgãos por 1h30; reserve caldo.",
+        "Pique os órgãos; misture com aveia tostada, cebola, especiarias e caldo suficiente para ficar úmido.",
+        "Encha o estômago 2/3; costure; fure com agulha.",
+        "Cozinhe em água fervendo por 3h sem tampa.",
+        "Sirva com neeps e tatties amassados com manteiga; beba um gole de whisky."
+      ],
+      "dica": "Se o estômago parecer demais, asse em tigela de cerâmica — o sabor é o mesmo, só falta a apresentação.",
+      "isExtra": true,
+      "id": "escocia-haggis-com-neeps---tatties-m-0",
+      "pais": "Escócia",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    {
+      "nome": "Shortbread",
+      "categoria": "doces",
+      "tempo": "40 min",
+      "porcoes": "12 biscoitos",
+      "dificuldade": "Fácil",
+      "desc": "Biscoitos amanteigados escoceses — só manteiga, açúcar e farinha.",
+      "historia": "Receita que remonta ao século XVI na Escócia, creditada a Mary, Rainha dos Escoceses, que amava Petticoat Tails.",
+      "ingredientes": [
+        "200g manteiga SEM SAL amolecida",
+        "100g açúcar mascavo ou açúcar refinado",
+        "300g farinha de trigo",
+        "1 pitada sal",
+        "Açúcar para polvilhar"
+      ],
+      "passos": [
+        "Bata manteiga com açúcar até ficar cremoso mas NÃO muito aerado.",
+        "Adicione farinha e sal, misture até formar massa.",
+        "Abra em círculo 20cm sobre assadeira; marque em 12 fatias e faça furos com garfo.",
+        "Asse a 160°C por 30–35 min (deve ficar CLARO, não dourado!).",
+        "Polvilhe açúcar enquanto quente; corte pelas marcações quando morno."
+      ],
+      "dica": "Não deixe dourar! Shortbread é CLARO e amanteigado.",
+      "isExtra": true,
+      "id": "escocia-shortbread-m-1",
+      "pais": "Escócia",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    }
+  ]
+}

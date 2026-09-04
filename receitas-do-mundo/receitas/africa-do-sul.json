@@ -1,0 +1,265 @@
+{
+  "pais": "África do Sul",
+  "recipes": [
+    {
+      "id": "africa-do-sul-bobotie-prato-de-carne-com-cobertura-de-ovo-0",
+      "nome": "Bobotie Prato de Carne com Cobertura de Ovo",
+      "pais": "África do Sul",
+      "flag": "🇿🇦",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Bobotie Prato de Carne com Cobertura de Ovo, um clássico de África do Sul preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em África do Sul, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bobotie Prato de Carne com Cobertura de Ovo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bobotie Prato de Carne com Cobertura de Ovo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bobotie Prato de Carne com Cobertura de Ovo quente como manda a tradição."
+      ],
+      "dica": "Em África do Sul, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "africa-do-sul-braai-churrasco-sul-africano-1",
+      "nome": "Braai Churrasco Sul-Africano",
+      "pais": "África do Sul",
+      "flag": "🇿🇦",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Braai Churrasco Sul-Africano, um clássico de África do Sul preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em África do Sul, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Braai Churrasco Sul-Africano (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Braai Churrasco Sul-Africano, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Braai Churrasco Sul-Africano quente como manda a tradição."
+      ],
+      "dica": "Em África do Sul, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "africa-do-sul-boerewors-linguica-tradicional-2",
+      "nome": "Boerewors Linguiça Tradicional",
+      "pais": "África do Sul",
+      "flag": "🇿🇦",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Boerewors Linguiça Tradicional, um clássico de África do Sul preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em África do Sul, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Boerewors Linguiça Tradicional (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Boerewors Linguiça Tradicional, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Boerewors Linguiça Tradicional quente como manda a tradição."
+      ],
+      "dica": "Em África do Sul, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "africa-do-sul-bunny-chow-pao-recheado-com-curry-3",
+      "nome": "Bunny Chow Pão Recheado com Curry",
+      "pais": "África do Sul",
+      "flag": "🇿🇦",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Bunny Chow Pão Recheado com Curry, um clássico de África do Sul preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em África do Sul, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bunny Chow Pão Recheado com Curry (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bunny Chow Pão Recheado com Curry, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bunny Chow Pão Recheado com Curry quente como manda a tradição."
+      ],
+      "dica": "Em África do Sul, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "africa-do-sul-malva-pudding-com-damasco-4",
+      "nome": "Malva Pudding com Damasco",
+      "pais": "África do Sul",
+      "flag": "🇿🇦",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Malva Pudding com Damasco, um clássico de África do Sul preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em África do Sul, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Malva Pudding com Damasco (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Malva Pudding com Damasco, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Malva Pudding com Damasco quente como manda a tradição."
+      ],
+      "dica": "Em África do Sul, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "africa-do-sul-rooibos-cha-vermelho-5",
+      "nome": "Rooibos Chá Vermelho",
+      "pais": "África do Sul",
+      "flag": "🇿🇦",
+      "categoria": "bebidas",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Rooibos Chá Vermelho, um clássico de África do Sul preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em África do Sul, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Rooibos Chá Vermelho (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Rooibos Chá Vermelho, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Rooibos Chá Vermelho quente como manda a tradição."
+      ],
+      "dica": "Em África do Sul, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "africa-do-sul-biltong-carne-seca-6",
+      "nome": "Biltong Carne Seca",
+      "pais": "África do Sul",
+      "flag": "🇿🇦",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Biltong Carne Seca, um clássico de África do Sul preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em África do Sul, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Biltong Carne Seca (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Biltong Carne Seca, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Biltong Carne Seca quente como manda a tradição."
+      ],
+      "dica": "Em África do Sul, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "africa-do-sul-potjiekos-ensopado-na-panela-de-ferro-7",
+      "nome": "Potjiekos Ensopado na Panela de Ferro",
+      "pais": "África do Sul",
+      "flag": "🇿🇦",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Potjiekos Ensopado na Panela de Ferro, um clássico de África do Sul preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em África do Sul, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Potjiekos Ensopado na Panela de Ferro (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Potjiekos Ensopado na Panela de Ferro, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Potjiekos Ensopado na Panela de Ferro quente como manda a tradição."
+      ],
+      "dica": "Em África do Sul, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Bobotie",
+      "categoria": "pratos",
+      "tempo": "1h15",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Carne moída temperada com curry e chutney, coberta com omelete de leite e ovo — prato nacional.",
+      "historia": "Bobotie tem origem malai/cap-malaia na Cidade do Cabo. É carne com creme de ovo doce-salgado.",
+      "ingredientes": [
+        "500g cordeiro ou boi moído",
+        "1 cebola, 2 alhos",
+        "2 colheres curry em pó",
+        "2 fatias pão embebidas em leite",
+        "100ml leite + reservar para cobertura",
+        "2 ovos",
+        "3 colheres chutney de pêssego/manga",
+        "50g passas",
+        "2 folhas louro",
+        "Cobertura: 2 ovos + 150ml leite, sal, noz-moscada",
+        "Arroz amarelo, chutney extra, côco ralado, banana fatiada"
+      ],
+      "passos": [
+        "Refogue cebola e alho; junte curry, doure.",
+        "Adicione carne, doure.",
+        "Misture pão espremido, 1 ovo, chutney, passas.",
+        "Transfira para refratário; enfie folhas louro.",
+        "Asse a 180°C por 30 min.",
+        "Despeje mistura de ovos+leite por cima; asse mais 20 min até dourar.",
+        "Sirva com arroz amarelo com passas e chutney."
+      ],
+      "dica": "Doce-salgado é o segredo: chutney e passas equilibram o curry e a carne.",
+      "isExtra": true,
+      "id": "africa-do-sul-bobotie-m-0",
+      "pais": "África do Sul",
+      "flag": "🇿🇦"
+    }
+  ]
+}

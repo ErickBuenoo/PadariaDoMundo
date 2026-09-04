@@ -1,0 +1,657 @@
+{
+  "pais": "França",
+  "recipes": [
+    {
+      "id": "franca-baguette-parisienne-0",
+      "nome": "Baguette Parisienne",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "paes",
+      "tempo": "4h + fermentação",
+      "porcoes": "3 baguettes",
+      "dificuldade": "Difícil",
+      "desc": "O ícone francês — casca dourada estaladiça e miolo aerado com furinhos.",
+      "historia": "A baguette como a conhecemos foi padronizada em Paris no século XX. Em 1993, o \"Decreto do Pão\" definiu oficialmente a baguete tradicional.",
+      "ingredientes": [
+        "500g farinha T65",
+        "350ml água fria",
+        "8g de sal",
+        "3g de fermento biológico seco"
+      ],
+      "passos": [
+        "Misture farinha, água e fermento; deixe autolise por 30 min.",
+        "Adicione sal e sove delicadamente.",
+        "Fermente 1h30 fazendo dobras a cada 30 min.",
+        "Preforme baguetes; descanso 15 min.",
+        "Forme as baguetes de 30cm com pontas afiladas.",
+        "Fermente 45 min em pano enfarinhado.",
+        "Faça cortes diagonais (grignes) com navalha.",
+        "Asse a 240°C com vapor por 20–25 min até bem douradas."
+      ],
+      "dica": "O vapor nos primeiros 10 min de forno é ESSENCIAL para a casca estourar e dourar.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-pain-au-chocolat-1",
+      "nome": "Pain au Chocolat",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "cafemanha",
+      "tempo": "12 horas",
+      "porcoes": "10 unidades",
+      "dificuldade": "Difícil",
+      "desc": "Croissant quadrado recheado com barras de chocolate amargo.",
+      "historia": "Também chamado de chocolatine no sudoeste da França. Uma disputa eterna entre parisienses e toulousains.",
+      "ingredientes": [
+        "Massa de croissant laminado (mesma do croissant)",
+        "150g chocolate em barra (40%+) cortado em bastões de 1x6cm",
+        "1 ovo para pincelar"
+      ],
+      "passos": [
+        "Abra a massa de croissant laminada em retângulo de 3mm.",
+        "Corte retângulos de 8x12cm.",
+        "Coloque um bastão de chocolate na borda, enrole 1 volta, coloque outro bastão e enrole até o final.",
+        "Deixe crescer 2h até dobrarem de volume.",
+        "Pincele ovo e asse a 200°C por 15–18 min até dourar."
+      ],
+      "dica": "Use chocolate \"couverture\" com mínimo 40% cacau — chocolate de cobertura derrete e escapa por todos os lados!",
+      "isExtra": true
+    },
+    {
+      "id": "franca-pain-au-raisin-2",
+      "nome": "Pain au Raisin",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "cafemanha",
+      "tempo": "12h",
+      "porcoes": "10 unidades",
+      "dificuldade": "Difícil",
+      "desc": "Massa folhada enrolada com creme de confeiteiro e uvas-passas embebidas em rum.",
+      "historia": "Um clássico viennoiserie das padarias parisienses, também chamado escargot por seu formato espiral.",
+      "ingredientes": [
+        "Massa de croissant laminado",
+        "Creme patissière: 500ml leite, 4 gemas, 80g açúcar, 30g farinha, baunilha",
+        "100g uvas-passas embebidas em rum por 2h",
+        "1 ovo para pincelar",
+        "Açúcar de confeiteiro (opcional)"
+      ],
+      "passos": [
+        "Faça o creme: ferva leite com baunilha; bata gemas com açúcar e farinha; tempere e cozinhe até engrossar; filme e resfrie.",
+        "Abra a massa em retângulo; espalhe o creme frio, deixando borda.",
+        "Polvilhe uvas-passas escorridas.",
+        "Enrole firme pelo lado mais comprido e corte rodelas de 3cm.",
+        "Deixe crescer 2h.",
+        "Pincele ovo e asse a 200°C por 15–18 min.",
+        "Polvilhe açúcar de confeiteiro ao sair do forno."
+      ],
+      "dica": "Creme de confeiteiro deve estar FRIO para aplicar na massa — creme quente derrete a manteiga e estraga o folhado.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-madeleines-3",
+      "nome": "Madeleines",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "doces",
+      "tempo": "40 min",
+      "porcoes": "24 unidades",
+      "dificuldade": "Fácil",
+      "desc": "Bolinhas em formato de concha, com a barriguinha saliente — memórias de Proust.",
+      "historia": "Imortalizadas por Marcel Proust em \"Em Busca do Tempo Perdido\", as madeleines de Commercy no século XVIII são o bolo mais literário do mundo.",
+      "ingredientes": [
+        "3 ovos",
+        "130g açúcar",
+        "150g farinha",
+        "1 colher fermento",
+        "120g manteiga derretida e fria",
+        "Raspas de 1 limão (ou 1 limão + laranja)",
+        "1 colher mel (opcional)",
+        "Manteiga e farinha para formas"
+      ],
+      "passos": [
+        "Bata ovos com açúcar e mel até triplicar de volume (muito fofo).",
+        "Adicione raspas, incorpore farinha e fermento peneirados.",
+        "Por último, manteiga fria em fio.",
+        "Deixe descansar na geladeira por 1h (isso cria a barriga).",
+        "Encha formas de madeleine untadas 2/3.",
+        "Asse a 220°C por 4 min; abaixe a 180°C e asse mais 5–6 min até formar a \"barriga\".",
+        "Desenforme imediatamente e sirva mornas."
+      ],
+      "dica": "O choque térmico (geladeira -> forno quente) é o segredo da barriga da madeleine!",
+      "isExtra": true
+    },
+    {
+      "id": "franca-eclair-au-chocolat-4",
+      "nome": "Éclair au Chocolat",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "doces",
+      "tempo": "1h30",
+      "porcoes": "10 unidades",
+      "dificuldade": "Média",
+      "desc": "Bolinho alongado de massa choux recheado com creme de confeiteiro de chocolate e coberto de fondant.",
+      "historia": "De Paris ao mundo — o nome significa \"relâmpago\" em francês, pois deve ser comido rápido antes que fique mole.",
+      "ingredientes": [
+        "Massa choux: 125ml leite, 125ml água, 100g manteiga, 1 pitada sal+açúcar, 150g farinha, 4 ovos",
+        "Creme pasteleiro chocolate: 500ml leite, 4 gemas, 80g açúcar, 30g farinha, 150g chocolate 70%, baunilha",
+        "Cobertura: fondant ou glacê de chocolate"
+      ],
+      "passos": [
+        "Ferva leite+água+manteiga+sal+açúcar; adicione farinha de uma vez e seque a massa no fogo.",
+        "Fora do fogo, junte ovos um a um.",
+        "Pipe em tiras de 10cm em assadeira.",
+        "Asse a 200°C por 15 min; abaixe a 180°C por 10 min (NÃO abra o forno!).",
+        "Deixe esfriar completamente.",
+        "Recheie com o creme de chocolate (furo de cada lado).",
+        "Cubra com glacê de chocolate derretido."
+      ],
+      "dica": "Nunca abra o forno nos primeiros 20 min da massa choux — a temperatura cai e ela murcha.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-bouillabaisse-5",
+      "nome": "Bouillabaisse",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "sopas",
+      "tempo": "1h30",
+      "porcoes": "6 porções",
+      "dificuldade": "Difícil",
+      "desc": "Sopa de peixes mediterrâneos com açafrão, servida com pão tostado e rouille.",
+      "historia": "A autêntica bouillabaisse de Marselha é regulamentada — deve conter pelo menos 3 tipos de peixes de rocha. Nada de camarão nem lagosta (isso é bouillabaisse turística!).",
+      "ingredientes": [
+        "2kg de peixes de rocha mediterrâneos (rascasse, vive, congre, saint-pierre, dourada)",
+        "1 cebola, 1 alho-poró, 2 tomates",
+        "4 dentes alho",
+        "1 cabeça de erva-doce",
+        "Açafrão em pistilos",
+        "Casca de laranja seca",
+        "Ramo de ervas (tomilho, louro, salsa, funcho)",
+        "50ml azeite",
+        "Rouille: maionese, pimenta, alho, açafrão, batata",
+        "Pão rústico tostado para servir"
+      ],
+      "passos": [
+        "Refogue cebola, alho-poró e tomate em azeite.",
+        "Adicione os peixes (cabeças e espinhas fazem caldo), ervas, casca de laranja.",
+        "Cubra com água fervendo, cozinhe em fogo alto 20 min.",
+        "Coe, espremendo bem os peixes.",
+        "Cozinhe os filhos mais nobres no caldo 8 min.",
+        "Tempere com açafrão.",
+        "Sirva o caldo com pão e rouille, depois os peixes."
+      ],
+      "dica": "Em Marselha, o caldo é servido primeiro com pão, e os peixes são trazidos em outro prato.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-coq-au-vin-jaune-6",
+      "nome": "Coq au Vin Jaune",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "pratos",
+      "tempo": "2h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Galinha do Jura cozida no vin amarelo (vin jaune), com cogumelos morel e natas.",
+      "historia": "Especialidade do Jura, uma versão mais rara e requintada do coq au vin borgonhês.",
+      "ingredientes": [
+        "1,2kg de frango caipira em pedaços",
+        "500ml vin jaune do Jura",
+        "200ml creme de leite fresco",
+        "100g de morel secos hidratados",
+        "150g bacon lardons",
+        "4 cebolinhas",
+        "3 dentes alho",
+        "200ml de caldo de frango",
+        "Manteiga, sal, pimenta"
+      ],
+      "passos": [
+        "Doure bacon; depois doure o frango na manteiga.",
+        "Flambe com um pouco de vin jaune.",
+        "Adicione cebolinhas, alho e caldo; cozinhe 1h.",
+        "Adicione morel e restante do vinho; cozinhe 20 min.",
+        "Adicione creme de leite, ajuste o molho.",
+        "Sirva com arroz ou batatas cozidas."
+      ],
+      "dica": "O vin jaune tem um sabor único de noz e oxidação — não substitua por vinho comum.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-steak-au-poivre-7",
+      "nome": "Steak au Poivre",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "pratos",
+      "tempo": "20 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Filé mignon grelhado com pimenta preta quebrada e molho de conhaque e creme.",
+      "historia": "Clássico bistrô francês do século XX — servido com batatas fritas ou purê.",
+      "ingredientes": [
+        "2 filés mignon (200g cada)",
+        "2 colheres de pimenta preta em grão quebrada grosseiramente",
+        "Sal",
+        "2 colheres de manteiga",
+        "1 colher azeite",
+        "60ml conhaque",
+        "100ml creme de leite",
+        "Batatas fritas para acompanhar"
+      ],
+      "passos": [
+        "Tempere bifes com sal; pressione a pimenta quebrada dos dois lados.",
+        "Aqueça manteiga e azeite em frigideira de ferro; sele os bifes 3 min de cada lado (ao ponto-mal).",
+        "Retire bifes; na mesma frigideira, flambe com conhaque.",
+        "Adicione creme de leite e raspe o fundo; cozinhe 1–2 min para engrossar.",
+        "Volte os bifes ao molho 1 min; sirva com molho por cima."
+      ],
+      "dica": "Deixe a carne descansar 5 min antes de servir — os sucos se redistribuem.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-soupe-a-l-oignon-gratinee-8",
+      "nome": "Soupe à l'Oignon Gratinée",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "sopas",
+      "tempo": "1h15",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Sopa de cebola caramelizada servida com pão e queijo gruyère gratinados no topo.",
+      "historia": "Criada no Les Halles de Paris no século XVIII, era comida de madrugada para os trabalhadores do mercado. Hoje é bistrô clássico.",
+      "ingredientes": [
+        "1kg de cebolas amarelas em fatias finas",
+        "50g de manteiga",
+        "1 colher de açúcar",
+        "2 dentes alho",
+        "200ml vinho branco seco",
+        "1,5L caldo de carne",
+        "1 ramo de tomilho e louro",
+        "Sal, pimenta",
+        "6 fatias de baguete tostada",
+        "200g gruyère ralado"
+      ],
+      "passos": [
+        "Caramelize cebolas com manteiga e açúcar em fogo MUITO baixo por 30 min, mexendo de vez em quando até ficar marrom dourado.",
+        "Adicione alho, deglace com vinho branco; deixe reduzir pela metade.",
+        "Junte caldo e ervas; cozinhe tampado 20 min.",
+        "Transfira para tigelas de barro; coloque pão tostado por cima e queijo generoso.",
+        "Leve ao forno/grill para gratinar até dourar e borbulhar."
+      ],
+      "dica": "A caramelização lenta das cebolas é o segredo — NÃO use fogo alto ou elas queimam antes de caramelizar.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-ratatouille-9",
+      "nome": "Ratatouille",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Ensalada de legumes mediterrâneos refogados lentamente: berinjela, abobrinha, pimentão, tomate e ervas.",
+      "historia": "Especialidade da Provença, no sul da França. A versão \"confit byaldi\" (a do filme Ratatouille) dispõe os legumes em rodelas decorativamente.",
+      "ingredientes": [
+        "1 berinjela cortada em cubos",
+        "2 abobrinhas",
+        "1 pimentão vermelho, 1 verde",
+        "2 cebolas",
+        "4 tomates maduros",
+        "3 dentes alho",
+        "50ml azeite extravirgem",
+        "Tomilho, louro, manjericão fresco",
+        "Sal, pimenta",
+        "Raspas de limão"
+      ],
+      "passos": [
+        "Refogue cada legume separadamente no azeite até dourar (berinjela primeiro, depois abobrinha, pimentão, cebola).",
+        "Misture todos numa panela, adicione alho, tomate em cubos e ervas.",
+        "Cozinhe tampado em fogo baixo por 20 min.",
+        "Finalize com manjericão fresco e um fio de azeite cru.",
+        "Sirva morno ou frio como acompanhamento de carne ou peixe."
+      ],
+      "dica": "Não cozinhe todos os legumes juntos! Eles liberam água e ficam aguados — cada um no seu tempo.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-tarte-tatin-10",
+      "nome": "Tarte Tatin",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "8 fatias",
+      "dificuldade": "Média",
+      "desc": "Torta de maçã invertida, caramelizada com manteiga e açúcar — \"erro\" que virou clássico.",
+      "historia": "Criada por acidente pelas irmãs Tatin em Lamotte-Beuvron em 1898. Esqueceram de colocar a massa na forma e colocaram por cima da maçã — virou lenda.",
+      "ingredientes": [
+        "6 maçãs Golden Delicious ou Reinetas",
+        "150g açúcar",
+        "80g manteiga",
+        "1 disco de massa quebrada ou folhada de 24cm",
+        "Canela em pó (opcional)",
+        "Creme fraîche para servir"
+      ],
+      "passos": [
+        "Em uma forma de ferro (que vai ao forno), faça caramelo com açúcar e 1 colher de água até âmbar.",
+        "Junte a manteiga fora do fogo.",
+        "Descasque maçãs, tire caroços e corte em quartos; disponha em círculo sobre o caramelo, bem apertadas.",
+        "Leve ao fogo médio por 15 min para cozinhar as maçãs no caramelo.",
+        "Cubra com a massa, enfiando as bordas para dentro como um lençol.",
+        "Fure a massa com um garfo.",
+        "Asse a 190°C por 30–35 min até a massa dourar.",
+        "Desenforme VIRANDO de uma vez (invertida) enquanto ainda quente — se esfriar, o caramelo cola."
+      ],
+      "dica": "Desenforme QUENTE — se esperar 5 min a mais, o caramelo fica pegajoso e grudará tudo.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-cassoulet-11",
+      "nome": "Cassoulet",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "pratos",
+      "tempo": "5 horas",
+      "porcoes": "8 porções",
+      "dificuldade": "Difícil",
+      "desc": "Ensalada de feijão branco com confit de pato, linguiça de Toulouse e carne de porco, coberto de farofa de pão.",
+      "historia": "Prato do sudoeste da França (Languedoc). O nome vem da cassole — tigela de barro onde é cozido no forno por horas. Três cidades reivindicam sua origem: Castelnaudary, Carcassonne e Toulouse.",
+      "ingredientes": [
+        "500g feijão branco tarbais demolhado",
+        "4 pernas de pato confitadas",
+        "300g linguiça de Toulouse",
+        "300g paleta de porco",
+        "200g bacon",
+        "1 cebola, 2 cenouras, 4 dentes alho",
+        "1 lata de tomate pelado",
+        "Bouquet garni (tomilho, louro, salsa)",
+        "100g farinha de rosca",
+        "Sal, pimenta"
+      ],
+      "passos": [
+        "Cozinhe o feijão com cebola, cenoura, alho e bouquet por 1h30.",
+        "Doure as carnes de porco e linguiça.",
+        "Em cassola de barro, faça camadas: feijão, carnes, confit, mais feijão.",
+        "Cubra com o caldo do feijão até quase cobrir.",
+        "Polvilhe farinha de rosca por cima.",
+        "Asse a 150°C por 2h30, até a superfície ficar dourada e borbulhante."
+      ],
+      "dica": "Diz a tradição que o cassoulet autêntico deve ter sua crosta quebrada 7 vezes durante o cozimento.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-buf-bourguignon-12",
+      "nome": "Bœuf Bourguignon",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "pratos",
+      "tempo": "3h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Ensopado de boi no vinho tinto da Borgonha com cebolas, bacon e cogumelos.",
+      "historia": "Imortalizado por Julia Child como \"um dos pratos de carne mais deliciosos já concebidos pelo homem\".",
+      "ingredientes": [
+        "1,2kg acém ou paleta em cubos de 5cm",
+        "150g bacon em cubos",
+        "500ml vinho tinto Borgonha",
+        "200ml caldo de carne",
+        "20 cebolinhas pérolas",
+        "300g cogumelos paris",
+        "2 cenouras",
+        "1 cebola",
+        "3 dentes alho",
+        "2 colheres farinha",
+        "Bouquet garni",
+        "30ml conhaque",
+        "Manteiga, azeite, sal, pimenta"
+      ],
+      "passos": [
+        "Marine a carne no vinho de véspera com alho, cenoura e bouquet.",
+        "No dia, seque e doure a carne em manteiga/azeite junto com o bacon.",
+        "Retire a carne, doure cenoura e cebola; volte carne, polvilhe farinha e doure 1 min.",
+        "Flambe com conhaque.",
+        "Adicione vinho da marinada e caldo; cozinhe tampado a 160°C por 2h.",
+        "Enquanto isso, glaceie as cebolinhas e doure os cogumelos na manteiga.",
+        "Nos últimos 30 min, adicione cebolas e cogumelos.",
+        "Ajuste o molho e sirva com batatas cozidas ou purê."
+      ],
+      "dica": "Deixe o bourguignon de um dia para o outro — é o ensopado que fica MELHOR requentado.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-macarons-de-sabores-variados-13",
+      "nome": "Macarons de Sabores Variados",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "doces",
+      "tempo": "2h + maturação",
+      "porcoes": "30 unidades",
+      "dificuldade": "Difícil",
+      "desc": "Versões coloridas: pistache, framboesa, café, caramelo salgado, rosa.",
+      "historia": "Pierre Hermé levou o macaron a outra dimensão com combinações como o Ispahan (rosa, lichia, framboesa).",
+      "ingredientes": [
+        "Base de macaron com corantes naturais",
+        "Recheios: ganache de pistache, buttercream de framboesa, caramelo salgado, ganache de café"
+      ],
+      "passos": [
+        "Faça a massa de macaron separada em porções, tingindo cada cor.",
+        "Pipe e asse por cores separadas (o tempo varia ligeiramente).",
+        "Recheie com sabores combinando as cores.",
+        "Deixe maturar 24h na geladeira."
+      ],
+      "dica": "Macarons são mais bonitos e saborosos se descansarem 24h antes de servir!",
+      "isExtra": true
+    },
+    {
+      "id": "franca-pot-au-feu-14",
+      "nome": "Pot-au-Feu",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "pratos",
+      "tempo": "3h30",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Cozido francês por excelência: vários cortes de boi cozidos lentamente com legumes, servidos com mostarda e cornichons.",
+      "historia": "É o prato domingueiro francês. O caldo é servido primeiro como entrada, depois as carnes e legumes como prato principal.",
+      "ingredientes": [
+        "1kg de peito de boi",
+        "500g de acém",
+        "1 osso de tutano",
+        "4 cenouras, 4 nabos, 4 batatas",
+        "2 alhos-porós",
+        "1 cebola com 2 cravos espetados",
+        "Bouquet garni",
+        "Sal grosso, pimenta em grão",
+        "Acompanhamentos: mostarda Dijon, cornichons, sal grosso, rábano"
+      ],
+      "passos": [
+        "Coloque as carnes na panela com água fria; leve a ferver e espume por 15 min.",
+        "Adicione bouquet, cebola e pimenta; cozinhe em fogo muito baixo por 2h.",
+        "Adicione cenouras e nabos; depois de 30 min junte alhos-porós e batatas; cozinhe mais 25 min.",
+        "Coe o caldo e sirva como entrada com pão ralado ou massa.",
+        "Sirva carnes e legumes em travessa, com mostarda e picles.",
+        "Os ossos de tutano são servidos como petisco com sal."
+      ],
+      "dica": "Cozinhe em fogo MUITO baixo — o caldo deve \"sorrir\", não ferver agressivamente.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-creme-caramel-15",
+      "nome": "Crème Caramel",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "doces",
+      "tempo": "1h15 + resfriamento",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Creme de ovos cozido em banho-maria sobre uma camada de caramelo líquido.",
+      "historia": "Antecessor do crème brûlée — é o pudim francês clássico, servido desenformado, com o caramelo escorrendo.",
+      "ingredientes": [
+        "Caramelo: 150g açúcar, 2 colheres água",
+        "Creme: 500ml leite, 1 fava baunilha, 3 ovos + 2 gemas, 80g açúcar"
+      ],
+      "passos": [
+        "Faça caramelo com açúcar e água até âmbar; distribua em 6 ramequins.",
+        "Ferva leite com baunilha.",
+        "Bata ovos e gemas com açúcar SEM fazer espuma.",
+        "Incorpore leite quente aos poucos; coe e despeje nos ramequins sobre o caramelo frio.",
+        "Asse em banho-maria a 160°C por 35–40 min (centro deve balançar levemente).",
+        "Resfrie na geladeira por 4h ou de véspera.",
+        "Desenforme passando faca nas bordas e virando sobre prato."
+      ],
+      "dica": "Não bata os ovos com força — bolhas de ar fazem furinhos no creme, que deve ser liso como seda.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-chocolat-chaud-a-l-ancienne-16",
+      "nome": "Chocolat Chaud à l'Ancienne",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "bebidas",
+      "tempo": "15 min",
+      "porcoes": "4 xícaras",
+      "dificuldade": "Fácil",
+      "desc": "Chocolate quente grosso como em Paris, feito com chocolate em barra derretido no leite.",
+      "historia": "O chocolate quente de Paris, servido em cafés como o Café de Flore, é quase um pudim de tão grosso. Não tem nada a ver com chocolate de pó!",
+      "ingredientes": [
+        "500ml leite integral",
+        "200g chocolate amargo 70% picado",
+        "50ml creme de leite",
+        "2 colheres açúcar (opcional)",
+        "1/2 colher amido de milho (se quiser mais grosso)",
+        "Chantilly para servir"
+      ],
+      "passos": [
+        "Aqueça leite e creme até quase ferver.",
+        "Desligue, junte chocolate picado e deixe derreter 2 min; mexa até ficar homogêneo.",
+        "Se quiser mais grosso, adicione amido dissolvido; cozinhe 1 min.",
+        "Adicione açúcar a gosto.",
+        "Sirva em xícaras pequenas com chantilly por cima."
+      ],
+      "dica": "Use chocolate de boa qualidade — 70% cacau é perfeito. Não use chocolate de leite, fica enjoativo.",
+      "isExtra": true
+    },
+    {
+      "id": "franca-profiteroles-17",
+      "nome": "Profiteroles",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Pães de choux recheados com sorvete de baunilha, cobertos com calda de chocolate quente.",
+      "historia": "Sobremesa clássica de bistrô — casamento do quente e frio em cada colherada.",
+      "ingredientes": [
+        "Massa choux para 12 profiteroles pequenos",
+        "Sorvete de baunilha de boa qualidade",
+        "Calda: 200g chocolate amargo, 100ml creme de leite, 30g manteiga"
+      ],
+      "passos": [
+        "Faça a massa choux e pingue pequenas bolinhas (3cm) em assadeira; asse 25 min.",
+        "Deixe esfriar completamente.",
+        "Faça calda: derreta chocolate com creme e manteiga.",
+        "Na hora de servir, corte os profiteroles ao meio, recheie com uma bola de sorvete, coloque tampa.",
+        "Arrume 3 por prato e despeje calda quente por cima."
+      ],
+      "dica": "Os profiteroles devem ser montados NA HORA de servir — se esperar, o sorvete derrete.",
+      "isExtra": true
+    },
+    {
+      "nome": "Confit de Canard",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "pratos",
+      "tempo": "2h + cura 12h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Coxa de pato cozida lentamente na sua própria gordura — especialidade do sudoeste.",
+      "historia": "Método tradicional de conservação de carne do sudoeste francês (Gascogne) antes da refrigeração. A carne fica incrivelmente macia.",
+      "ingredientes": [
+        "4 coxas de pato com pele",
+        "40g sal grosso",
+        "4 dentes alho esmagados",
+        "Tomilho, louro, pimenta preta moída",
+        "1 kg de gordura de pato (ou ganso)",
+        "Batatas para acompanhar (sarladaise)",
+        "Alho e salsa"
+      ],
+      "passos": [
+        "Esfregue as coxas com sal, alho, tomilho e pimenta; deixe curar 12h geladeira.",
+        "Pré-aqueça forno 120°C; retire o excesso de sal.",
+        "Coloque as coxas em panela de ferro e cubra completamente com gordura derretida.",
+        "Cozinhe em fogo muito baixo/forno 1h45 até carne ficar macia.",
+        "Retire, doure a pele em frigideira quente por 5 min até ficar crocante.",
+        "Use a mesma gordura para dourar batatas cortadas em cubos.",
+        "Sirva o confit com batatas douradas e alho."
+      ],
+      "dica": "Depois de cozinhar na gordura, os confits duram meses guardados na geladeira cobertos de gordura.",
+      "isExtra": true,
+      "id": "franca-confit-de-canard-extra-0"
+    },
+    {
+      "nome": "Tarte Flambée (Flammekueche)",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "pratos",
+      "tempo": "40 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pizza alsaciana fina com creme fraîche, cebola e bacon — cozida rapidamente no forno a lenha.",
+      "historia": "Especialidade da Alsácia, região na fronteira com a Alemanha. Nome significa \"torta flambada\" pela alta temperatura.",
+      "ingredientes": [
+        "300g massa de pão finamente aberta (ou massa de pizza caseira)",
+        "200g creme fraîche (ou sour cream)",
+        "100g queijo fromage blanc",
+        "1 cebola grande em rodelas finas",
+        "150g bacon (lardons) em cubos",
+        "1 pitada noz-moscada",
+        "Sal, pimenta preta",
+        "Cebolinha picada"
+      ],
+      "passos": [
+        "Misture creme fraîche e fromage blanc, tempere com noz-moscada, sal, pimenta.",
+        "Abra a massa BEM fina em assadeira.",
+        "Espalhe o creme, cubra com cebola e bacon.",
+        "Asse no forno MAIS QUENTE possível (280°C) por 8–10 min até as bordas queimarem levemente.",
+        "Retire, polvilhe cebolinha e sirva imediatamente."
+      ],
+      "dica": "O forno deve estar o mais quente possível — tarte flambée é cozida rapidamente como pizza.",
+      "isExtra": true,
+      "id": "franca-tarte-flambee--flammekueche-extra-1"
+    },
+    {
+      "nome": "Madeleines de Commercy",
+      "pais": "França",
+      "flag": "🇫🇷",
+      "categoria": "doces",
+      "tempo": "40 min",
+      "porcoes": "24 unidades",
+      "dificuldade": "Fácil",
+      "desc": "Pequenos bolos em formato de concha, macios por dentro — feitos famosos por Proust.",
+      "historia": "As madeleines de Commercy, na Lorena, são as originais. A \"barriga\" saliente é sinal de sucesso.",
+      "ingredientes": [
+        "3 ovos grandes",
+        "130g açúcar",
+        "150g farinha",
+        "5g fermento em pó",
+        "120g manteiga derretida e fria",
+        "Raspas de 1 limão",
+        "1 colher mel",
+        "Manteiga e farinha para formas"
+      ],
+      "passos": [
+        "Bata ovos com açúcar e mel até triplicar de volume (8 min, batedeira).",
+        "Peneire farinha e fermento; incorpore delicadamente.",
+        "Adicione manteiga fria e raspas.",
+        "Deixe descansar na geladeira por 1h (essencial para a barriga!).",
+        "Encha formas de madeleine untadas 2/3 da capacidade.",
+        "Asse 220°C por 4 min, abaixe para 180°C e asse mais 5–6 min.",
+        "Desenforme imediatamente."
+      ],
+      "dica": "O choque térmico é obrigatório: massa gelada + forno quente = barriga perfeita!",
+      "isExtra": true,
+      "id": "franca-madeleines-de-commercy-extra-2"
+    }
+  ]
+}

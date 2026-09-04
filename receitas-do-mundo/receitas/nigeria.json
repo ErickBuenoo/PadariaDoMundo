@@ -1,0 +1,235 @@
+{
+  "pais": "Nigéria",
+  "recipes": [
+    {
+      "id": "nigeria-jollof-rice--arroz-com-tomate-0",
+      "nome": "Jollof Rice (Arroz com Tomate)",
+      "pais": "Nigéria",
+      "flag": "🇳🇬",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Jollof Rice (Arroz com Tomate), um clássico de Nigéria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Nigéria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Jollof Rice (Arroz com Tomate) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Jollof Rice (Arroz com Tomate), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Jollof Rice (Arroz com Tomate) quente como manda a tradição."
+      ],
+      "dica": "Em Nigéria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "nigeria-egusi-soup-com-melao-moido-1",
+      "nome": "Egusi Soup com Melão Moído",
+      "pais": "Nigéria",
+      "flag": "🇳🇬",
+      "categoria": "sopas",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Egusi Soup com Melão Moído, um clássico de Nigéria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Nigéria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Egusi Soup com Melão Moído (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Egusi Soup com Melão Moído, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Egusi Soup com Melão Moído quente como manda a tradição."
+      ],
+      "dica": "Em Nigéria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "nigeria-suya-espetinhos-de-carne-temperados-2",
+      "nome": "Suya Espetinhos de Carne Temperados",
+      "pais": "Nigéria",
+      "flag": "🇳🇬",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Suya Espetinhos de Carne Temperados, um clássico de Nigéria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Nigéria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Suya Espetinhos de Carne Temperados (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Suya Espetinhos de Carne Temperados, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Suya Espetinhos de Carne Temperados quente como manda a tradição."
+      ],
+      "dica": "Em Nigéria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "nigeria-pounded-yam-com-egusi-3",
+      "nome": "Pounded Yam com Egusi",
+      "pais": "Nigéria",
+      "flag": "🇳🇬",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pounded Yam com Egusi, um clássico de Nigéria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Nigéria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pounded Yam com Egusi (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pounded Yam com Egusi, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pounded Yam com Egusi quente como manda a tradição."
+      ],
+      "dica": "Em Nigéria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "nigeria-chin-chin--biscoitinhos-fritos-4",
+      "nome": "Chin-Chin (Biscoitinhos Fritos)",
+      "pais": "Nigéria",
+      "flag": "🇳🇬",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Chin-Chin (Biscoitinhos Fritos), um clássico de Nigéria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Nigéria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chin-Chin (Biscoitinhos Fritos) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chin-Chin (Biscoitinhos Fritos), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chin-Chin (Biscoitinhos Fritos) quente como manda a tradição."
+      ],
+      "dica": "Em Nigéria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "nigeria-puff-puff-bolinhas-doces-5",
+      "nome": "Puff-Puff Bolinhas Doces",
+      "pais": "Nigéria",
+      "flag": "🇳🇬",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Puff-Puff Bolinhas Doces, um clássico de Nigéria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Nigéria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Puff-Puff Bolinhas Doces (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Puff-Puff Bolinhas Doces, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Puff-Puff Bolinhas Doces quente como manda a tradição."
+      ],
+      "dica": "Em Nigéria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "nigeria-chapman-cocktail-nigeriano-6",
+      "nome": "Chapman Cocktail Nigeriano",
+      "pais": "Nigéria",
+      "flag": "🇳🇬",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Chapman Cocktail Nigeriano, um clássico de Nigéria preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Nigéria, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chapman Cocktail Nigeriano (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chapman Cocktail Nigeriano, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chapman Cocktail Nigeriano quente como manda a tradição."
+      ],
+      "dica": "Em Nigéria, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Jollof Rice",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Arroz de tomate vermelho picante, famoso na África Ocidental — disputado entre Nigéria e Gana.",
+      "historia": "O Jollof é prato de festa e também de rivalidade entre países. O arroz deve ficar solto e vermelho.",
+      "ingredientes": [
+        "3 xícaras arroz longo (parboilizado)",
+        "4 tomates maduros, 1 lata tomate pelado",
+        "1 pimentão vermelho",
+        "2 cebolas, 3 dentes alho",
+        "2 pimentas scotch bonnet",
+        "2 colheres pasta tomate",
+        "500ml caldo de carne/frango",
+        "Curry em pó, tomilho, louro, pimenta",
+        "Óleo, sal",
+        "Pis ou banana frita, frango grelhado para acompanhar"
+      ],
+      "passos": [
+        "Bata tomates, pimentão, 1 cebola, pimenta até virar purê; cozinhe 10 min reduzindo.",
+        "Aqueça óleo; doure cebola restante, alho, pasta tomate, curry e tomilho.",
+        "Adicione purê de tomate; cozinhe 15 min até o óleo separar.",
+        "Adicione arroz, mexa 2 min para envolver.",
+        "Junte caldo quente; cozinhe em fogo baixo TAMPADO por 25 min sem abrir até absorver.",
+        "Sirva com frango e banana frita."
+      ],
+      "dica": "Não abra a tampa enquanto cozinha! Vapor preso cozinha o arroz perfeitamente.",
+      "isExtra": true,
+      "id": "nigeria-jollof-rice-m-0",
+      "pais": "Nigéria",
+      "flag": "🇳🇬"
+    }
+  ]
+}

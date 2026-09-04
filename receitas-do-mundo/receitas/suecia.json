@@ -1,0 +1,311 @@
+{
+  "pais": "Suécia",
+  "recipes": [
+    {
+      "id": "suecia-kottbullar-almondegas-com-molho-0",
+      "nome": "Köttbullar Almôndegas com Molho",
+      "pais": "Suécia",
+      "flag": "🇸🇪",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Köttbullar Almôndegas com Molho, um clássico de Suécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Köttbullar Almôndegas com Molho (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Köttbullar Almôndegas com Molho, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Köttbullar Almôndegas com Molho quente como manda a tradição."
+      ],
+      "dica": "Em Suécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suecia-surstromming--arenque-fermentado-1",
+      "nome": "Surströmming (Arenque Fermentado)",
+      "pais": "Suécia",
+      "flag": "🇸🇪",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Surströmming (Arenque Fermentado), um clássico de Suécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Surströmming (Arenque Fermentado) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Surströmming (Arenque Fermentado), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Surströmming (Arenque Fermentado) quente como manda a tradição."
+      ],
+      "dica": "Em Suécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suecia-smorgasbord-buffet-sueco-2",
+      "nome": "Smörgåsbord Buffet Sueco",
+      "pais": "Suécia",
+      "flag": "🇸🇪",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Smörgåsbord Buffet Sueco, um clássico de Suécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Smörgåsbord Buffet Sueco (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Smörgåsbord Buffet Sueco, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Smörgåsbord Buffet Sueco quente como manda a tradição."
+      ],
+      "dica": "Em Suécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suecia-gravlaks-com-mostarda-3",
+      "nome": "Gravlaks com Mostarda",
+      "pais": "Suécia",
+      "flag": "🇸🇪",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Gravlaks com Mostarda, um clássico de Suécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Gravlaks com Mostarda (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Gravlaks com Mostarda, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Gravlaks com Mostarda quente como manda a tradição."
+      ],
+      "dica": "Em Suécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suecia-semla--bolo-de-amendoa-e-creme-4",
+      "nome": "Semla (Bolo de Amêndoa e Creme)",
+      "pais": "Suécia",
+      "flag": "🇸🇪",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Semla (Bolo de Amêndoa e Creme), um clássico de Suécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Semla (Bolo de Amêndoa e Creme) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Semla (Bolo de Amêndoa e Creme), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Semla (Bolo de Amêndoa e Creme) quente como manda a tradição."
+      ],
+      "dica": "Em Suécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suecia-princess-cake-com-marsipan-5",
+      "nome": "Princess Cake com Marsipan",
+      "pais": "Suécia",
+      "flag": "🇸🇪",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Princess Cake com Marsipan, um clássico de Suécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Princess Cake com Marsipan (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Princess Cake com Marsipan, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Princess Cake com Marsipan quente como manda a tradição."
+      ],
+      "dica": "Em Suécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suecia-knackebrod--pao-crocante-6",
+      "nome": "Knäckebröd (Pão Crocante)",
+      "pais": "Suécia",
+      "flag": "🇸🇪",
+      "categoria": "paes",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Knäckebröd (Pão Crocante), um clássico de Suécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Knäckebröd (Pão Crocante) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Knäckebröd (Pão Crocante), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Knäckebröd (Pão Crocante) quente como manda a tradição."
+      ],
+      "dica": "Em Suécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suecia-julmust-refrigerante-de-natal-7",
+      "nome": "Julmust Refrigerante de Natal",
+      "pais": "Suécia",
+      "flag": "🇸🇪",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Julmust Refrigerante de Natal, um clássico de Suécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Julmust Refrigerante de Natal (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Julmust Refrigerante de Natal, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Julmust Refrigerante de Natal quente como manda a tradição."
+      ],
+      "dica": "Em Suécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suecia-cinnamonbullen--pao-de-canela-8",
+      "nome": "Cinnamonbullen (Pão de Canela)",
+      "pais": "Suécia",
+      "flag": "🇸🇪",
+      "categoria": "cafemanha",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Cinnamonbullen (Pão de Canela), um clássico de Suécia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suécia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Cinnamonbullen (Pão de Canela) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Cinnamonbullen (Pão de Canela), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Cinnamonbullen (Pão de Canela) quente como manda a tradição."
+      ],
+      "dica": "Em Suécia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Köttbullar (Almôndegas Suecas)",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Almôndegas suecas com molho cremoso, purê de batata, geleia de mirtilo e pepinos.",
+      "historia": "Ficaram mundialmente famosas pelo IKEA, mas são receita caseira tradicional sueca desde o século XVIII.",
+      "ingredientes": [
+        "Almôndegas: 300g boi moído, 300g porco moído, 1 ovo, 100ml leite, 50g pão ralado, 1 cebola ralada, noz-moscada, sal/pimenta",
+        "Molho: 40g manteiga, 40g farinha, 400ml caldo de carne, 150ml creme de leite, molho soja, mostarda",
+        "Purê de batatas, geleia de lingonberry, pepinos conservados"
+      ],
+      "passos": [
+        "Misture pão ralado e leite 10 min. Adicione carne, cebola, ovo, noz-moscada, sal.",
+        "Faça bolinhas pequenas com as mãos úmidas.",
+        "Frite em manteiga em fogo médio girando até dourar (8 min).",
+        "Faça roux com manteiga e farinha; junte caldo aos poucos; creme, mostarda, soja; cozinhe 5 min.",
+        "Volte almôndegas ao molho 2 min.",
+        "Sirva com purê e geleia de lingonberry."
+      ],
+      "dica": "Noz-moscada em abundância é o segredo do sabor sueco das almôndegas!",
+      "isExtra": true,
+      "id": "suecia-kottbullar--almondegas-suecas-m-0",
+      "pais": "Suécia",
+      "flag": "🇸🇪"
+    },
+    {
+      "nome": "Cinnamon Buns (Kanelbullar)",
+      "categoria": "doces",
+      "tempo": "2h30",
+      "porcoes": "20 unidades",
+      "dificuldade": "Média",
+      "desc": "Pães doces de canela trançados, o \"fika\" sueco por excelência.",
+      "historia": "4 de outubro é o Dia do Kanelbullar na Suécia. Fika = café+pãozinho com os amigos.",
+      "ingredientes": [
+        "Massa: 500g farinha, 250ml leite morno, 80g açúcar, 7g fermento, 1 ovo, 70g manteiga, cardamomo",
+        "Recheio: 100g manteiga amolecida, 80g açúcar mascavo, 2 canela em pó",
+        "Cobertura: ovo batido, açúcar perolado"
+      ],
+      "passos": [
+        "Faça massa, sove 10 min; cresça 1h30.",
+        "Abra retângulo, espalhe recheio; dobre em 3; corte tiras 2cm.",
+        "Torça cada tira e enrole em nó.",
+        "Deixe crescer 45 min.",
+        "Pincele ovo; polvilhe açúcar perolado.",
+        "Asse a 220°C por 10–12 min."
+      ],
+      "dica": "Cardamomo na MASSA é o que dá sabor autêntico, não é opcional.",
+      "isExtra": true,
+      "id": "suecia-cinnamon-buns--kanelbullar-m-1",
+      "pais": "Suécia",
+      "flag": "🇸🇪"
+    }
+  ]
+}

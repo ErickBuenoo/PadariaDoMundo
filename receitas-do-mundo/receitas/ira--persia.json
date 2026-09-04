@@ -1,0 +1,261 @@
+{
+  "pais": "Irã (Pérsia)",
+  "recipes": [
+    {
+      "id": "ira--persia-chelo-kebab-com-arroz-de-acafrao-0",
+      "nome": "Chelo Kebab com Arroz de Açafrão",
+      "pais": "Irã (Pérsia)",
+      "flag": "🇮🇷",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Chelo Kebab com Arroz de Açafrão, um clássico de Irã (Pérsia) preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Irã (Pérsia), servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chelo Kebab com Arroz de Açafrão (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chelo Kebab com Arroz de Açafrão, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chelo Kebab com Arroz de Açafrão quente como manda a tradição."
+      ],
+      "dica": "Em Irã (Pérsia), esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ira--persia-ghormeh-sabzi--ensopado-de-ervas-1",
+      "nome": "Ghormeh Sabzi (Ensopado de Ervas)",
+      "pais": "Irã (Pérsia)",
+      "flag": "🇮🇷",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Ghormeh Sabzi (Ensopado de Ervas), um clássico de Irã (Pérsia) preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Irã (Pérsia), servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Ghormeh Sabzi (Ensopado de Ervas) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Ghormeh Sabzi (Ensopado de Ervas), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Ghormeh Sabzi (Ensopado de Ervas) quente como manda a tradição."
+      ],
+      "dica": "Em Irã (Pérsia), esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ira--persia-fesenjan-com-noz-e-roma-2",
+      "nome": "Fesenjan com Noz e Romã",
+      "pais": "Irã (Pérsia)",
+      "flag": "🇮🇷",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Fesenjan com Noz e Romã, um clássico de Irã (Pérsia) preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Irã (Pérsia), servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Fesenjan com Noz e Romã (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Fesenjan com Noz e Romã, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Fesenjan com Noz e Romã quente como manda a tradição."
+      ],
+      "dica": "Em Irã (Pérsia), esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ira--persia-ash-reshteh--sopa-de-macarrao-e-ervas-3",
+      "nome": "Ash Reshteh (Sopa de Macarrão e Ervas)",
+      "pais": "Irã (Pérsia)",
+      "flag": "🇮🇷",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Ash Reshteh (Sopa de Macarrão e Ervas), um clássico de Irã (Pérsia) preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Irã (Pérsia), servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Ash Reshteh (Sopa de Macarrão e Ervas) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Ash Reshteh (Sopa de Macarrão e Ervas), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Ash Reshteh (Sopa de Macarrão e Ervas) quente como manda a tradição."
+      ],
+      "dica": "Em Irã (Pérsia), esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ira--persia-baklava-persa-com-cardamomo-4",
+      "nome": "Baklava Persa com Cardamomo",
+      "pais": "Irã (Pérsia)",
+      "flag": "🇮🇷",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Baklava Persa com Cardamomo, um clássico de Irã (Pérsia) preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Irã (Pérsia), servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Baklava Persa com Cardamomo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Baklava Persa com Cardamomo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Baklava Persa com Cardamomo quente como manda a tradição."
+      ],
+      "dica": "Em Irã (Pérsia), esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ira--persia-sangak--pao-pedra-5",
+      "nome": "Sangak (Pão Pedra)",
+      "pais": "Irã (Pérsia)",
+      "flag": "🇮🇷",
+      "categoria": "paes",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sangak (Pão Pedra), um clássico de Irã (Pérsia) preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Irã (Pérsia), servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sangak (Pão Pedra) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sangak (Pão Pedra), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sangak (Pão Pedra) quente como manda a tradição."
+      ],
+      "dica": "Em Irã (Pérsia), esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ira--persia-cha-preto-com-nabot--acucar-6",
+      "nome": "Chá Preto com Nabot (Açúcar)",
+      "pais": "Irã (Pérsia)",
+      "flag": "🇮🇷",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Chá Preto com Nabot (Açúcar), um clássico de Irã (Pérsia) preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Irã (Pérsia), servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chá Preto com Nabot (Açúcar) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chá Preto com Nabot (Açúcar), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chá Preto com Nabot (Açúcar) quente como manda a tradição."
+      ],
+      "dica": "Em Irã (Pérsia), esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ira--persia-tahdig--arroz-crocante-7",
+      "nome": "Tahdig (Arroz Crocante)",
+      "pais": "Irã (Pérsia)",
+      "flag": "🇮🇷",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tahdig (Arroz Crocante), um clássico de Irã (Pérsia) preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Irã (Pérsia), servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tahdig (Arroz Crocante) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tahdig (Arroz Crocante), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tahdig (Arroz Crocante) quente como manda a tradição."
+      ],
+      "dica": "Em Irã (Pérsia), esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Chelo Kebab",
+      "categoria": "pratos",
+      "tempo": "1h + marinada",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Kebab de cordeiro/boi grelhado no espeto com arroz de açafrão e manteiga — prato nacional.",
+      "historia": "O chelo kebab iraniano é servido com somagh (sumagre), tomate grelhado e ovo cru opcional.",
+      "ingredientes": [
+        "600g filé mignon ou cordeiro em fatias para espetar",
+        "Marinada: 1 cebola ralada (escorrida), suco 2 limões, 4 colheres iogurte, açafrão moído dissolvido em água quente, sal, pimenta",
+        "4 xícaras arroz basmati de alta qualidade",
+        "100g manteiga",
+        "Açafrão em pistilos",
+        "Tomates cereja para assar",
+        "Sumagre (somaq)",
+        "Manteiga, sal"
+      ],
+      "passos": [
+        "Marine carne por 4h.",
+        "Cozinhe arroz basmati: pré-ferva, escorra, depois cozinhe em vapor (polow) com manteiga para formar tahdig crocante no fundo.",
+        "Espeite a carne; grelhe em churrasqueira bem quente até malpassado/ao ponto.",
+        "Grelhe tomates.",
+        "Sirva arroz amarelo de açafrão com kebab; polvilhe sumagre.",
+        "Coloque uma noz de manteiga no arroz quente."
+      ],
+      "dica": "Tahdig (crosta de arroz no fundo da panela) é a parte mais disputada da refeição iraniana!",
+      "isExtra": true,
+      "id": "ira--persia-chelo-kebab-m-0",
+      "pais": "Irã (Pérsia)",
+      "flag": "🇮🇷"
+    }
+  ]
+}

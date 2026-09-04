@@ -1,0 +1,34 @@
+{
+  "pais": "Sri Lanka",
+  "recipes": [
+    {
+      "nome": "Kottu Roti",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pão roti picado frito com legumes, ovos, curry e carne/frango — famoso barulho de espátula na chapa.",
+      "historia": "Comida de rua do Sri Lanka — o cozinheiro usa duas lâminas para picar tudo na grelha fazendo barulho característico.",
+      "ingredientes": [
+        "4 roti de coco (ou godamba roti) picados em pedaços",
+        "2 ovos",
+        "2 cenouras raladas, 1 alho-poró fatiado, 1 cebola, repolho fatiado",
+        "2 colheres curry em pó",
+        "150g frango ou carne cozidos desfiados",
+        "Molho de curry",
+        "Cebolinha"
+      ],
+      "passos": [
+        "Na chapa ou wok grande refogue cebola, vegetais, curry.",
+        "Junte frango e roti picados; salteie alto.",
+        "Empurre pro lado; quebre ovos, mexa rapidamente e misture tudo.",
+        "Pique com espátulas enquanto salteia; sirva com molho picante."
+      ],
+      "dica": "Corte roti em pedaços pequenos para misturar bem com todos os sabores.",
+      "isExtra": true,
+      "id": "sri-lanka-kottu-roti-m-0",
+      "pais": "Sri Lanka",
+      "flag": "🇱🇰"
+    }
+  ]
+}

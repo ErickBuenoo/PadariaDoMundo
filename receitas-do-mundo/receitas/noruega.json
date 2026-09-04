@@ -1,0 +1,258 @@
+{
+  "pais": "Noruega",
+  "recipes": [
+    {
+      "id": "noruega-gravlaks-com-mostarda-e-endro-0",
+      "nome": "Gravlaks com Mostarda e Endro",
+      "pais": "Noruega",
+      "flag": "🇳🇴",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Gravlaks com Mostarda e Endro, um clássico de Noruega preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Noruega, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Gravlaks com Mostarda e Endro (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Gravlaks com Mostarda e Endro, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Gravlaks com Mostarda e Endro quente como manda a tradição."
+      ],
+      "dica": "Em Noruega, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "noruega-rakfisk--peixe-fermentado-1",
+      "nome": "Rakfisk (Peixe Fermentado)",
+      "pais": "Noruega",
+      "flag": "🇳🇴",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Rakfisk (Peixe Fermentado), um clássico de Noruega preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Noruega, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Rakfisk (Peixe Fermentado) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Rakfisk (Peixe Fermentado), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Rakfisk (Peixe Fermentado) quente como manda a tradição."
+      ],
+      "dica": "Em Noruega, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "noruega-lutefisk-bacalhau-com-lixivia-2",
+      "nome": "Lutefisk Bacalhau com Lixívia",
+      "pais": "Noruega",
+      "flag": "🇳🇴",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Lutefisk Bacalhau com Lixívia, um clássico de Noruega preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Noruega, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Lutefisk Bacalhau com Lixívia (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Lutefisk Bacalhau com Lixívia, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Lutefisk Bacalhau com Lixívia quente como manda a tradição."
+      ],
+      "dica": "Em Noruega, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "noruega-farikal--ensopado-de-cordeiro-3",
+      "nome": "Fårikål (Ensopado de Cordeiro)",
+      "pais": "Noruega",
+      "flag": "🇳🇴",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Fårikål (Ensopado de Cordeiro), um clássico de Noruega preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Noruega, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Fårikål (Ensopado de Cordeiro) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Fårikål (Ensopado de Cordeiro), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Fårikål (Ensopado de Cordeiro) quente como manda a tradição."
+      ],
+      "dica": "Em Noruega, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "noruega-smrbrd-sanduiche-aberto-4",
+      "nome": "Smørbrød Sanduíche Aberto",
+      "pais": "Noruega",
+      "flag": "🇳🇴",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Smørbrød Sanduíche Aberto, um clássico de Noruega preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Noruega, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Smørbrød Sanduíche Aberto (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Smørbrød Sanduíche Aberto, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Smørbrød Sanduíche Aberto quente como manda a tradição."
+      ],
+      "dica": "Em Noruega, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "noruega-krumkake-biscoito-cone-noruegues-5",
+      "nome": "Krumkake Biscoito Cone Norueguês",
+      "pais": "Noruega",
+      "flag": "🇳🇴",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Krumkake Biscoito Cone Norueguês, um clássico de Noruega preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Noruega, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Krumkake Biscoito Cone Norueguês (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Krumkake Biscoito Cone Norueguês, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Krumkake Biscoito Cone Norueguês quente como manda a tradição."
+      ],
+      "dica": "Em Noruega, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "noruega-brunost-queijo-marrom-6",
+      "nome": "Brunost Queijo Marrom",
+      "pais": "Noruega",
+      "flag": "🇳🇴",
+      "categoria": "paes",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Brunost Queijo Marrom, um clássico de Noruega preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Noruega, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Brunost Queijo Marrom (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Brunost Queijo Marrom, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Brunost Queijo Marrom quente como manda a tradição."
+      ],
+      "dica": "Em Noruega, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "noruega-aquavit-noruegues-7",
+      "nome": "Aquavit Norueguês",
+      "pais": "Noruega",
+      "flag": "🇳🇴",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Aquavit Norueguês, um clássico de Noruega preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Noruega, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Aquavit Norueguês (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Aquavit Norueguês, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Aquavit Norueguês quente como manda a tradição."
+      ],
+      "dica": "Em Noruega, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Fårikål",
+      "categoria": "sopas",
+      "tempo": "2h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Ensopado de cordeiro com repolho, pimenta preta — prato nacional norueguês.",
+      "historia": "Comemorado no dia 27 de setembro (Dia do Fårikål). É servido quente com batatas.",
+      "ingredientes": [
+        "1,5kg cordeiro em cubos (paleta/peito)",
+        "1 repolho grande em quartos",
+        "2 colheres pimenta preta em grãos",
+        "2 colheres farinha",
+        "Sal",
+        "1L caldo/água",
+        "Batatas cozidas para acompanhar"
+      ],
+      "passos": [
+        "Em panela grossa monte camadas: cordeiro, repolho, pimenta, farinha, sal.",
+        "Cubra com água/caldo até cobrir.",
+        "Cozinhe em fogo muito baixo tampado por 2h, sem mexer.",
+        "Ajuste sal; sirva com batatas inteiras cozidas."
+      ],
+      "dica": "Cozimento lento sem mexer — as camadas se misturam lentamente no caldo.",
+      "isExtra": true,
+      "id": "noruega-farikal-m-0",
+      "pais": "Noruega",
+      "flag": "🇳🇴"
+    }
+  ]
+}

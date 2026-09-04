@@ -1,0 +1,380 @@
+{
+  "pais": "Peru",
+  "recipes": [
+    {
+      "id": "peru-anticuchos-de-coracao-0",
+      "nome": "Anticuchos de Coração",
+      "pais": "Peru",
+      "flag": "🇵🇪",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Anticuchos de Coração, um clássico de Peru preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Peru, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Anticuchos de Coração (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Anticuchos de Coração, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Anticuchos de Coração quente como manda a tradição."
+      ],
+      "dica": "Em Peru, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "peru-aji-de-gallina-1",
+      "nome": "Aji de Gallina",
+      "pais": "Peru",
+      "flag": "🇵🇪",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Aji de Gallina, um clássico de Peru preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Peru, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Aji de Gallina (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Aji de Gallina, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Aji de Gallina quente como manda a tradição."
+      ],
+      "dica": "Em Peru, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "peru-papa-a-la-huancaina-2",
+      "nome": "Papa a la Huancaína",
+      "pais": "Peru",
+      "flag": "🇵🇪",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Papa a la Huancaína, um clássico de Peru preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Peru, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Papa a la Huancaína (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Papa a la Huancaína, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Papa a la Huancaína quente como manda a tradição."
+      ],
+      "dica": "Em Peru, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "peru-chupe-de-camarones-3",
+      "nome": "Chupe de Camarones",
+      "pais": "Peru",
+      "flag": "🇵🇪",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Chupe de Camarones, um clássico de Peru preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Peru, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chupe de Camarones (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chupe de Camarones, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chupe de Camarones quente como manda a tradição."
+      ],
+      "dica": "Em Peru, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "peru-suspiro-a-la-limena-4",
+      "nome": "Suspiro a la Limeña",
+      "pais": "Peru",
+      "flag": "🇵🇪",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Suspiro a la Limeña, um clássico de Peru preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Peru, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Suspiro a la Limeña (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Suspiro a la Limeña, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Suspiro a la Limeña quente como manda a tradição."
+      ],
+      "dica": "Em Peru, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "peru-panettone-peruano-5",
+      "nome": "Panettone Peruano",
+      "pais": "Peru",
+      "flag": "🇵🇪",
+      "categoria": "paes",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Panettone Peruano, um clássico de Peru preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Peru, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Panettone Peruano (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Panettone Peruano, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Panettone Peruano quente como manda a tradição."
+      ],
+      "dica": "Em Peru, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "peru-pisco-sour-6",
+      "nome": "Pisco Sour",
+      "pais": "Peru",
+      "flag": "🇵🇪",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pisco Sour, um clássico de Peru preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Peru, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pisco Sour (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pisco Sour, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pisco Sour quente como manda a tradição."
+      ],
+      "dica": "Em Peru, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "peru-tiradito-de-peixe-7",
+      "nome": "Tiradito de Peixe",
+      "pais": "Peru",
+      "flag": "🇵🇪",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tiradito de Peixe, um clássico de Peru preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Peru, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tiradito de Peixe (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tiradito de Peixe, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tiradito de Peixe quente como manda a tradição."
+      ],
+      "dica": "Em Peru, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "peru-arroz-con-pollo-8",
+      "nome": "Arroz con Pollo",
+      "pais": "Peru",
+      "flag": "🇵🇪",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Arroz con Pollo, um clássico de Peru preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Peru, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Arroz con Pollo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Arroz con Pollo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Arroz con Pollo quente como manda a tradição."
+      ],
+      "dica": "Em Peru, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Ceviche Clássico de Pescado",
+      "pais": "Peru",
+      "flag": "🇵🇪",
+      "categoria": "pratos",
+      "tempo": "25 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Peixe branco \"cozido\" no suco de limão com aji, cebola roxa, coentro e leche de tigre.",
+      "historia": "Prato nacional do Peru, de origem mochica pré-colombiana, usando o limão trazido pelos espanhóis.",
+      "ingredientes": [
+        "600g corvina (ou robalo/pescada branca) em cubos 1,5cm",
+        "1 cebola roxa em juliana fina",
+        "150ml suco de limão tahiti FRESCO (coado)",
+        "2 aji limo picados sem sementes",
+        "2 dentes alho moídos",
+        "1 colher gengibre ralado",
+        "Coentro fresco picado",
+        "Sal marinho",
+        "1 batata-doce cozida em rodelas",
+        "1 choclo (milho gigante) cozido",
+        "Cancha (milho torrado)",
+        "Lechuga",
+        "Aipo picado (opcional)"
+      ],
+      "passos": [
+        "Corte peixe em cubos uniformes. Tempere com sal.",
+        "Em tigela não metálica misture peixe, alho, gengibre e aji.",
+        "Cubra com suco de limão (tem que cobrir quase tudo).",
+        "Deixe \"cozinhar\" APENAS 2–3 minutos.",
+        "Adicione cebola e coentro; mexa RAPIDAMENTE e sirva IMEDIATAMENTE.",
+        "Decore pratos com batata-doce, choclo, cancha e folha de lechuga."
+      ],
+      "dica": "SERVIR IMEDIATAMENTE. O ceviche não espera — depois de 5 min o peixe borracha e estraga.",
+      "isExtra": true,
+      "id": "peru-ceviche-classico-de-pescado-extra-0"
+    },
+    {
+      "nome": "Pisco Sour",
+      "pais": "Peru",
+      "flag": "🇵🇪",
+      "categoria": "bebidas",
+      "tempo": "5 min",
+      "porcoes": "2 coquetéis",
+      "dificuldade": "Fácil",
+      "desc": "Coquetel de Pisco com limão, clara de ovo e angostura — bebida nacional do Peru (e do Chile!).",
+      "historia": "Criado no Lima nos anos 20 pelo bartender Victor Vaugoin Morris no bar Morris. Há disputa com o Chile.",
+      "ingredientes": [
+        "120ml Pisco peruano (Quebranta)",
+        "60ml suco limão fresco",
+        "40ml xarope simples (ou açúcar)",
+        "1 clara de ovo fresca",
+        "3 cubos de gelo",
+        "2 gotas angostura por coquetel"
+      ],
+      "passos": [
+        "Bata Pisco, limão, xarope, clara e gelo na coqueteleira BEM FORTE por 15 seg (dry shake).",
+        "Coe para copos old fashioned sem gelo (ou com pouco gelo).",
+        "Pingue 2 gotas angostura por cima na espuma.",
+        "Sirva imediatamente."
+      ],
+      "dica": "A clara de ovo faz a espuma cremosa — e deve ser batida muito bem!",
+      "isExtra": true,
+      "id": "peru-pisco-sour-extra-1"
+    },
+    {
+      "nome": "Aji de Gallina",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Frango desfiado em molho cremoso amarelo de aji amarillo, pão e nozes.",
+      "historia": "Prato clássico limeño da época colonial, usa aji amarelo peruano para dar cor e sabor característicos.",
+      "ingredientes": [
+        "4 peitos frango cozidos e desfiados (reserve caldo)",
+        "2 pães brancos demolhados no leite",
+        "1/2 xícara nozes pecan moídas",
+        "1/2 xícara queijo parmesão",
+        "1 cebola picada",
+        "3 dentes alho",
+        "3 colheres pasta aji amarillo",
+        "300ml leite evaporado (ou creme+leite)",
+        "4 batatas cozidas, 4 ovos cozidos",
+        "Azeitonas pretas, arroz"
+      ],
+      "passos": [
+        "Refogue cebola e alho; adicione aji amarillo, doure 2 min.",
+        "Bata pão espremido, nozes e leite; junte ao refogo, cozinhe 5 min.",
+        "Adicione frango desfiado e queijo; cozinhe até ficar cremoso.",
+        "Sirva sobre batatas cozidas em rodelas; decore com ovo fatiado e azeitonas. Acompanhe arroz."
+      ],
+      "dica": "Aji amarillo é obrigatório — páprica não substitui seu sabor e cor.",
+      "isExtra": true,
+      "id": "peru-aji-de-gallina-m-0",
+      "pais": "Peru",
+      "flag": "🇵🇪"
+    },
+    {
+      "nome": "Suspiro a la Limeña",
+      "categoria": "doces",
+      "tempo": "40 min + resfriamento",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Sobremesa camadas de manjar blanco (doce de leite caseiro) e suspiro de merengue ao vinho do Porto.",
+      "historia": "Sobremesa limeña poética do século XIX — o nome remete a um suspiro de mulher (leve e doce).",
+      "ingredientes": [
+        "Manjar blanco: 1 lata leite condensado, 1 lata leite evaporado, 1 ovo, baunilha",
+        "Merengue: 3 claras, 150g açúcar, 50ml vinho do Porto",
+        "Canela em pó"
+      ],
+      "passos": [
+        "Cozinhe manjar branco em fogo baixo mexendo 20 min até engrossar. Divida em taças; deixe esfriar.",
+        "Faça merengue italiano: calda de açúcar em ponto fio sobre claras batidas em neve.",
+        "Incorpore vinho do Porto ao merengue; bata até esfriar.",
+        "Coloque o merengue sobre o manjar; polvilhe canela.",
+        "Gele 1h antes de servir."
+      ],
+      "dica": "O merengue deve ser brilhante e denso — o vinho do Porto dá aroma único.",
+      "isExtra": true,
+      "id": "peru-suspiro-a-la-limena-m-1",
+      "pais": "Peru",
+      "flag": "🇵🇪"
+    }
+  ]
+}

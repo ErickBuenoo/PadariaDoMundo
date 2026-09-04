@@ -1,0 +1,868 @@
+{
+  "pais": "Brasil",
+  "recipes": [
+    {
+      "id": "brasil-moqueca-baiana-0",
+      "nome": "Moqueca Baiana",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "1h15",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Ensopado de peixe com leite de coco, azeite de dendê, pimentões e coentro.",
+      "historia": "Prato de origem indígena e africana da Bahia, servido em panela de barro com pirão e farofa.",
+      "ingredientes": [
+        "1kg de peixe em postas (robalo, cação ou badejo)",
+        "400ml leite de coco",
+        "2 colheres de azeite de dendê",
+        "1 pimentão vermelho, 1 verde",
+        "2 tomates",
+        "1 cebola",
+        "3 dentes alho",
+        "Coentro e cebolinha",
+        "1 pimenta malagueta",
+        "Suco de 1 limão",
+        "Sal",
+        "200ml de leite de coco extra",
+        "Arroz branco e pirão para acompanhar"
+      ],
+      "passos": [
+        "Tempere o peixe com limão, sal e alho por 30 min.",
+        "Em panela de barro, faça camadas de cebola, tomate, pimentão e peixe.",
+        "Adicione o leite de coco e cozinhe tampado por 20 min.",
+        "Junte o dendê, a malagueta e deixe apurar 10 min.",
+        "Salpique coentro e sirva com arroz branco e pirão."
+      ],
+      "dica": "O dendê deve ser adicionado no final para não queimar e amargar.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-vatapa-1",
+      "nome": "Vatapá",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Creme cremoso de pão, camarão seco, leite de coco e amendoim, típico da Bahia.",
+      "historia": "Herança afro-brasileira, o vatapá é presença obrigatória no acarajé e nos tabuleiros das baianas.",
+      "ingredientes": [
+        "200g de pão francês amanhecido",
+        "500ml leite de coco",
+        "100g de camarão seco",
+        "50g amendoim torrado moído",
+        "50g castanha de caju moída",
+        "2 tomates, 1 cebola, 2 dentes alho",
+        "2 colheres azeite de dendê",
+        "Gengibre ralado, coentro, sal",
+        "Camarões frescos para decorar"
+      ],
+      "passos": [
+        "Deixe o pão de molho no leite de coco por 20 min.",
+        "Refogue cebola, alho e tomate; junte o pão batido no liquidificador.",
+        "Adicione camarão seco moído, amendoim, castanha e cozinhe 15 min mexendo.",
+        "Finalize com dendê e coentro. Decore com camarões."
+      ],
+      "dica": "O ponto é quando desgruda do fundo da panela, como um angu cremoso.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-caruru-2",
+      "nome": "Caruru",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "50 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Quiabos cozidos com camarão seco, azeite de dendê e castanha de caju.",
+      "historia": "Prato sagrado do candomblé, oferecido aos orixás, principalmente a Oxalá e Iansã.",
+      "ingredientes": [
+        "500g de quiabo cortados em rodelas",
+        "100g de camarão seco",
+        "50g castanha de caju torrada",
+        "2 cebolas, 3 dentes alho",
+        "2 tomates",
+        "2 colheres de azeite de dendê",
+        "Suco de 1 limão",
+        "Sal, coentro"
+      ],
+      "passos": [
+        "Refogue cebola e alho, junte tomate e quiabos.",
+        "Cozinhe 10 min (não mexa muito para não ficar babento).",
+        "Adicione camarão seco moído, castanhas moídas e dendê.",
+        "Cozinhe mais 5 min; finalize com coentro e limão."
+      ],
+      "dica": "O truque para quiabo não babar: suco de limão e não tampar a panela.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-bolo-de-rolo-3",
+      "nome": "Bolo de Rolo",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "doces",
+      "tempo": "1h30",
+      "porcoes": "20 fatias",
+      "dificuldade": "Difícil",
+      "desc": "Bolo fino enrolado com goiabada, especialidade pernambucana.",
+      "historia": "Herança portuguesa adaptada em Pernambuco — o rocambole de colchão de noiva foi transformado em finíssimas camadas com goiabada.",
+      "ingredientes": [
+        "250g manteiga",
+        "250g açúcar",
+        "6 ovos (gemas e claras separados)",
+        "250g farinha",
+        "500g goiabada cremosa",
+        "Açúcar para polvilhar"
+      ],
+      "passos": [
+        "Bata manteiga com açúcar até esbranquiçar; junte gemas uma a uma.",
+        "Adicione farinha peneirada e por último claras em neve.",
+        "Espalhe finamente em formas retangulares (6–8 porções).",
+        "Asse a 220°C por 5–7 min só até firmar.",
+        "Desenforme sobre pano polvilhado, espalhe goiabada e enrole firmemente.",
+        "Repita com novas camadas sobre o rolo já formado.",
+        "Polvilhe açúcar; corte em fatias finas."
+      ],
+      "dica": "As camadas devem ser MUITO finas — esse é o segredo. Um bolo de rolo autêntico tem de 8 a 15 camadas!",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-tacaca-4",
+      "nome": "Tacacá",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "sopas",
+      "tempo": "40 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Sopa amazônica com tucupi, jambu, camarão seco e goma de mandioca.",
+      "historia": "Bebida-sopa amazônica de origem indígena, servida em cuias nas ruas de Belém do Pará. O jambu causa uma leve dormência na boca!",
+      "ingredientes": [
+        "1L de tucupi",
+        "200g de camarão seco",
+        "1 maço de jambu",
+        "100g de goma de mandioca (polvilho)",
+        "2 dentes de alho",
+        "Pimenta de cheiro",
+        "Sal, chicória do Pará"
+      ],
+      "passos": [
+        "Ferva o tucupi com alho, chicória e pimenta por 20 min.",
+        "Cozinhe o jambu no tucupi por 5 min; reserve.",
+        "Dissolva a goma em água fria e adicione ao caldo mexendo até engrossar levemente.",
+        "Adicione os camarões e cozinhe 5 min.",
+        "Sirva em cuias com um talo de jambu em cada porção."
+      ],
+      "dica": "Cuidado! O jambu causa formigamento na língua — é normal e faz parte da experiência.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-manicoba-5",
+      "nome": "Maniçoba",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "5 dias",
+      "porcoes": "15 porções",
+      "dificuldade": "Difícil",
+      "desc": "Ensopado de maniva (mandioca brava moída) com carnes defumadas e frescas, do Pará.",
+      "historia": "Prato indígena da Amazônia, servido no Círio de Nazaré. A maniva precisa ser cozida por 4–7 dias para perder o veneno (ácido cianídrico)!",
+      "ingredientes": [
+        "3kg de maniva moída (folhas de mandioca brava)",
+        "1kg de costelinha de porco salgada",
+        "500g de paio",
+        "500g de linguiça calabresa",
+        "500g de charque",
+        "500g de bacon",
+        "1 pé de porco",
+        "Cebola, alho, pimenta de cheiro",
+        "Cheiro-verde, sal"
+      ],
+      "passos": [
+        "Dessalgue as carnes de véspera.",
+        "Cozinhe a maniva em panela grande com água por 3 dias, em fogo baixo, repondo água.",
+        "No 4º dia, adicione as carnes salgadas e cozinhe mais 1 dia.",
+        "No 5º dia, adicione embutidos e temperos; cozinhe mais 4h.",
+        "A maniva deve estar bem macia e escura. Sirva com arroz, farinha d'água e pimenta."
+      ],
+      "dica": "NUNCA acelere o cozimento da maniva — o ácido cianídrico é tóxico sem cozimento prolongado.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-churrasco-gaucho-6",
+      "nome": "Churrasco Gaúcho",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "4 horas",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Carnes assadas na brasa com sal grosso, pão de alho e vinagrete.",
+      "historia": "O churrasco gaúcho nasceu nas estâncias do Rio Grande do Sul, com os peões assando carne em estacas no chão (fogo de chão).",
+      "ingredientes": [
+        "Cortes: picanha (1kg), maminha, costela, fraldinha",
+        "Linguiça calabresa e toscana",
+        "Corações de frango",
+        "Sal grosso",
+        "Pão de alho",
+        "Vinagrete: tomate, cebola, pimentão, vinagre, azeite",
+        "Farofa de manteiga",
+        "Arroz branco, maionese de batata"
+      ],
+      "passos": [
+        "Acenda a churrasqueira com lenha ou carvão; espere virar brasa.",
+        "Comece pelas carnes que demoram mais (costela) em altura maior.",
+        "Picanha deve ser assada com a gordura para cima, salgada só na hora de ir ao fogo.",
+        "Vire poucas vezes; evite furar a carne.",
+        "Asse linguiças, corações e pão de alho na parte mais fria.",
+        "Sirva fatiado com vinagrete, farofa e arroz."
+      ],
+      "dica": "Ponto perfeito da picanha: ao ponto-mal passado, com a crosta de gordura bem dourada.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-arroz-carreteiro-7",
+      "nome": "Arroz Carreteiro",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "40 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Arroz com charque desfiada, cebola, alho e tomate — comida de estrada gaúcha.",
+      "historia": "Os carreteiros (tropeiros que levavam mercadorias em carro de bois) cozinhavam charque com arroz em panela de ferro nas estradas do sul.",
+      "ingredientes": [
+        "300g charque dessalgada e desfiada",
+        "2 xícaras arroz agulhinha",
+        "1 cebola picada",
+        "3 dentes alho",
+        "2 tomates picados",
+        "1 pimentão verde",
+        "Cheiro-verde",
+        "Óleo, sal, pimenta",
+        "Água quente (4 xícaras)",
+        "1 colher de banha de porco"
+      ],
+      "passos": [
+        "Dessalgue a charque de véspera fervendo em trocas de água; desfie.",
+        "Refogue cebola, alho e pimentão na banha.",
+        "Adicione charque, doure bem.",
+        "Junte tomate e arroz; refogue 1 min.",
+        "Cubra com água quente, cozinhe tampado até secar a água.",
+        "Deixe descansar 5 min, salpique cheiro-verde."
+      ],
+      "dica": "Banha de porco dá o sabor autêntico. Não use óleo neutro se puder evitar.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-pao-de-queijo-recheado--catupiry-ou-calabresa-8",
+      "nome": "Pão de Queijo Recheado (Catupiry ou Calabresa)",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "paes",
+      "tempo": "45 min",
+      "porcoes": "25 unidades",
+      "dificuldade": "Fácil",
+      "desc": "Versão recheada do pão de queijo mineiro, com catupiry, linguiça calabresa ou goiabada.",
+      "historia": "Variação moderna que virou mania em padarias brasileiras nos anos 2000.",
+      "ingredientes": [
+        "Massa básica de pão de queijo (500g polvilho azedo, etc)",
+        "Recheios a gosto: catupiry em cubos / calabresa ralada refogada / goiabada em cubos / presunto e queijo"
+      ],
+      "passos": [
+        "Faça a massa de pão de queijo normalmente.",
+        "Abra porções na mão, coloque 1 colher de chá de recheio no centro.",
+        "Feche bem, modelando bolinhas sem deixar o recheio escapar.",
+        "Asse a 200°C por 22–25 min.",
+        "Sirva quente, com o recheio derretido."
+      ],
+      "dica": "Deixe o catupiry bem gelado antes de rechear — assim fica mais fácil modelar sem vazar.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-baiao-de-dois-9",
+      "nome": "Baião de Dois",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Arroz de feijão-verde ou feijão-de-corda com queijo de coalho, charque e manteiga de garrafa.",
+      "historia": "Prato típico do Ceará, Piauí e Paraíba. O nome vem do \"baião\", um ritmo nordestino — é como se arroz e feijão dançassem juntos.",
+      "ingredientes": [
+        "2 xícaras arroz",
+        "2 xícaras feijão-de-corda cozido (com caldo)",
+        "200g queijo de coalho em cubos",
+        "150g charque desfiada e dessalgada",
+        "1 cebola, 2 dentes alho",
+        "2 tomates",
+        "Manteiga de garrafa",
+        "Coentro, sal, pimenta"
+      ],
+      "passos": [
+        "Refogue cebola, alho e charque na manteiga de garrafa.",
+        "Adicione tomate, arroz e refogue.",
+        "Junte feijão com 4 xícaras do caldo.",
+        "Cozinhe até secar.",
+        "Junte queijo de coalho, mexa delicadamente para derreter.",
+        "Finalize com coentro e mais manteiga de garrafa."
+      ],
+      "dica": "Manteiga de garrafa é obrigatória — o sabor é inconfundível.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-bolo-de-fuba-cremoso-10",
+      "nome": "Bolo de Fubá Cremoso",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "cafemanha",
+      "tempo": "50 min",
+      "porcoes": "12 fatias",
+      "dificuldade": "Fácil",
+      "desc": "Bolo de fubá cremoso, com queijo parmesão, erva-doce e queijadinha por cima.",
+      "historia": "O bolo de fubá é o café da tarde brasileiro por excelência — presença em casa de vó.",
+      "ingredientes": [
+        "3 ovos",
+        "2 xícaras leite",
+        "1 xícara óleo",
+        "2 xícaras açúcar",
+        "1 xícara fubá",
+        "1/2 xícara farinha trigo",
+        "1 colher fermento",
+        "50g queijo parmesão ralado",
+        "1 colher erva-doce",
+        "1 pitada de sal",
+        "2 colheres queijo ralado extra para polvilhar"
+      ],
+      "passos": [
+        "Bata todos os ingredientes no liquidificador (menos o fermento).",
+        "Adicione o fermento misturando levemente.",
+        "Despeje em forma untada e enfarinhada.",
+        "Asse a 200°C por 40 min até dourar e espetar sair limpo.",
+        "Sirva morno ou frio com café."
+      ],
+      "dica": "O fermento é adicionado no final, só misturado sem bater, para o bolo ficar fofo.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-canjica-doce-11",
+      "nome": "Canjica Doce",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Canjica de milho branca cozida no leite com leite condensado, canela e amendoim.",
+      "historia": "Comida típica das festas juninas brasileiras, especialmente no Centro-Oeste e Sudeste.",
+      "ingredientes": [
+        "500g milho para canjica branco demolhado 12h",
+        "1,5L leite",
+        "1 lata leite condensado",
+        "200ml leite de coco",
+        "50g amendoim torrado moído",
+        "Canela em pau e em pó",
+        "Cravos da Índia",
+        "Açúcar se necessário"
+      ],
+      "passos": [
+        "Cozinhe o milho em panela de pressão por 30 min até macio.",
+        "Adicione leite, canela, cravo e cozinhe 20 min mexendo.",
+        "Junte leite condensado e coco; cozinhe mais 10 min até cremoso.",
+        "Sirva polvilhado de canela e amendoim, morno ou frio."
+      ],
+      "dica": "Canjica fica mais gostosa no dia seguinte, quando os sabores do leite de coco e canela se casam.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-pamonha-12",
+      "nome": "Pamonha",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "cafemanha",
+      "tempo": "1h30",
+      "porcoes": "10 unidades",
+      "dificuldade": "Média",
+      "desc": "Milho verde ralado, cozido dentro da própria palha, doce ou salgada.",
+      "historia": "Herança indígena Tupi-Guarani — o nome \"pamonha\" vem de pa'muna (pegajoso). É presença garantida nas festas juninas.",
+      "ingredientes": [
+        "12 espigas de milho verde grandes",
+        "1 xícara açúcar (para doce) ou sal e queijo ralado (para salgada)",
+        "100ml leite (se precisar)",
+        "1 colher manteiga",
+        "Palhas das próprias espigas para embrulhar",
+        "Barbante para amarrar"
+      ],
+      "passos": [
+        "Despalhe o milho reservando as palhas boas e limpas.",
+        "Rale os grãos ou bata no processador.",
+        "Peneire para tirar os bagaços; tempere a gosto com açúcar ou sal/queijo.",
+        "Encha as palhas (dobra como um saquinho) com a massa.",
+        "Amarre bem com barbante.",
+        "Cozinhe em água fervendo por 40 min.",
+        "Escorra, deixe mornar e sirva."
+      ],
+      "dica": "A palha deve estar bem úmida — se estiver seca, escalde em água quente antes de usar.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-tapioca-hidratada-13",
+      "nome": "Tapioca Hidratada",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "cafemanha",
+      "tempo": "10 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Beiju de goma de mandioca na frigideira, recheada com coco, queijo, chocolate ou carne.",
+      "historia": "Beiju indígena — alimento milenar que voltou com força nas cafeterias brasileiras como opção sem glúten.",
+      "ingredientes": [
+        "200g goma de mandioca hidratada",
+        "Sal ou açúcar a gosto",
+        "Recheios: queijo coalho, manteiga, coco ralado, leite condensado, presunto, queijo, Nutella, brigadeiro, frango desfiado"
+      ],
+      "passos": [
+        "Peneire a goma e tempere (sal para salgada, açúcar para doce).",
+        "Aqueça frigideira antiaderente sem óleo.",
+        "Espalhe a goma cobrindo o fundo (como uma panqueca grossa).",
+        "Quando firmar (1–2 min), coloque o recheio de um lado.",
+        "Dobre ao meio e deixe mais 30 seg até o queijo derreter."
+      ],
+      "dica": "A frigideira deve estar em fogo médio — fogo alto queima a tapioca sem cozinhar por dentro.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-farofa-de-dende-com-banana-14",
+      "nome": "Farofa de Dendê com Banana",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "salgados",
+      "tempo": "20 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Farofa de farinha de mandioca torrada no azeite de dendê com banana da terra, cebola e ovos.",
+      "historia": "Acompanhamento icônico da feijoada e da moqueca, a farofa brasileira não é só farinha torrada — é uma arte.",
+      "ingredientes": [
+        "2 xícaras farinha de mandioca crua",
+        "2 colheres de azeite de dendê",
+        "1 cebola picada",
+        "2 ovos",
+        "1 banana da terra em rodelas",
+        "Sal, pimenta, cheiro-verde",
+        "Bacon em cubos (opcional)"
+      ],
+      "passos": [
+        "Se usar bacon, doure; refogue cebola até dourar.",
+        "Quebre os ovos na frigideira e mexa como ovos mexidos.",
+        "Adicione a banana e doure levemente.",
+        "Junte a farinha, vá mexendo em fogo baixo até torrar.",
+        "Tempere, finalize com cheiro-verde."
+      ],
+      "dica": "Farinha em fogo BAIXO — a farofa queima muito fácil! Mexa sempre.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-sagu-de-vinho-15",
+      "nome": "Sagu de Vinho",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "doces",
+      "tempo": "1h + resfriamento",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pérolas de tapioca cozidas no vinho tinto com canela e cravo, servidas com creme de baunilha.",
+      "historia": "Sobremesa clássica do Sul do Brasil, especialmente no Rio Grande do Sul — forte influência europeia.",
+      "ingredientes": [
+        "200g de sagu (pérolas de tapioca)",
+        "750ml vinho tinto suave ou seco",
+        "200g açúcar",
+        "2 paus canela",
+        "4 cravos da índia",
+        "Creme: 500ml leite, 1 lata leite condensado, 2 gemas, 1 colher maisena, baunilha"
+      ],
+      "passos": [
+        "Hidrate o sagu em água fria por 30 min; escorra.",
+        "Ferva o vinho com açúcar e especiarias.",
+        "Adicione o sagu e cozinhe por 30 min, mexendo, até ficar transparente.",
+        "Deixe esfriar (fica mais gelatinoso).",
+        "Prepare o creme: ferva leite, junte gemas batidas com maisena e leite condensado; cozinhe até engrossar.",
+        "Sirva o sagu em taças com o creme por cima."
+      ],
+      "dica": "Mexa sempre ao cozinhar o sagu para não grudar no fundo da panela.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-quibebe-16",
+      "nome": "Quibebe",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "sopas",
+      "tempo": "35 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Purê de abóbora com charque/charque e cebola, típico do Nordeste.",
+      "historia": "Quibebe é um ensopado de abóbora que remonta ao século XVIII, provavelmente de origem africana ou indígena.",
+      "ingredientes": [
+        "600g abóbora moranga ou cabotiá em cubos",
+        "100g charque desfiada (opcional)",
+        "1 cebola picada",
+        "2 dentes alho",
+        "2 colheres azeite/óleo",
+        "Sal, pimenta, cheiro-verde",
+        "1 colher manteiga"
+      ],
+      "passos": [
+        "Refogue cebola e alho, junte charque dourada.",
+        "Adicione abóbora e cubra com água; cozinhe 15 min até desmanchar.",
+        "Amasse com colher deixando alguns pedaços.",
+        "Finalize com manteiga e cheiro-verde; sirva quente."
+      ],
+      "dica": "Um fio de azeite de dendê no final dá um toque nordestino extra.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-caipiroska-de-morango-17",
+      "nome": "Caipiroska de Morango",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "bebidas",
+      "tempo": "5 min",
+      "porcoes": "1 drinque",
+      "dificuldade": "Fácil",
+      "desc": "Variação da caipirinha feita com vodka, morangos e açúcar.",
+      "historia": "A caipiroska é uma das variações mais populares da caipirinha, especialmente com frutas vermelhas.",
+      "ingredientes": [
+        "5 morangos maduros",
+        "2 colheres de açúcar",
+        "60ml vodka",
+        "Gelo moído"
+      ],
+      "passos": [
+        "Amasse levemente os morangos com o açúcar no copo.",
+        "Adicione gelo até encher o copo.",
+        "Complete com vodka e mexa bem.",
+        "Decore com um morango inteiro."
+      ],
+      "dica": "Não amasse demais os morangos para não amargar — como na caipirinha, maceração suave.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-cuscuz-paulista-18",
+      "nome": "Cuscuz Paulista",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Cuscuz de farinha de milho com frango, camarão, palmito, ervilha e ovos, cozido no vapor em forma decorada.",
+      "historia": "Diferente do cuscuz marroquino, o paulista é brasileiro, de origem portuguesa/indígena. É servido frio ou morno, decorado.",
+      "ingredientes": [
+        "3 xícaras farinha de milho flocada",
+        "500ml caldo de frango",
+        "1 peito de frango desfiado",
+        "100g camarões pequenos",
+        "1 lata palmito",
+        "1 lata ervilha",
+        "2 ovos cozidos",
+        "1 cebola, 2 dentes alho",
+        "2 tomates",
+        "Molho de tomate (1 xícara)",
+        "Azeite, sal, pimenta, cheiro-verde",
+        "Palmito, ovos e sardinha para decorar"
+      ],
+      "passos": [
+        "Refogue cebola, alho, tomate; adicione frango desfiado, camarões, palmito, ervilha e molho.",
+        "Junte o caldo quente; desligue.",
+        "Adicione a farinha de milho aos poucos mexendo até hidratar.",
+        "Unte uma forma com buraco no meio, decore o fundo com rodelas de ovo, palmito e sardinha.",
+        "Coloque a massa na forma, apertando bem.",
+        "Cozinhe no vapor (banho-maria com tampa) por 25 min.",
+        "Desenforme morno e sirva com salada."
+      ],
+      "dica": "A decoração no fundo da forma é o que faz o cuscuz bonito ao desenformar.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-bolinho-de-bacalhau-19",
+      "nome": "Bolinho de Bacalhau",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "25 bolinhos",
+      "dificuldade": "Média",
+      "desc": "Bolinho de bacalhau desfiado com batata, ovo e salsa, frito.",
+      "historia": "Herança portuguesa que virou petisco de boteco brasileiro — é servido com limão e pimenta.",
+      "ingredientes": [
+        "400g bacalhau dessalgado",
+        "500g batatas cozidas",
+        "2 ovos",
+        "2 colheres salsinha picada",
+        "1 cebola ralada",
+        "Sal, pimenta",
+        "Óleo para fritar",
+        "Limão para servir"
+      ],
+      "passos": [
+        "Dessalgue o bacalhau de véspera; cozinhe e desfie bem.",
+        "Cozinhe as batatas e faça um purê; misture com bacalhau, ovos, cebola e salsinha.",
+        "Modele bolinhos com duas colheres.",
+        "Frite em óleo a 180°C até dourar.",
+        "Escorra em papel absorvente e sirva com limão."
+      ],
+      "dica": "Se a massa ficar mole, leve à geladeira por 30 min antes de modelar.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-queijadinha-20",
+      "nome": "Queijadinha",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "doces",
+      "tempo": "40 min",
+      "porcoes": "20 unidades",
+      "dificuldade": "Fácil",
+      "desc": "Bolinhas de queijo parmesão, coco ralado, leite condensado e ovos.",
+      "historia": "Doce colonial brasileiro simples e delicioso, vendido em padarias e confeitarias.",
+      "ingredientes": [
+        "1 lata leite condensado",
+        "100g queijo parmesão ralado fresco",
+        "100g coco ralado seco ou fresco",
+        "3 ovos",
+        "1 colher manteiga",
+        "Forminhas de papel"
+      ],
+      "passos": [
+        "Misture ovos, leite condensado, manteiga, queijo e coco.",
+        "Distribua nas forminhas de papel (2/3 da altura).",
+        "Asse a 180°C por 25 min até dourar.",
+        "Deixe esfriar — elas firmam enquanto esfriam."
+      ],
+      "dica": "Use queijo parmesão ralado na hora, não o de pacote — faz toda diferença no sabor.",
+      "isExtra": true
+    },
+    {
+      "id": "brasil-romeu-e-julieta-21",
+      "nome": "Romeu e Julieta",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "doces",
+      "tempo": "5 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Queijo minas frescal com goiabada cascão — a combinação mais simples e perfeita.",
+      "historia": "A combinação queijo com goiabada existe desde o Brasil colonial. Dizem que o nome veio de uma peça de teatro do século XX, simbolizando o par perfeito.",
+      "ingredientes": [
+        "300g queijo minas frescal (ou queijo serrano)",
+        "300g goiabada cascão"
+      ],
+      "passos": [
+        "Corte queijo e goiabada em fatias da mesma espessura.",
+        "Sirva intercalando um pedaço de queijo e um de goiabada em prato.",
+        "Pode acompanhar um cafezinho preto."
+      ],
+      "dica": "O equilíbrio é salgado+doce — nem muito doce, nem muito salgado. Perfeito com café.",
+      "isExtra": true
+    },
+    {
+      "nome": "Torta Capixaba",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "1h30",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Torta de bacalhau com palmito, siri, camarão e ovos — prato da Semana Santa no Espírito Santo.",
+      "historia": "Ícone capixaba de origem indígena-portuguesa, a torta capixaba não leva massa! É um cozido compacto de frutos do mar com farinha, servido no Domingo de Páscoa.",
+      "ingredientes": [
+        "500g bacalhau dessalgado desfiado",
+        "300g palmito pupunha picado",
+        "200g carne de siri desfiada",
+        "200g camarões limpos",
+        "6 ovos cozidos",
+        "1 cebola, 3 tomates, 2 dentes alho",
+        "Azeite de oliva, azeitonas, cheiro-verde",
+        "100g farinha de mandioca",
+        "Limão, sal, pimenta",
+        "Azeite de dendê (opcional)"
+      ],
+      "passos": [
+        "Refogue cebola e alho, junte tomate e cozinhe 3 min.",
+        "Adicione bacalhau, palmito, siri e camarões; refogue 8 min.",
+        "Acrescente farinha de mandioca para dar liga.",
+        "Transfira para refratário, decore com ovos, azeitonas e cheiro-verde.",
+        "Asse a 200°C por 25 min até dourar.",
+        "Sirva com arroz branco e molho de pimenta."
+      ],
+      "dica": "Cada família capixaba tem sua receita secreta — a torta deve ficar compacta mas úmida.",
+      "isExtra": true,
+      "id": "brasil-torta-capixaba-extra-0"
+    },
+    {
+      "nome": "Barreado",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "12 horas",
+      "porcoes": "10 porções",
+      "dificuldade": "Difícil",
+      "desc": "Carne cozida 12h em panela de barro selada com farinha, típica do Paraná.",
+      "historia": "Surgiu entre os tropeiros e açorianos no litoral paranaense, em Morretes e Antonina. A panela é selada com barro de farinha para não escapar vapor.",
+      "ingredientes": [
+        "2kg peito bovino em cubos grandes",
+        "300g bacon em cubos",
+        "3 cebolas, 6 dentes alho",
+        "3 tomates, 2 pimentões",
+        "1 colher cominho, 1 colher páprica",
+        "Sal, pimenta, louro",
+        "Farinha de mandioca para selar",
+        "Banana da terra, farinha, laranja para acompanhar"
+      ],
+      "passos": [
+        "Cozinhe a carne em camadas (cebola, alho, carne, bacon, pimentão, tomate, temperos) em panela de barro.",
+        "Sele a tampa com uma massa de farinha + água para ficar hermética.",
+        "Cozinhe em fogo MUITO baixo por 10–12h sem abrir.",
+        "Abra (quebrando o selo!), desfie a carne no caldo.",
+        "Sirva com farinha de mandioca crua, banana e arroz."
+      ],
+      "dica": "Diz a tradição que quanto mais tempo o barreado cozinha, mais saboroso fica — 24h é o ideal!",
+      "isExtra": true,
+      "id": "brasil-barreado-extra-1"
+    },
+    {
+      "nome": "Bobó de Camarão",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Camarões em purê cremoso de mandioca com leite de coco e azeite de dendê.",
+      "historia": "Prato afro-brasileiro da Bahia, de origem iorubá, misturando mandioca (indígena) com dendê (africano) e camarão (universal).",
+      "ingredientes": [
+        "1kg camarões grandes limpos",
+        "1kg mandioca cozida",
+        "400ml leite de coco",
+        "2 colheres azeite de dendê",
+        "2 tomates, 1 cebola, 3 dentes alho",
+        "Coentro, cebolinha, pimenta malagueta",
+        "Sal, suco de limão",
+        "Gengibre ralado (1 colher)",
+        "Arroz branco e farofa para acompanhar"
+      ],
+      "passos": [
+        "Tempere os camarões com sal e limão; reserve.",
+        "Bata a mandioca cozida no liquidificador com parte do leite de coco até virar purê.",
+        "Refogue cebola, alho, gengibre e tomate no azeite; junte o purê de mandioca.",
+        "Adicione leite de coco restante e cozinhe 8 min.",
+        "Junte camarões e cozinhe 4 min até ficarem rosados.",
+        "Finalize com dendê e coentro.",
+        "Sirva com arroz branco."
+      ],
+      "dica": "Os camarões entram no final — 4 min são suficientes para ficar macios, senão borracham.",
+      "isExtra": true,
+      "id": "brasil-bobo-de-camarao-extra-2"
+    },
+    {
+      "nome": "Vatapá Baiano",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Creme de pão, camarão seco, castanha, amendoim e leite de coco — alma do acarajé.",
+      "historia": "Vatapá é palavra iorubá (vata-pá) e é comida ritual nos terreiros de candomblé, mas também petisco de baiana em cada esquina.",
+      "ingredientes": [
+        "200g pão francês amanhecido",
+        "500ml leite de coco",
+        "150g camarão seco moído",
+        "60g castanha de caju moída",
+        "60g amendoim torrado moído",
+        "2 tomates, 1 cebola, 3 dentes alho",
+        "2 colheres azeite de dendê",
+        "Gengibre ralado, coentro, sal",
+        "Camarões frescos inteiros para decorar"
+      ],
+      "passos": [
+        "Deixe o pão de molho no leite de coco 20 min.",
+        "Bata no liquidificador até ficar homogêneo.",
+        "Refogue cebola, alho e tomate no dendê; junte a mistura de pão.",
+        "Adicione camarão seco, castanha e amendoim.",
+        "Cozinhe em fogo baixo 20 min mexendo sempre até desgrudar da panela.",
+        "Finalize com coentro e camarões inteiros cozidos rapidamente."
+      ],
+      "dica": "Consistência correta é de mingau grosso — se ficar muito líquido cozinhe mais, se muito espesso adicione leite de coco.",
+      "isExtra": true,
+      "id": "brasil-vatapa-baiano-extra-3"
+    },
+    {
+      "nome": "Curau de Milho Verde",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Doce cremoso de milho verde batido com leite e canela — festa junina!",
+      "historia": "Curau é herança indígena. No Sul é chamado de \"pamonha de colher\"; no Sudeste é o rei das festas juninas.",
+      "ingredientes": [
+        "8 espigas de milho verde",
+        "1 litro leite",
+        "200g açúcar (a gosto)",
+        "1 pitada sal",
+        "Canela em pó",
+        "1 colher manteiga",
+        "Canela em pau para cozinhar"
+      ],
+      "passos": [
+        "Debulhe o milho cru; bata no liquidificador com metade do leite.",
+        "Peneire em pano para retirar o bagaço.",
+        "Em panela, coloque creme de milho, leite restante, açúcar, manteiga, canela em pau.",
+        "Cozinhe em fogo baixo mexendo sempre por 20 min até engrossar.",
+        "Despeje em tigelas ou copinhos; polvilhe canela.",
+        "Sirva morno ou frio."
+      ],
+      "dica": "Mexa SEMPRE enquanto cozinha — o curau empelota facilmente no fundo da panela.",
+      "isExtra": true,
+      "id": "brasil-curau-de-milho-verde-extra-4"
+    },
+    {
+      "nome": "Bolo de Rolo Pernambucano",
+      "pais": "Brasil",
+      "flag": "🇧🇷",
+      "categoria": "doces",
+      "tempo": "1h30",
+      "porcoes": "20 fatias",
+      "dificuldade": "Difícil",
+      "desc": "Bolo fino enrolado com goiabada derretida — patrimônio pernambucano.",
+      "historia": "Considerado patrimônio cultural de Pernambuco, o bolo de rolo tem origem portuguesa no \"colchão de noiva\" mas foi adaptado à goiabada. Deve ter pelo menos 8 camadas.",
+      "ingredientes": [
+        "250g manteiga sem sal em temperatura ambiente",
+        "250g açúcar",
+        "6 ovos grandes (claras e gemas separadas)",
+        "250g farinha de trigo",
+        "500g goiabada cremosa (ou goiabada derretida no fogo)",
+        "Açúcar para polvilhar"
+      ],
+      "passos": [
+        "Bata manteiga com açúcar até ficar esbranquiçado e fofo (5 min).",
+        "Adicione gemas uma a uma batendo.",
+        "Incorpore farinha peneirada; por último claras em neve delicadamente.",
+        "Espalhe camadas MUITO FINAS em formas retangulares forradas com papel manteiga.",
+        "Asse a 220°C por APENAS 5–7 minutos (deve ficar clarinho!).",
+        "Desenforme sobre pano polvilhado, espalhe goiabada quente e enrole.",
+        "Repita assando nova camada e enrolando sobre o rolo já existente.",
+        "Polvilhe açúcar e corte em fatias finas."
+      ],
+      "dica": "Camadas finas são o segredo — se a camada ficar grossa não é bolo de rolo, é rocambole comum!",
+      "isExtra": true,
+      "id": "brasil-bolo-de-rolo-pernambucano-extra-5"
+    }
+  ]
+}

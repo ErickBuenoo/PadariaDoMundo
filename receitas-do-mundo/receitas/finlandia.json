@@ -1,0 +1,32 @@
+{
+  "pais": "Finlândia",
+  "recipes": [
+    {
+      "nome": "Karjalanpiirakka",
+      "categoria": "salgados",
+      "tempo": "2h",
+      "porcoes": "16 pastéis",
+      "dificuldade": "Média",
+      "desc": "Pastéis karelianos de casca de centeio recheados com arroz/cevada, cobertos com manteiga de ovo.",
+      "historia": "Pastel da Carélia, Finlândia oriental — receita tradicional protegida por denominação de origem.",
+      "ingredientes": [
+        "Massa casca: 200g farinha centeio, 100g farinha trigo, água, sal",
+        "Recheio: 1 xícara arroz de leite cozido (arroz em muito leite até cremoso)",
+        "Cobertura manteiga de ovo: 100g manteiga amolecida misturada com 2 ovos cozidos picados"
+      ],
+      "passos": [
+        "Faça massa rija de centeio; descance.",
+        "Faça arroz de leite cremoso; deixe esfriar.",
+        "Abra massa em discos ovais finos.",
+        "Coloque recheio no centro; dobre as bordas fazendo pregas (formato oval).",
+        "Asse a 250°C por 15–20 min até as bordas dourarem.",
+        "Cubra quentes com a manteiga de ovo; sirva mornos."
+      ],
+      "dica": "Manteiga de ovo (munavoi) é cobertura tradicional — amasse manteiga com ovo cozido picado.",
+      "isExtra": true,
+      "id": "finlandia-karjalanpiirakka-m-0",
+      "pais": "Finlândia",
+      "flag": "🇫🇮"
+    }
+  ]
+}

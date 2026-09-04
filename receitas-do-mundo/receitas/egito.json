@@ -1,0 +1,261 @@
+{
+  "pais": "Egito",
+  "recipes": [
+    {
+      "id": "egito-ful-medames-com-azeite-0",
+      "nome": "Ful Medames com Azeite",
+      "pais": "Egito",
+      "flag": "🇪🇬",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Ful Medames com Azeite, um clássico de Egito preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Egito, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Ful Medames com Azeite (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Ful Medames com Azeite, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Ful Medames com Azeite quente como manda a tradição."
+      ],
+      "dica": "Em Egito, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "egito-koshari-arroz--macarrao--lentilhas-1",
+      "nome": "Koshari Arroz, Macarrão, Lentilhas",
+      "pais": "Egito",
+      "flag": "🇪🇬",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Koshari Arroz, Macarrão, Lentilhas, um clássico de Egito preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Egito, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Koshari Arroz, Macarrão, Lentilhas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Koshari Arroz, Macarrão, Lentilhas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Koshari Arroz, Macarrão, Lentilhas quente como manda a tradição."
+      ],
+      "dica": "Em Egito, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "egito-molokhia-sopa-de-juta-2",
+      "nome": "Molokhia Sopa de Juta",
+      "pais": "Egito",
+      "flag": "🇪🇬",
+      "categoria": "sopas",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Molokhia Sopa de Juta, um clássico de Egito preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Egito, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Molokhia Sopa de Juta (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Molokhia Sopa de Juta, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Molokhia Sopa de Juta quente como manda a tradição."
+      ],
+      "dica": "Em Egito, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "egito-mahshi-folhas-de-parra-recheadas-3",
+      "nome": "Mahshi Folhas de Parra Recheadas",
+      "pais": "Egito",
+      "flag": "🇪🇬",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Mahshi Folhas de Parra Recheadas, um clássico de Egito preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Egito, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Mahshi Folhas de Parra Recheadas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Mahshi Folhas de Parra Recheadas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Mahshi Folhas de Parra Recheadas quente como manda a tradição."
+      ],
+      "dica": "Em Egito, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "egito-basbousa-semola-doce-4",
+      "nome": "Basbousa Sêmola Doce",
+      "pais": "Egito",
+      "flag": "🇪🇬",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Basbousa Sêmola Doce, um clássico de Egito preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Egito, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Basbousa Sêmola Doce (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Basbousa Sêmola Doce, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Basbousa Sêmola Doce quente como manda a tradição."
+      ],
+      "dica": "Em Egito, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "egito-pao-baladi-pao-pita-egipcio-5",
+      "nome": "Pão Baladi Pão Pita Egípcio",
+      "pais": "Egito",
+      "flag": "🇪🇬",
+      "categoria": "paes",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Pão Baladi Pão Pita Egípcio, um clássico de Egito preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Egito, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pão Baladi Pão Pita Egípcio (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pão Baladi Pão Pita Egípcio, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pão Baladi Pão Pita Egípcio quente como manda a tradição."
+      ],
+      "dica": "Em Egito, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "egito-cha-de-menta-egipcio-6",
+      "nome": "Chá de Menta Egípcio",
+      "pais": "Egito",
+      "flag": "🇪🇬",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Chá de Menta Egípcio, um clássico de Egito preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Egito, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chá de Menta Egípcio (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chá de Menta Egípcio, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chá de Menta Egípcio quente como manda a tradição."
+      ],
+      "dica": "Em Egito, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "egito-ta-ameia-falafel-de-fava-7",
+      "nome": "Ta'ameia Falafel de Fava",
+      "pais": "Egito",
+      "flag": "🇪🇬",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Ta'ameia Falafel de Fava, um clássico de Egito preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Egito, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Ta'ameia Falafel de Fava (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Ta'ameia Falafel de Fava, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Ta'ameia Falafel de Fava quente como manda a tradição."
+      ],
+      "dica": "Em Egito, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Koshari",
+      "categoria": "pratos",
+      "tempo": "1h30",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Arroz, lentilhas e macarrão com grão-de-bico, cobertos com molho de tomate picante e cebola frita.",
+      "historia": "Prato nacional egípcio — comida de rua que mistura Índia, Itália e Oriente Médio em um só prato!",
+      "ingredientes": [
+        "1 xícara arroz",
+        "1 xícara lentilhas",
+        "1 xícara macarrão curto",
+        "1 xícara grão-de-bico cozido",
+        "2 cebolas grandes fatiadas e fritas até crocantes",
+        "Molho: 6 tomates batidos, 3 dentes alho, 2 vinagre, páprica picante, pimenta",
+        "1 colher cominho, sal",
+        "Azeite"
+      ],
+      "passos": [
+        "Frite cebola até crocante; reserve.",
+        "Cozinhe lentilhas em água por 25 min; reserve.",
+        "Cozinhe arroz na azeite; junte lentilhas com um pouco de água; cozinhe 15 min.",
+        "Cozinhe macarrão al dente.",
+        "Faça molho de tomate com alho, vinagre e pimenta; cozinhe 15 min.",
+        "Monte: arroz/lentilha, macarrão, molho, grão-de-bico, cebola frita CROCANTE por cima."
+      ],
+      "dica": "Cebola FRITA CROCANTE é a alma do koshari — não economize, e seque bem antes de fritar.",
+      "isExtra": true,
+      "id": "egito-koshari-m-0",
+      "pais": "Egito",
+      "flag": "🇪🇬"
+    }
+  ]
+}

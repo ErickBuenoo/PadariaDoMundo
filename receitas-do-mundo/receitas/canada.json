@@ -1,0 +1,290 @@
+{
+  "pais": "Canadá",
+  "recipes": [
+    {
+      "id": "canada-poutine--batatas-com-cheddar-escorrido-e-molho-0",
+      "nome": "Poutine (Batatas com Cheddar Escorrido e Molho)",
+      "pais": "Canadá",
+      "flag": "🇨🇦",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Poutine (Batatas com Cheddar Escorrido e Molho), um clássico de Canadá preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Canadá, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Poutine (Batatas com Cheddar Escorrido e Molho) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Poutine (Batatas com Cheddar Escorrido e Molho), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Poutine (Batatas com Cheddar Escorrido e Molho) quente como manda a tradição."
+      ],
+      "dica": "Em Canadá, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "canada-tortas-de-manteiga-tart-1",
+      "nome": "Tortas de Manteiga Tart",
+      "pais": "Canadá",
+      "flag": "🇨🇦",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Tortas de Manteiga Tart, um clássico de Canadá preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Canadá, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tortas de Manteiga Tart (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tortas de Manteiga Tart, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tortas de Manteiga Tart quente como manda a tradição."
+      ],
+      "dica": "Em Canadá, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "canada-peameal-bacon-sandwich-2",
+      "nome": "Peameal Bacon Sandwich",
+      "pais": "Canadá",
+      "flag": "🇨🇦",
+      "categoria": "cafemanha",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Peameal Bacon Sandwich, um clássico de Canadá preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Canadá, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Peameal Bacon Sandwich (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Peameal Bacon Sandwich, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Peameal Bacon Sandwich quente como manda a tradição."
+      ],
+      "dica": "Em Canadá, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "canada-bagel-de-montreal-defumado-3",
+      "nome": "Bagel de Montreal Defumado",
+      "pais": "Canadá",
+      "flag": "🇨🇦",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Bagel de Montreal Defumado, um clássico de Canadá preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Canadá, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bagel de Montreal Defumado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bagel de Montreal Defumado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bagel de Montreal Defumado quente como manda a tradição."
+      ],
+      "dica": "Em Canadá, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "canada-maple-syrup-pancakes-4",
+      "nome": "Maple Syrup Pancakes",
+      "pais": "Canadá",
+      "flag": "🇨🇦",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Maple Syrup Pancakes, um clássico de Canadá preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Canadá, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Maple Syrup Pancakes (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Maple Syrup Pancakes, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Maple Syrup Pancakes quente como manda a tradição."
+      ],
+      "dica": "Em Canadá, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "canada-nanaimo-bars-5",
+      "nome": "Nanaimo Bars",
+      "pais": "Canadá",
+      "flag": "🇨🇦",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Nanaimo Bars, um clássico de Canadá preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Canadá, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Nanaimo Bars (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Nanaimo Bars, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Nanaimo Bars quente como manda a tradição."
+      ],
+      "dica": "Em Canadá, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "canada-caesar-cocktail-6",
+      "nome": "Caesar Cocktail",
+      "pais": "Canadá",
+      "flag": "🇨🇦",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Caesar Cocktail, um clássico de Canadá preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Canadá, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Caesar Cocktail (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Caesar Cocktail, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Caesar Cocktail quente como manda a tradição."
+      ],
+      "dica": "Em Canadá, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "canada-tourtiere--torta-de-carne-de-natal-7",
+      "nome": "Tourtière (Torta de Carne de Natal)",
+      "pais": "Canadá",
+      "flag": "🇨🇦",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Tourtière (Torta de Carne de Natal), um clássico de Canadá preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Canadá, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tourtière (Torta de Carne de Natal) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tourtière (Torta de Carne de Natal), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tourtière (Torta de Carne de Natal) quente como manda a tradição."
+      ],
+      "dica": "Em Canadá, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Poutine",
+      "pais": "Canadá",
+      "flag": "🇨🇦",
+      "categoria": "pratos",
+      "tempo": "20 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Batatas fritas com queijo coalho fresco (cheese curds) cobertas com molho gravy — invenção quebequense.",
+      "historia": "Surgiu em Quebec nos anos 50. É o prato canadense mais icônico — o cheese curd deve ranger ao morder.",
+      "ingredientes": [
+        "1kg batatas russet em palitos grossos",
+        "250g cheese curds (queijo coalho fresco, em temperatura ambiente)",
+        "Molho gravy: 500ml caldo carne/frango, 2 colheres manteiga, 2 farinha, pimenta",
+        "Óleo para fritar",
+        "Sal"
+      ],
+      "passos": [
+        "Faça gravy: derreta manteiga, cozinhe farinha, adicione caldo aos poucos mexendo; cozinhe 5 min até espesso.",
+        "Frite batatas duas vezes: 150°C por 5 min, retire, 180°C por 2 min até dourar.",
+        "Escorra bem salgando.",
+        "Coloque batatas em tigelas; cubra generosamente com cheese curds.",
+        "Despeje gravy BEM QUENTE sobre os curds (eles devem derreter parcialmente mas ficar inteiros).",
+        "Sirva imediatamente."
+      ],
+      "dica": "Cheese curds FRESCOS em temperatura ambiente — queijo mussarela não serve. O \"squeak\" (chiado ao morder) é o que prova o queijo certo.",
+      "isExtra": true,
+      "id": "canada-poutine-extra-0"
+    },
+    {
+      "nome": "Maple Syrup Pie (Tarte au Sirop dÉrable)",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "8 fatias",
+      "dificuldade": "Fácil",
+      "desc": "Torta doce de xarope de bordo canadense — o doce nacional.",
+      "historia": "Tradicional do Quebec, o xarope de bordo é o ouro líquido do Canadá desde os indígenas.",
+      "ingredientes": [
+        "1 disco de massa quebrada para torta",
+        "300ml maple syrup (xarope de bordo grau A)",
+        "150ml creme de leite fresco",
+        "3 ovos",
+        "30g farinha",
+        "1 colher manteiga derretida",
+        "1 colher vinagre ou suco limão",
+        "Noz-pecã picada (opcional)",
+        "Creme batido para servir"
+      ],
+      "passos": [
+        "Forre forma de torta com massa.",
+        "Bata ovos com maple syrup, creme, farinha, manteiga e vinagre.",
+        "Despeje sobre massa; polvilhe pecã se usar.",
+        "Asse a 180°C por 35–40 min até centro firmar mas ainda balançar leve.",
+        "Deixe esfriar; sirva com creme."
+      ],
+      "dica": "Use maple syrup VERDADEIRO — não xarope de panqueca artificial! O vinagre equilibra o doce.",
+      "isExtra": true,
+      "id": "canada-maple-syrup-pie--tarte-au-sirop-derable-m-0",
+      "pais": "Canadá",
+      "flag": "🇨🇦"
+    }
+  ]
+}

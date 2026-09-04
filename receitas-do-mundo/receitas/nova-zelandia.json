@@ -1,0 +1,36 @@
+{
+  "pais": "Nova Zelândia",
+  "recipes": [
+    {
+      "nome": "Hāngi",
+      "categoria": "pratos",
+      "tempo": "6 horas",
+      "porcoes": "10 porções",
+      "dificuldade": "Difícil",
+      "desc": "Refeição maori cozida em forno subterrâneo com pedras quentes.",
+      "historia": "Método tradicional dos maori há milhares de anos. Carnes e legumes cozem no vapor sob a terra por horas.",
+      "ingredientes": [
+        "1kg frango em pedaços",
+        "1kg cordeiro e porco",
+        "Batatas, kumara (batata doce), abóbora, cebola",
+        "Folhas de repolho",
+        "Pedras basálticas",
+        "Lenha",
+        "Cestos e pano grosso"
+      ],
+      "passos": [
+        "Cave um buraco 1m de profundidade.",
+        "Queime lenha com pedras até ficarem branco-quentes (3h).",
+        "Envolva carnes e legumes em folhas de repolho.",
+        "Coloque os cestos sobre as pedras; cubra com pano molhado e terra.",
+        "Cozinhe sob terra 3–4h sem abrir.",
+        "Desenterre e sirva."
+      ],
+      "dica": "Vedar bem é essencial — qualquer escape de vapor impede o cozimento.",
+      "isExtra": true,
+      "id": "nova-zelandia-hangi-m-0",
+      "pais": "Nova Zelândia",
+      "flag": "🇳🇿"
+    }
+  ]
+}

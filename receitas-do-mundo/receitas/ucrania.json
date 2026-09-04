@@ -1,0 +1,228 @@
+{
+  "pais": "Ucrânia",
+  "recipes": [
+    {
+      "id": "ucrania-borscht-ucraniano-com-smetana-0",
+      "nome": "Borscht Ucraniano com Smetana",
+      "pais": "Ucrânia",
+      "flag": "🇺🇦",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Borscht Ucraniano com Smetana, um clássico de Ucrânia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Ucrânia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Borscht Ucraniano com Smetana (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Borscht Ucraniano com Smetana, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Borscht Ucraniano com Smetana quente como manda a tradição."
+      ],
+      "dica": "Em Ucrânia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ucrania-varenyky-com-recheios-diversos-1",
+      "nome": "Varenyky com Recheios Diversos",
+      "pais": "Ucrânia",
+      "flag": "🇺🇦",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Varenyky com Recheios Diversos, um clássico de Ucrânia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Ucrânia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Varenyky com Recheios Diversos (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Varenyky com Recheios Diversos, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Varenyky com Recheios Diversos quente como manda a tradição."
+      ],
+      "dica": "Em Ucrânia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ucrania-holubtsi--rolinhos-de-repolho-2",
+      "nome": "Holubtsi (Rolinhos de Repolho)",
+      "pais": "Ucrânia",
+      "flag": "🇺🇦",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Holubtsi (Rolinhos de Repolho), um clássico de Ucrânia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Ucrânia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Holubtsi (Rolinhos de Repolho) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Holubtsi (Rolinhos de Repolho), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Holubtsi (Rolinhos de Repolho) quente como manda a tradição."
+      ],
+      "dica": "Em Ucrânia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ucrania-deruny-panquecas-de-batata-3",
+      "nome": "Deruny Panquecas de Batata",
+      "pais": "Ucrânia",
+      "flag": "🇺🇦",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Deruny Panquecas de Batata, um clássico de Ucrânia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Ucrânia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Deruny Panquecas de Batata (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Deruny Panquecas de Batata, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Deruny Panquecas de Batata quente como manda a tradição."
+      ],
+      "dica": "Em Ucrânia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ucrania-syrniki-panquecas-de-queijo-4",
+      "nome": "Syrniki Panquecas de Queijo",
+      "pais": "Ucrânia",
+      "flag": "🇺🇦",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Syrniki Panquecas de Queijo, um clássico de Ucrânia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Ucrânia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Syrniki Panquecas de Queijo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Syrniki Panquecas de Queijo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Syrniki Panquecas de Queijo quente como manda a tradição."
+      ],
+      "dica": "Em Ucrânia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ucrania-paska-pao-de-pascoa-5",
+      "nome": "Paska Pão de Páscoa",
+      "pais": "Ucrânia",
+      "flag": "🇺🇦",
+      "categoria": "paes",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Paska Pão de Páscoa, um clássico de Ucrânia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Ucrânia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Paska Pão de Páscoa (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Paska Pão de Páscoa, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Paska Pão de Páscoa quente como manda a tradição."
+      ],
+      "dica": "Em Ucrânia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "ucrania-horilka-com-pimenta-6",
+      "nome": "Horilka com Pimenta",
+      "pais": "Ucrânia",
+      "flag": "🇺🇦",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Horilka com Pimenta, um clássico de Ucrânia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Ucrânia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Horilka com Pimenta (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Horilka com Pimenta, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Horilka com Pimenta quente como manda a tradição."
+      ],
+      "dica": "Em Ucrânia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Varenyky",
+      "categoria": "salgados",
+      "tempo": "1h30",
+      "porcoes": "40 unidades",
+      "dificuldade": "Média",
+      "desc": "Bolsinhas de massa recheadas com batata e queijo, chucrute ou cereja.",
+      "historia": "Prato nacional ucraniano, mencionado em literatura desde o século XIX. Servidos com nata azeda (smetana).",
+      "ingredientes": [
+        "Massa: 500g farinha, 1 ovo, 200ml água morna, sal",
+        "Recheio batata: 4 batatas cozidas amassadas, 1 cebola dourada, 50g queijo, sal/pimenta",
+        "Recheio queijo doce doce: queijo doce doce fresco, gema, açúcar",
+        "Manteiga derretida, smetana (creme azedo), bacon frito"
+      ],
+      "passos": [
+        "Faça massa, sove bem, descanse 30 min.",
+        "Abra 2mm, corte círculos 8cm.",
+        "Coloque 1 colher chá de recheio; feche em meia-lua; aperte bordas.",
+        "Cozinhe em água salgada fervendo; quando boiarem, mais 3 min.",
+        "Sirva com manteiga derretida e smetana. Os doces com açúcar."
+      ],
+      "dica": "Varenyky congelam PERFEITAMENTE — faça muito e cozinhe do freezer direto na água.",
+      "isExtra": true,
+      "id": "ucrania-varenyky-m-0",
+      "pais": "Ucrânia",
+      "flag": "🇺🇦"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "pais": "Polônia",
+  "recipes": [
+    {
+      "id": "polonia-pierogi-com-varios-recheios-0",
+      "nome": "Pierogi com Vários Recheios",
+      "pais": "Polônia",
+      "flag": "🇵🇱",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Pierogi com Vários Recheios, um clássico de Polônia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Polônia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pierogi com Vários Recheios (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pierogi com Vários Recheios, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pierogi com Vários Recheios quente como manda a tradição."
+      ],
+      "dica": "Em Polônia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "polonia-bigos--choucroute-polones-1",
+      "nome": "Bigos (Choucroute Polonês)",
+      "pais": "Polônia",
+      "flag": "🇵🇱",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Bigos (Choucroute Polonês), um clássico de Polônia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Polônia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bigos (Choucroute Polonês) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bigos (Choucroute Polonês), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bigos (Choucroute Polonês) quente como manda a tradição."
+      ],
+      "dica": "Em Polônia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "polonia-kotlet-schabowy-2",
+      "nome": "Kotlet Schabowy",
+      "pais": "Polônia",
+      "flag": "🇵🇱",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Kotlet Schabowy, um clássico de Polônia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Polônia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Kotlet Schabowy (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Kotlet Schabowy, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Kotlet Schabowy quente como manda a tradição."
+      ],
+      "dica": "Em Polônia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "polonia-zurek--sopa-de-farinha-azeda-3",
+      "nome": "Zurek (Sopa de Farinha Azeda)",
+      "pais": "Polônia",
+      "flag": "🇵🇱",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Zurek (Sopa de Farinha Azeda), um clássico de Polônia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Polônia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Zurek (Sopa de Farinha Azeda) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Zurek (Sopa de Farinha Azeda), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Zurek (Sopa de Farinha Azeda) quente como manda a tradição."
+      ],
+      "dica": "Em Polônia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "polonia-paczki-donuts-poloneses-4",
+      "nome": "Paczki Donuts Poloneses",
+      "pais": "Polônia",
+      "flag": "🇵🇱",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Paczki Donuts Poloneses, um clássico de Polônia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Polônia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Paczki Donuts Poloneses (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Paczki Donuts Poloneses, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Paczki Donuts Poloneses quente como manda a tradição."
+      ],
+      "dica": "Em Polônia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "polonia-oscypek-queijo-defumado-das-montanhas-5",
+      "nome": "Oscypek Queijo Defumado das Montanhas",
+      "pais": "Polônia",
+      "flag": "🇵🇱",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Oscypek Queijo Defumado das Montanhas, um clássico de Polônia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Polônia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Oscypek Queijo Defumado das Montanhas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Oscypek Queijo Defumado das Montanhas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Oscypek Queijo Defumado das Montanhas quente como manda a tradição."
+      ],
+      "dica": "Em Polônia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "polonia-makowiec--bolo-de-sementes-de-papoula-6",
+      "nome": "Makowiec (Bolo de Sementes de Papoula)",
+      "pais": "Polônia",
+      "flag": "🇵🇱",
+      "categoria": "doces",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Makowiec (Bolo de Sementes de Papoula), um clássico de Polônia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Polônia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Makowiec (Bolo de Sementes de Papoula) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Makowiec (Bolo de Sementes de Papoula), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Makowiec (Bolo de Sementes de Papoula) quente como manda a tradição."
+      ],
+      "dica": "Em Polônia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "polonia-vodka-zubrowka-7",
+      "nome": "Vodka Żubrówka",
+      "pais": "Polônia",
+      "flag": "🇵🇱",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Vodka Żubrówka, um clássico de Polônia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Polônia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Vodka Żubrówka (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Vodka Żubrówka, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Vodka Żubrówka quente como manda a tradição."
+      ],
+      "dica": "Em Polônia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Kotlet Schabowy",
+      "categoria": "pratos",
+      "tempo": "40 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Costeleta de porco à milanesa polonesa — mais fina e crocante, com batata e salada.",
+      "historia": "É o prato caseiro polonês mais popular — equivalente ao schnitzel austríaco.",
+      "ingredientes": [
+        "4 fatias de lombo de porco (fina, martelada)",
+        "Farinha, ovo batido, farinha de rosca",
+        "Sal, pimenta",
+        "Óleo para fritar",
+        "Purê de batata, pepino azedo, salada de repolho"
+      ],
+      "passos": [
+        "Bata as costeletas entre filme até 3mm de espessura; tempere.",
+        "Passe em farinha, ovo e farinha de rosca apertando bem.",
+        "Frite em óleo quente 2 min cada lado até dourar.",
+        "Escorra em papel.",
+        "Sirva com purê de batatas e pepino azedo."
+      ],
+      "dica": "Bater BEM a carne fina é o segredo — kotlet deve ser magro.",
+      "isExtra": true,
+      "id": "polonia-kotlet-schabowy-m-0",
+      "pais": "Polônia",
+      "flag": "🇵🇱"
+    }
+  ]
+}

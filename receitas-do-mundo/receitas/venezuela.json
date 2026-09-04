@@ -1,0 +1,254 @@
+{
+  "pais": "Venezuela",
+  "recipes": [
+    {
+      "id": "venezuela-arepas-reina-pepiada-0",
+      "nome": "Arepas Reina Pepiada",
+      "pais": "Venezuela",
+      "flag": "🇻🇪",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Arepas Reina Pepiada, um clássico de Venezuela preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Venezuela, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Arepas Reina Pepiada (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Arepas Reina Pepiada, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Arepas Reina Pepiada quente como manda a tradição."
+      ],
+      "dica": "Em Venezuela, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "venezuela-pabellon-criollo-1",
+      "nome": "Pabellón Criollo",
+      "pais": "Venezuela",
+      "flag": "🇻🇪",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Pabellón Criollo, um clássico de Venezuela preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Venezuela, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pabellón Criollo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pabellón Criollo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pabellón Criollo quente como manda a tradição."
+      ],
+      "dica": "Em Venezuela, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "venezuela-hallaca-de-natal-2",
+      "nome": "Hallaca de Natal",
+      "pais": "Venezuela",
+      "flag": "🇻🇪",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Hallaca de Natal, um clássico de Venezuela preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Venezuela, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Hallaca de Natal (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Hallaca de Natal, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Hallaca de Natal quente como manda a tradição."
+      ],
+      "dica": "Em Venezuela, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "venezuela-tequenos-palitos-de-queijo-3",
+      "nome": "Tequeños Palitos de Queijo",
+      "pais": "Venezuela",
+      "flag": "🇻🇪",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tequeños Palitos de Queijo, um clássico de Venezuela preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Venezuela, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Tequeños Palitos de Queijo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Tequeños Palitos de Queijo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Tequeños Palitos de Queijo quente como manda a tradição."
+      ],
+      "dica": "Em Venezuela, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "venezuela-cachapa-de-milho-doce-4",
+      "nome": "Cachapa de Milho Doce",
+      "pais": "Venezuela",
+      "flag": "🇻🇪",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Cachapa de Milho Doce, um clássico de Venezuela preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Venezuela, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Cachapa de Milho Doce (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Cachapa de Milho Doce, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Cachapa de Milho Doce quente como manda a tradição."
+      ],
+      "dica": "Em Venezuela, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "venezuela-quesillo-flan-de-caramelo-5",
+      "nome": "Quesillo Flan de Caramelo",
+      "pais": "Venezuela",
+      "flag": "🇻🇪",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Quesillo Flan de Caramelo, um clássico de Venezuela preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Venezuela, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Quesillo Flan de Caramelo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Quesillo Flan de Caramelo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Quesillo Flan de Caramelo quente como manda a tradição."
+      ],
+      "dica": "Em Venezuela, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "venezuela-papitas-con-queso-6",
+      "nome": "Papitas con Queso",
+      "pais": "Venezuela",
+      "flag": "🇻🇪",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Papitas con Queso, um clássico de Venezuela preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Venezuela, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Papitas con Queso (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Papitas con Queso, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Papitas con Queso quente como manda a tradição."
+      ],
+      "dica": "Em Venezuela, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "venezuela-papelon-con-limon-7",
+      "nome": "Papelón con Limón",
+      "pais": "Venezuela",
+      "flag": "🇻🇪",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Papelón con Limón, um clássico de Venezuela preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Venezuela, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Papelón con Limón (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Papelón con Limón, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Papelón con Limón quente como manda a tradição."
+      ],
+      "dica": "Em Venezuela, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Arepas Reina Pepiada",
+      "categoria": "cafemanha",
+      "tempo": "1h",
+      "porcoes": "8 arepas",
+      "dificuldade": "Fácil",
+      "desc": "Arepas de farinha de milho recheadas com frango, abacate e maionese.",
+      "historia": "A rainha das arepas — criada em 1955 em homenagem a uma Miss Venezuela.",
+      "ingredientes": [
+        "Massa: 300g farinha pan (harina pan), 400ml água morna, sal",
+        "Recheio reina: 2 peitos frango desfiados, 2 abacates maduros amassados, 100g maionese, 1 cebola picada, coentro, suco limão, sal"
+      ],
+      "passos": [
+        "Misture farinha e água salgada; amasse; deixe descansar 5 min.",
+        "Forme discos 2cm de espessura.",
+        "Cozinhe em frigideira sem óleo 5 min cada lado; asse mais 10 min a 180°C até dourar.",
+        "Misture frango desfiado com abacate, maionese, cebola, coentro e limão.",
+        "Abra arepas ao meio como bolso; recheie generosamente."
+      ],
+      "dica": "Arepa deve estar crocante por fora e macia por dentro — harina PAN (branca ou amarela) é essencial.",
+      "isExtra": true,
+      "id": "venezuela-arepas-reina-pepiada-m-0",
+      "pais": "Venezuela",
+      "flag": "🇻🇪"
+    }
+  ]
+}

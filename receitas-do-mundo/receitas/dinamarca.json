@@ -1,0 +1,60 @@
+{
+  "pais": "Dinamarca",
+  "recipes": [
+    {
+      "nome": "Smørrebrød",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sanduíches abertos sobre rugbrød (pão de centeio denso) com coberturas variadas.",
+      "historia": "Almoço nacional dinamarquês — centenas de combinações tradicionais. Comida com garfo e faca, não com mão.",
+      "ingredientes": [
+        "8 fatias rugbrød (pão de centeio denso)",
+        "Manteiga",
+        "Coberturas tradicionais: arenque em conserva, fatias de rosbife, patê de fígado, ovo cozido, camarões, salmão curado",
+        "Rábano cremoso, cebola roxa fatiada, alcaparras, endro, picles"
+      ],
+      "passos": [
+        "Passe manteiga generosamente no pão.",
+        "Cubra com as coberturas organizadas visualmente: arenque com cebola e alcaparras; rosbife com rábano; camarões com endro e limão; patê com bacon.",
+        "Sirva aberto; coma com garfo e faca."
+      ],
+      "dica": "Rugbrød denso com manteiga é obrigatório — não é pão de forma comum.",
+      "isExtra": true,
+      "id": "dinamarca-smrrebrd-m-0",
+      "pais": "Dinamarca",
+      "flag": "🇩🇰"
+    },
+    {
+      "nome": "Frikadeller",
+      "categoria": "pratos",
+      "tempo": "35 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Almôndegas dinamarquesas de carne porco/vitela, servidas com batatas e molho castanho.",
+      "historia": "Clássico dinamarquês caseiro do século XIX, parecidas com as suecas mas um pouco mais achatadas.",
+      "ingredientes": [
+        "300g porco moído, 200g vitela moída",
+        "1 cebola pequena ralada",
+        "1 ovo",
+        "50g farinha",
+        "100ml leite",
+        "Sal, pimenta, noz-moscada",
+        "Manteiga/óleo para fritar",
+        "Batatas cozidas, molho castanho, repolho roxo cozido"
+      ],
+      "passos": [
+        "Misture carnes com cebola, ovo, farinha, leite e temperos; bata bem até ficar pegajoso.",
+        "Forme bolas achatadas com colher de sopa.",
+        "Frite em manteiga em fogo médio 5–7 min de cada lado.",
+        "Sirva com batatas, molho castanho e repolho."
+      ],
+      "dica": "Bata a carne bastante — a mistura pegajosa faz almôndegas macias.",
+      "isExtra": true,
+      "id": "dinamarca-frikadeller-m-1",
+      "pais": "Dinamarca",
+      "flag": "🇩🇰"
+    }
+  ]
+}

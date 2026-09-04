@@ -1,0 +1,261 @@
+{
+  "pais": "Suíça",
+  "recipes": [
+    {
+      "id": "suica-fondue-de-queijo-suico-com-pao-0",
+      "nome": "Fondue de Queijo Suíço com Pão",
+      "pais": "Suíça",
+      "flag": "🇨🇭",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Fondue de Queijo Suíço com Pão, um clássico de Suíça preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suíça, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Fondue de Queijo Suíço com Pão (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Fondue de Queijo Suíço com Pão, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Fondue de Queijo Suíço com Pão quente como manda a tradição."
+      ],
+      "dica": "Em Suíça, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suica-raclette-com-batatas-e-picles-1",
+      "nome": "Raclette com Batatas e Picles",
+      "pais": "Suíça",
+      "flag": "🇨🇭",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Raclette com Batatas e Picles, um clássico de Suíça preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suíça, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Raclette com Batatas e Picles (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Raclette com Batatas e Picles, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Raclette com Batatas e Picles quente como manda a tradição."
+      ],
+      "dica": "Em Suíça, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suica-rosti-de-batata-2",
+      "nome": "Rösti de Batata",
+      "pais": "Suíça",
+      "flag": "🇨🇭",
+      "categoria": "cafemanha",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Rösti de Batata, um clássico de Suíça preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suíça, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Rösti de Batata (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Rösti de Batata, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Rösti de Batata quente como manda a tradição."
+      ],
+      "dica": "Em Suíça, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suica-zurcher-geschnetzeltes-3",
+      "nome": "Zürcher Geschnetzeltes",
+      "pais": "Suíça",
+      "flag": "🇨🇭",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Zürcher Geschnetzeltes, um clássico de Suíça preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suíça, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Zürcher Geschnetzeltes (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Zürcher Geschnetzeltes, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Zürcher Geschnetzeltes quente como manda a tradição."
+      ],
+      "dica": "Em Suíça, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suica-alplermagronen-4",
+      "nome": "Älplermagronen",
+      "pais": "Suíça",
+      "flag": "🇨🇭",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Älplermagronen, um clássico de Suíça preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suíça, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Älplermagronen (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Älplermagronen, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Älplermagronen quente como manda a tradição."
+      ],
+      "dica": "Em Suíça, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suica-chocolate-suico-trufado-5",
+      "nome": "Chocolate Suíço Trufado",
+      "pais": "Suíça",
+      "flag": "🇨🇭",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Chocolate Suíço Trufado, um clássico de Suíça preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suíça, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chocolate Suíço Trufado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chocolate Suíço Trufado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chocolate Suíço Trufado quente como manda a tradição."
+      ],
+      "dica": "Em Suíça, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suica-birchermuesli-6",
+      "nome": "Birchermüesli",
+      "pais": "Suíça",
+      "flag": "🇨🇭",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Birchermüesli, um clássico de Suíça preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suíça, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Birchermüesli (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Birchermüesli, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Birchermüesli quente como manda a tradição."
+      ],
+      "dica": "Em Suíça, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "suica-rivella--bebida-nacional-7",
+      "nome": "Rivella (bebida nacional)",
+      "pais": "Suíça",
+      "flag": "🇨🇭",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Rivella (bebida nacional), um clássico de Suíça preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Suíça, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Rivella (bebida nacional) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Rivella (bebida nacional), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Rivella (bebida nacional) quente como manda a tradição."
+      ],
+      "dica": "Em Suíça, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Fondue de Queijo",
+      "pais": "Suíça",
+      "flag": "🇨🇭",
+      "categoria": "pratos",
+      "tempo": "25 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Queijos suíços derretidos com vinho branco e kirsch, mergulhando pão cubado.",
+      "historia": "Especialidade dos Alpes suíços (Valais/Fribourg/Neuchâtel). Caquelon de cerâmica em rechaud.",
+      "ingredientes": [
+        "200g queijo Gruyère ralado",
+        "200g queijo Emmental (ou Vacherin Fribourgeois) ralado",
+        "300ml vinho branco seco suíço (Fendant)",
+        "1 colher amido milho",
+        "1 dente alho cortado",
+        "1 colher Kirsch",
+        "Noz-moscada, pimenta preta",
+        "Pão rústico em cubos (c/ casca)"
+      ],
+      "passos": [
+        "Esfregue o caquelon com o dente de alho.",
+        "Aqueça vinho branco; adicione queijos aos poucos mexendo sempre em \"8\" até derreter.",
+        "Dissolva amido em Kirsch; junte ao fondue para dar liga.",
+        "Tempere noz-moscada e pimenta.",
+        "Leve à mesa no rechaud com fogo baixo.",
+        "Espete cubos de pão com garfo longo; mergulhe no queijo girando."
+      ],
+      "dica": "Se o fondue ficar espesso adicione mais vinho; se mole mais amido. Nunca beba água gelada durante fondue (queijo congela no estômago!) — beba vinho ou chá preto quente.",
+      "isExtra": true,
+      "id": "suica-fondue-de-queijo-extra-0"
+    }
+  ]
+}

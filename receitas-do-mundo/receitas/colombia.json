@@ -1,0 +1,319 @@
+{
+  "pais": "Colômbia",
+  "recipes": [
+    {
+      "id": "colombia-bandeja-paisa-completa-0",
+      "nome": "Bandeja Paisa Completa",
+      "pais": "Colômbia",
+      "flag": "🇨🇴",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Bandeja Paisa Completa, um clássico de Colômbia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Colômbia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bandeja Paisa Completa (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bandeja Paisa Completa, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bandeja Paisa Completa quente como manda a tradição."
+      ],
+      "dica": "Em Colômbia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "colombia-arepas-de-choclo-com-queijo-1",
+      "nome": "Arepas de Choclo com Queijo",
+      "pais": "Colômbia",
+      "flag": "🇨🇴",
+      "categoria": "cafemanha",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Arepas de Choclo com Queijo, um clássico de Colômbia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Colômbia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Arepas de Choclo com Queijo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Arepas de Choclo com Queijo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Arepas de Choclo com Queijo quente como manda a tradição."
+      ],
+      "dica": "Em Colômbia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "colombia-ajiaco-santafereno-com-guascas-2",
+      "nome": "Ajiaco Santafereño com Guascas",
+      "pais": "Colômbia",
+      "flag": "🇨🇴",
+      "categoria": "sopas",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Ajiaco Santafereño com Guascas, um clássico de Colômbia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Colômbia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Ajiaco Santafereño com Guascas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Ajiaco Santafereño com Guascas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Ajiaco Santafereño com Guascas quente como manda a tradição."
+      ],
+      "dica": "Em Colômbia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "colombia-empanadas-colombianas-3",
+      "nome": "Empanadas Colombianas",
+      "pais": "Colômbia",
+      "flag": "🇨🇴",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Empanadas Colombianas, um clássico de Colômbia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Colômbia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Empanadas Colombianas (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Empanadas Colombianas, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Empanadas Colombianas quente como manda a tradição."
+      ],
+      "dica": "Em Colômbia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "colombia-posta-negra-cartagenera-4",
+      "nome": "Posta Negra Cartagenera",
+      "pais": "Colômbia",
+      "flag": "🇨🇴",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Posta Negra Cartagenera, um clássico de Colômbia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Colômbia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Posta Negra Cartagenera (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Posta Negra Cartagenera, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Posta Negra Cartagenera quente como manda a tradição."
+      ],
+      "dica": "Em Colômbia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "colombia-arroz-con-leche-5",
+      "nome": "Arroz con Leche",
+      "pais": "Colômbia",
+      "flag": "🇨🇴",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Arroz con Leche, um clássico de Colômbia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Colômbia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Arroz con Leche (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Arroz con Leche, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Arroz con Leche quente como manda a tradição."
+      ],
+      "dica": "Em Colômbia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "colombia-bunuelos-de-queso-6",
+      "nome": "Buñuelos de Queso",
+      "pais": "Colômbia",
+      "flag": "🇨🇴",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Buñuelos de Queso, um clássico de Colômbia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Colômbia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Buñuelos de Queso (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Buñuelos de Queso, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Buñuelos de Queso quente como manda a tradição."
+      ],
+      "dica": "Em Colômbia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "colombia-aguardiente-antioqueno-7",
+      "nome": "Aguardiente Antioqueño",
+      "pais": "Colômbia",
+      "flag": "🇨🇴",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Aguardiente Antioqueño, um clássico de Colômbia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Colômbia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Aguardiente Antioqueño (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Aguardiente Antioqueño, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Aguardiente Antioqueño quente como manda a tradição."
+      ],
+      "dica": "Em Colômbia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "colombia-pan-de-queso-8",
+      "nome": "Pan de Queso",
+      "pais": "Colômbia",
+      "flag": "🇨🇴",
+      "categoria": "paes",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pan de Queso, um clássico de Colômbia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Colômbia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pan de Queso (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pan de Queso, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pan de Queso quente como manda a tradição."
+      ],
+      "dica": "Em Colômbia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Bandeja Paisa",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Prato completo com feijão vermelho, arroz, carne moída, chicharrón, ovo, arepa e banana.",
+      "historia": "Prato emblemático da região de Antioquia, uma montanha de comida em um prato! É considerado por muitos prato nacional.",
+      "ingredientes": [
+        "Feijão vermelho cozido com toucinho (400g)",
+        "Arroz branco cozido (4 porções)",
+        "300g carne moída refogada (hogao: tomate, cebola, alho)",
+        "Chicharrón de barriga de porco (200g frito)",
+        "4 ovos fritos",
+        "4 arepas pequenas",
+        "2 bananas maduras fritas",
+        "Bocado de guacamole, hogao"
+      ],
+      "passos": [
+        "Cozinhe feijão de véspera.",
+        "Cozinhe arroz.",
+        "Refogue carne moída com hogao.",
+        "Frite chicharrón até ficar crocante.",
+        "Frite ovos e bananas.",
+        "Monte em prato grande: arroz, feijão, carne, chicharrón, ovo, banana, arepa.",
+        "Sirva com avocado e ají."
+      ],
+      "dica": "Chicharrón crocante é o destaque — deve ser barriga com pele crocante.",
+      "isExtra": true,
+      "id": "colombia-bandeja-paisa-m-0",
+      "pais": "Colômbia",
+      "flag": "🇨🇴"
+    },
+    {
+      "nome": "Ajiaco Bogotano",
+      "categoria": "sopas",
+      "tempo": "1h30",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Sopa de batata (3 variedades) e frango com guascas, servida com alcaparras e creme de leite.",
+      "historia": "Sopa típica de Bogotá — usam 3 tipos de batata diferentes (criolla, pastusa e sabanera) e a erva guascas (galinsoga).",
+      "ingredientes": [
+        "1kg peito de frango",
+        "3 tipos batatas em cubos (papa criolla, pastusa e comum)",
+        "1 cebola, 3 alhos, 2 talos cebolinha",
+        "1 maço guascas",
+        "Sal, pimenta",
+        "Alcaparras, creme de leite, abacate para servir"
+      ],
+      "passos": [
+        "Cozinhe frango com aromáticos em 2L água; reserve desfiado.",
+        "No caldo, cozinhe as batatas mais firmes, depois as mais macias.",
+        "Papa criolla se desfaz e engrossa a sopa naturalmente.",
+        "Adicione guascas e frango desfiado; cozinhe 10 min.",
+        "Sirva com alcaparras, creme e abacate."
+      ],
+      "dica": "Guascas (galinsoga) é erva obrigatória — sem ela não é ajiaco autêntico.",
+      "isExtra": true,
+      "id": "colombia-ajiaco-bogotano-m-1",
+      "pais": "Colômbia",
+      "flag": "🇨🇴"
+    }
+  ]
+}

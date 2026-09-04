@@ -1,0 +1,33 @@
+{
+  "pais": "Panamá",
+  "recipes": [
+    {
+      "nome": "Sancocho",
+      "categoria": "sopas",
+      "tempo": "1h30",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sopa de frango com legumes, culantro, ñame e otós — remédio panamenho para tudo.",
+      "historia": "Sancocho panamenho usa culantro (coentro longo) e diversos tubérculos. É servido em todo evento.",
+      "ingredientes": [
+        "1 frango inteiro em pedaços",
+        "Ñame (inhame), otó, yuca, batata, milho verde",
+        "1 cebola, 3 alhos",
+        "Culantro (ou coentro forte), orégano",
+        "Sal, pimenta",
+        "Arroz branco para acompanhar"
+      ],
+      "passos": [
+        "Cozinhe frango em água com aromáticos por 40 min.",
+        "Adicione tubérculos (os mais duros primeiro); cozinhe mais 25 min até amaciar.",
+        "Salpique culantro; acerte sal.",
+        "Sirva com arroz branco separado."
+      ],
+      "dica": "Culantro (eryngium foetidum) dá sabor característico — use coentro em dobro se não encontrar.",
+      "isExtra": true,
+      "id": "panama-sancocho-m-0",
+      "pais": "Panamá",
+      "flag": "🇵🇦"
+    }
+  ]
+}

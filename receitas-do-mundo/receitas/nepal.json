@@ -1,0 +1,31 @@
+{
+  "pais": "Nepal",
+  "recipes": [
+    {
+      "nome": "Momo",
+      "categoria": "salgados",
+      "tempo": "1h30",
+      "porcoes": "30 momos",
+      "dificuldade": "Média",
+      "desc": "Pastéis nepaleses cozidos no vapor recheados com frango/bufalo/legumes, servidos com molho picante achar.",
+      "historia": "Momos são a comida tibetana-nepalesa mais amada — equivalem a dumplings mas com recheio temperado.",
+      "ingredientes": [
+        "Massa: 300g farinha, 150ml água morna, pitada sal",
+        "Recheio: 400g carne de búfalo/frango moído, 1 cebola ralada, 1 colher gengibre-alho, coentro, cominho, pimenta",
+        "Molho: tomate assado, pimenta, gengibre-alho, sementes de gergelim, coentro, limão"
+      ],
+      "passos": [
+        "Faça massa firme; descanse 30 min.",
+        "Misture recheio MUITO bem até ficar pegajoso.",
+        "Abra discos finos 8cm; coloque recheio; feche em forma de trouxinha fazendo pregas.",
+        "Cozinhe na cuscuzeira a vapor por 10–12 min sobre papel manteiga untado.",
+        "Sirva com molho picante (sekuwa achar) de tomate e pimenta batidos."
+      ],
+      "dica": "Massa fina e pregas fechadas bem — senão os momos abrem no vapor.",
+      "isExtra": true,
+      "id": "nepal-momo-m-0",
+      "pais": "Nepal",
+      "flag": "🇳🇵"
+    }
+  ]
+}

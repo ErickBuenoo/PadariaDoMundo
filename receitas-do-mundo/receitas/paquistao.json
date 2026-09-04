@@ -1,0 +1,259 @@
+{
+  "pais": "Paquistão",
+  "recipes": [
+    {
+      "id": "paquistao-biryani-de-karachi-0",
+      "nome": "Biryani de Karachi",
+      "pais": "Paquistão",
+      "flag": "🇵🇰",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Biryani de Karachi, um clássico de Paquistão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Paquistão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Biryani de Karachi (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Biryani de Karachi, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Biryani de Karachi quente como manda a tradição."
+      ],
+      "dica": "Em Paquistão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "paquistao-nihari-com-naan-1",
+      "nome": "Nihari com Naan",
+      "pais": "Paquistão",
+      "flag": "🇵🇰",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Nihari com Naan, um clássico de Paquistão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Paquistão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Nihari com Naan (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Nihari com Naan, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Nihari com Naan quente como manda a tradição."
+      ],
+      "dica": "Em Paquistão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "paquistao-haleem--ensopado-de-trigo-e-carne-2",
+      "nome": "Haleem (Ensopado de Trigo e Carne)",
+      "pais": "Paquistão",
+      "flag": "🇵🇰",
+      "categoria": "sopas",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Haleem (Ensopado de Trigo e Carne), um clássico de Paquistão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Paquistão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Haleem (Ensopado de Trigo e Carne) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Haleem (Ensopado de Trigo e Carne), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Haleem (Ensopado de Trigo e Carne) quente como manda a tradição."
+      ],
+      "dica": "Em Paquistão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "paquistao-samosa-chaat-3",
+      "nome": "Samosa Chaat",
+      "pais": "Paquistão",
+      "flag": "🇵🇰",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Samosa Chaat, um clássico de Paquistão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Paquistão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Samosa Chaat (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Samosa Chaat, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Samosa Chaat quente como manda a tradição."
+      ],
+      "dica": "Em Paquistão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "paquistao-gulab-jamun-com-cardamomo-4",
+      "nome": "Gulab Jamun com Cardamomo",
+      "pais": "Paquistão",
+      "flag": "🇵🇰",
+      "categoria": "doces",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Gulab Jamun com Cardamomo, um clássico de Paquistão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Paquistão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Gulab Jamun com Cardamomo (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Gulab Jamun com Cardamomo, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Gulab Jamun com Cardamomo quente como manda a tradição."
+      ],
+      "dica": "Em Paquistão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "paquistao-roghani-naan-5",
+      "nome": "Roghani Naan",
+      "pais": "Paquistão",
+      "flag": "🇵🇰",
+      "categoria": "paes",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Roghani Naan, um clássico de Paquistão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Paquistão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Roghani Naan (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Roghani Naan, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Roghani Naan quente como manda a tradição."
+      ],
+      "dica": "Em Paquistão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "paquistao-lassi-salgado-6",
+      "nome": "Lassi Salgado",
+      "pais": "Paquistão",
+      "flag": "🇵🇰",
+      "categoria": "bebidas",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Fácil",
+      "desc": "Lassi Salgado, um clássico de Paquistão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Paquistão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Lassi Salgado (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Lassi Salgado, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Lassi Salgado quente como manda a tradição."
+      ],
+      "dica": "Em Paquistão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "paquistao-chapli-kebab-7",
+      "nome": "Chapli Kebab",
+      "pais": "Paquistão",
+      "flag": "🇵🇰",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Chapli Kebab, um clássico de Paquistão preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Paquistão, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chapli Kebab (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chapli Kebab, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chapli Kebab quente como manda a tradição."
+      ],
+      "dica": "Em Paquistão, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Nihari",
+      "categoria": "sopas",
+      "tempo": "4–6h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Ensopado de canela/bovino cozido MUITO lentamente com especiarias, servido com gengibre e coentro.",
+      "historia": "Cozido de muçulmanos de Lucknow/Delhi; no Paquistão é prato de café da manhã de domingo. Cozido a noite toda!",
+      "ingredientes": [
+        "1kg pernil/osso buco em cubos grandes",
+        "2 cebolas fatiadas e douradas",
+        "3 colheres farinha",
+        "Especiarias: gengibre-alho, garam masala, páprica, pimenta vermelha, curcuma, cardamomo, canela, louro, cravo",
+        "Niter kibbeh ou ghee",
+        "Sal",
+        "Guarnições: gengibre em fatias finas, coentro, pimenta verde fatiada, limão, naan"
+      ],
+      "passos": [
+        "Doure cebola no ghee até dourar profundo; reserve.",
+        "Na panela de pressão doure carne com gengibre-alho e especiarias.",
+        "Cubra com água; cozinhe pressão por 45 min ou fogo baixo 3h.",
+        "Engrosse com farinha; junte cebolas; cozinhe apurar.",
+        "Sirva em tigelas com guarnições generosas e naan."
+      ],
+      "dica": "Nihari deve ter GRAXA/GORDURA — é ensopado rico, perfeito com naan quente.",
+      "isExtra": true,
+      "id": "paquistao-nihari-m-0",
+      "pais": "Paquistão",
+      "flag": "🇵🇰"
+    }
+  ]
+}

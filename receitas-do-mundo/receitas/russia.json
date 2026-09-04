@@ -1,0 +1,290 @@
+{
+  "pais": "Rússia",
+  "recipes": [
+    {
+      "id": "russia-borscht-sopa-de-beterraba-com-smetana-0",
+      "nome": "Borscht Sopa de Beterraba com Smetana",
+      "pais": "Rússia",
+      "flag": "🇷🇺",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Borscht Sopa de Beterraba com Smetana, um clássico de Rússia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Rússia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Borscht Sopa de Beterraba com Smetana (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Borscht Sopa de Beterraba com Smetana, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Borscht Sopa de Beterraba com Smetana quente como manda a tradição."
+      ],
+      "dica": "Em Rússia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "russia-pelmeni--bolinhas-recheadas-1",
+      "nome": "Pelmeni (Bolinhas Recheadas)",
+      "pais": "Rússia",
+      "flag": "🇷🇺",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pelmeni (Bolinhas Recheadas), um clássico de Rússia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Rússia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pelmeni (Bolinhas Recheadas) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pelmeni (Bolinhas Recheadas), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pelmeni (Bolinhas Recheadas) quente como manda a tradição."
+      ],
+      "dica": "Em Rússia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "russia-beef-stroganoff-2",
+      "nome": "Beef Stroganoff",
+      "pais": "Rússia",
+      "flag": "🇷🇺",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Beef Stroganoff, um clássico de Rússia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Rússia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Beef Stroganoff (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Beef Stroganoff, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Beef Stroganoff quente como manda a tradição."
+      ],
+      "dica": "Em Rússia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "russia-blini-com-caviar-e-sour-cream-3",
+      "nome": "Blini com Caviar e Sour Cream",
+      "pais": "Rússia",
+      "flag": "🇷🇺",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Blini com Caviar e Sour Cream, um clássico de Rússia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Rússia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Blini com Caviar e Sour Cream (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Blini com Caviar e Sour Cream, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Blini com Caviar e Sour Cream quente como manda a tradição."
+      ],
+      "dica": "Em Rússia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "russia-vareniki-com-batata-4",
+      "nome": "Vareniki com Batata",
+      "pais": "Rússia",
+      "flag": "🇷🇺",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Média",
+      "desc": "Vareniki com Batata, um clássico de Rússia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Rússia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Vareniki com Batata (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Vareniki com Batata, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Vareniki com Batata quente como manda a tradição."
+      ],
+      "dica": "Em Rússia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "russia-medovik--bolo-de-mel-5",
+      "nome": "Medovik (Bolo de Mel)",
+      "pais": "Rússia",
+      "flag": "🇷🇺",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Medovik (Bolo de Mel), um clássico de Rússia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Rússia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Medovik (Bolo de Mel) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Medovik (Bolo de Mel), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Medovik (Bolo de Mel) quente como manda a tradição."
+      ],
+      "dica": "Em Rússia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "russia-pao-preto-borodinsky-6",
+      "nome": "Pão Preto Borodinsky",
+      "pais": "Rússia",
+      "flag": "🇷🇺",
+      "categoria": "paes",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pão Preto Borodinsky, um clássico de Rússia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Rússia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pão Preto Borodinsky (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pão Preto Borodinsky, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pão Preto Borodinsky quente como manda a tradição."
+      ],
+      "dica": "Em Rússia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "russia-vodka-gelada-7",
+      "nome": "Vodka Gelada",
+      "pais": "Rússia",
+      "flag": "🇷🇺",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Vodka Gelada, um clássico de Rússia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Rússia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Vodka Gelada (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Vodka Gelada, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Vodka Gelada quente como manda a tradição."
+      ],
+      "dica": "Em Rússia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "russia-olivier--salada-russa-de-ano-novo-8",
+      "nome": "Olivier (Salada Russa de Ano Novo)",
+      "pais": "Rússia",
+      "flag": "🇷🇺",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Olivier (Salada Russa de Ano Novo), um clássico de Rússia preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Rússia, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Olivier (Salada Russa de Ano Novo) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Olivier (Salada Russa de Ano Novo), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Olivier (Salada Russa de Ano Novo) quente como manda a tradição."
+      ],
+      "dica": "Em Rússia, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Borscht",
+      "pais": "Rússia",
+      "flag": "🇷🇺",
+      "categoria": "sopas",
+      "tempo": "2h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sopa beterraba vermelha com carne e smetana — servida em todo o Leste Europeu.",
+      "historia": "Sopa ucraniana/russa de origem medieval, é o mais famoso prato da região eslava.",
+      "ingredientes": [
+        "4 beterrabas grandes descascadas raladas",
+        "500g carne (peito de boi) em cubos",
+        "1 repolho pequeno fatiado",
+        "2 cenouras, 2 batatas, 1 cebola",
+        "2 colheres extrato tomate",
+        "2 colheres vinagre",
+        "1,5L caldo",
+        "Louro, sal, pimenta, endro",
+        "Smetana (creme azedo) para servir"
+      ],
+      "passos": [
+        "Cozinhe a carne em caldo 40 min até macia.",
+        "Refogue cebola, cenoura; adicione beterraba ralada, vinagre, extrato tomate; cozinhe 15 min.",
+        "Adicione batata em cubos ao caldo; cozinhe 10 min, junte refogado de beterraba.",
+        "Adicione repolho; cozinhe 10 min.",
+        "Ajuste sal e vinagre; deixe descansar 15 min.",
+        "Sirva com smetana e endro."
+      ],
+      "dica": "Vinagre preserva a cor vermelha vibrante da beterraba e equilibra o doce.",
+      "isExtra": true,
+      "id": "russia-borscht-extra-0"
+    }
+  ]
+}

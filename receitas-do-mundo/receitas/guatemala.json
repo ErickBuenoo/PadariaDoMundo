@@ -1,0 +1,33 @@
+{
+  "pais": "Guatemala",
+  "recipes": [
+    {
+      "nome": "Pepián",
+      "categoria": "pratos",
+      "tempo": "2h",
+      "porcoes": "6 porções",
+      "dificuldade": "Difícil",
+      "desc": "Ensopado grosso de carne com molho de sementes de abóbora, gergelim, pimenta e especiarias.",
+      "historia": "Patrimônio guatemalteco de origem maia-espanhola, um dos pratos mais complexos e antigos da Guatemala.",
+      "ingredientes": [
+        "600g frango em pedaços / costelinha de porco",
+        "100g sementes de abóbora torradas",
+        "50g gergelim torrado",
+        "4 pimentas secas torradas",
+        "3 tomates assados, 1 cebola assada, 3 alhos assados",
+        "Canela, cravo, pimenta preta",
+        "Milho (chuchitos ou tamalitos para acompanhar), arroz"
+      ],
+      "passos": [
+        "Toste sementes e pimentas separadamente. Bata com tomates, cebola e alho assados até virar mole grosso.",
+        "Cozinhe carne, junte o molho; cozinhe em fogo baixo 1h.",
+        "Sirva grosso, acompanhado de tamalitos e arroz."
+      ],
+      "dica": "Tostar sementes LEVEMENTE — sementes queimadas amargam todo o ensopado.",
+      "isExtra": true,
+      "id": "guatemala-pepian-m-0",
+      "pais": "Guatemala",
+      "flag": "🇬🇹"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "pais": "Israel",
+  "recipes": [
+    {
+      "id": "israel-shakshuka-ovos-no-molho-de-tomate-0",
+      "nome": "Shakshuka Ovos no Molho de Tomate",
+      "pais": "Israel",
+      "flag": "🇮🇱",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Shakshuka Ovos no Molho de Tomate, um clássico de Israel preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Israel, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Shakshuka Ovos no Molho de Tomate (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Shakshuka Ovos no Molho de Tomate, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Shakshuka Ovos no Molho de Tomate quente como manda a tradição."
+      ],
+      "dica": "Em Israel, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "israel-hummus-com-pao-pita-1",
+      "nome": "Hummus com Pão Pita",
+      "pais": "Israel",
+      "flag": "🇮🇱",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Hummus com Pão Pita, um clássico de Israel preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Israel, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Hummus com Pão Pita (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Hummus com Pão Pita, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Hummus com Pão Pita quente como manda a tradição."
+      ],
+      "dica": "Em Israel, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "israel-falafel-com-tahine-2",
+      "nome": "Falafel com Tahine",
+      "pais": "Israel",
+      "flag": "🇮🇱",
+      "categoria": "salgados",
+      "tempo": "1h",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Falafel com Tahine, um clássico de Israel preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Israel, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Falafel com Tahine (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Falafel com Tahine, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Falafel com Tahine quente como manda a tradição."
+      ],
+      "dica": "Em Israel, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "israel-sabich-sanduiche-de-berinjela-3",
+      "nome": "Sabich Sanduíche de Berinjela",
+      "pais": "Israel",
+      "flag": "🇮🇱",
+      "categoria": "salgados",
+      "tempo": "30 min",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Sabich Sanduíche de Berinjela, um clássico de Israel preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Israel, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sabich Sanduíche de Berinjela (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sabich Sanduíche de Berinjela, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sabich Sanduíche de Berinjela quente como manda a tradição."
+      ],
+      "dica": "Em Israel, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "israel-challah-pao-trancado-do-shabat-4",
+      "nome": "Challah Pão Trançado do Shabat",
+      "pais": "Israel",
+      "flag": "🇮🇱",
+      "categoria": "paes",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Challah Pão Trançado do Shabat, um clássico de Israel preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Israel, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Challah Pão Trançado do Shabat (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Challah Pão Trançado do Shabat, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Challah Pão Trançado do Shabat quente como manda a tradição."
+      ],
+      "dica": "Em Israel, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "israel-sufganiyot-donuts-de-hanukkah-5",
+      "nome": "Sufganiyot Donuts de Hanukkah",
+      "pais": "Israel",
+      "flag": "🇮🇱",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Sufganiyot Donuts de Hanukkah, um clássico de Israel preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Israel, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sufganiyot Donuts de Hanukkah (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sufganiyot Donuts de Hanukkah, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sufganiyot Donuts de Hanukkah quente como manda a tradição."
+      ],
+      "dica": "Em Israel, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "israel-jachnun-pao-enrolado-do-cafe-6",
+      "nome": "Jachnun Pão Enrolado do Café",
+      "pais": "Israel",
+      "flag": "🇮🇱",
+      "categoria": "cafemanha",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Fácil",
+      "desc": "Jachnun Pão Enrolado do Café, um clássico de Israel preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em Israel, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Jachnun Pão Enrolado do Café (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Jachnun Pão Enrolado do Café, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Jachnun Pão Enrolado do Café quente como manda a tradição."
+      ],
+      "dica": "Em Israel, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Shakshuka",
+      "categoria": "cafemanha",
+      "tempo": "25 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Ovos pochados em molho de tomate, pimentão e especiarias — café da manhã israelense icônico.",
+      "historia": "De origem tunisiana/libanesa, mas adotada como prato nacional de Israel. Servido na mesma frigideira com pão.",
+      "ingredientes": [
+        "4 tomates maduros (ou lata)",
+        "1 pimentão vermelho, 1 cebola picada",
+        "3 dentes alho",
+        "2 colheres extrato tomate",
+        "1 colher páprica doce e cominho",
+        "4–6 ovos",
+        "Azeite, sal, pimenta",
+        "Queijo feta (opcional), salsa picada, pão pita/crusty para molhar"
+      ],
+      "passos": [
+        "Refogue cebola e pimentão em azeite até amaciar.",
+        "Adicione alho, páprica e cominho; doure 30 seg.",
+        "Junte tomates e extrato; cozinhe 10 min até engrossar.",
+        "Faça covinhas; quebre ovos nelas; tampe e cozinhe 6–8 min até clara ficar opaca mas gema mole.",
+        "Polvilhe feta e salsa; sirva com pão para molhar."
+      ],
+      "dica": "Coma diretamente da frigideira com pão — a gema mole misturada ao molho é perfeito!",
+      "isExtra": true,
+      "id": "israel-shakshuka-m-0",
+      "pais": "Israel",
+      "flag": "🇮🇱"
+    }
+  ]
+}

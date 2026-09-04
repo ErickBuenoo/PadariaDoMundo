@@ -1,0 +1,315 @@
+{
+  "pais": "China",
+  "recipes": [
+    {
+      "id": "china-mapo-tofu-0",
+      "nome": "Mapo Tofu",
+      "pais": "China",
+      "flag": "🇨🇳",
+      "categoria": "pratos",
+      "tempo": "30 min",
+      "porcoes": "10 porções",
+      "dificuldade": "Média",
+      "desc": "Mapo Tofu, um clássico de China preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em China, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Mapo Tofu (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Mapo Tofu, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Mapo Tofu quente como manda a tradição."
+      ],
+      "dica": "Em China, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "china-pato-assado-com-laranja-1",
+      "nome": "Pato Assado com Laranja",
+      "pais": "China",
+      "flag": "🇨🇳",
+      "categoria": "pratos",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pato Assado com Laranja, um clássico de China preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em China, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pato Assado com Laranja (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pato Assado com Laranja, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pato Assado com Laranja quente como manda a tradição."
+      ],
+      "dica": "Em China, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "china-arroz-chop-suey-2",
+      "nome": "Arroz Chop Suey",
+      "pais": "China",
+      "flag": "🇨🇳",
+      "categoria": "pratos",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Média",
+      "desc": "Arroz Chop Suey, um clássico de China preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em China, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Arroz Chop Suey (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Arroz Chop Suey, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Arroz Chop Suey quente como manda a tradição."
+      ],
+      "dica": "Em China, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "china-sopa-wonton-3",
+      "nome": "Sopa Wonton",
+      "pais": "China",
+      "flag": "🇨🇳",
+      "categoria": "sopas",
+      "tempo": "30 min",
+      "porcoes": "2 porções",
+      "dificuldade": "Média",
+      "desc": "Sopa Wonton, um clássico de China preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em China, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Sopa Wonton (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Sopa Wonton, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Sopa Wonton quente como manda a tradição."
+      ],
+      "dica": "Em China, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "china-rolinho-primavera-frito-4",
+      "nome": "Rolinho Primavera Frito",
+      "pais": "China",
+      "flag": "🇨🇳",
+      "categoria": "salgados",
+      "tempo": "45 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Rolinho Primavera Frito, um clássico de China preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em China, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Rolinho Primavera Frito (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Rolinho Primavera Frito, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Rolinho Primavera Frito quente como manda a tradição."
+      ],
+      "dica": "Em China, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "china-bolo-de-lua-de-nozes-5",
+      "nome": "Bolo de Lua de Nozes",
+      "pais": "China",
+      "flag": "🇨🇳",
+      "categoria": "doces",
+      "tempo": "1h",
+      "porcoes": "6 porções",
+      "dificuldade": "Fácil",
+      "desc": "Bolo de Lua de Nozes, um clássico de China preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em China, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Bolo de Lua de Nozes (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Bolo de Lua de Nozes, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Bolo de Lua de Nozes quente como manda a tradição."
+      ],
+      "dica": "Em China, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "china-pao-chines-de-vapor--mantou-6",
+      "nome": "Pão Chinês de Vapor (Mantou)",
+      "pais": "China",
+      "flag": "🇨🇳",
+      "categoria": "paes",
+      "tempo": "30 min",
+      "porcoes": "8 porções",
+      "dificuldade": "Fácil",
+      "desc": "Pão Chinês de Vapor (Mantou), um clássico de China preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em China, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Pão Chinês de Vapor (Mantou) (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Pão Chinês de Vapor (Mantou), lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Pão Chinês de Vapor (Mantou) quente como manda a tradição."
+      ],
+      "dica": "Em China, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "china-cha-oolong-7",
+      "nome": "Chá Oolong",
+      "pais": "China",
+      "flag": "🇨🇳",
+      "categoria": "bebidas",
+      "tempo": "45 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Chá Oolong, um clássico de China preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em China, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Chá Oolong (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Chá Oolong, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Chá Oolong quente como manda a tradição."
+      ],
+      "dica": "Em China, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "id": "china-congee-de-cafe-da-manha-8",
+      "nome": "Congee de Café da Manhã",
+      "pais": "China",
+      "flag": "🇨🇳",
+      "categoria": "cafemanha",
+      "tempo": "1h",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Congee de Café da Manhã, um clássico de China preparado com ingredientes locais e muito sabor.",
+      "historia": "Receita tradicional transmitida de geração em geração em China, servida em reuniões de família, festas locais e restaurantes típicos. Cada família tem sua versão secreta com pequenos toques.",
+      "ingredientes": [
+        "Ingredientes principais para Congee de Café da Manhã (carne, vegetais ou grãos)",
+        "Temperos e ervas locais",
+        "Sal, pimenta a gosto",
+        "Cebola, alho e aromáticos",
+        "Acompanhamentos tradicionais do país"
+      ],
+      "passos": [
+        "Prepare os ingredientes principais do Congee de Café da Manhã, lavando e cortando adequadamente.",
+        "Tempere os ingredientes com antecedência para absorverem os sabores.",
+        "Refogue os aromáticos (cebola, alho) para desenvolver a base do sabor.",
+        "Cozinhe o prato no tempo indicado conforme a técnica tradicional.",
+        "Ajuste os temperos e sirva o Congee de Café da Manhã quente como manda a tradição."
+      ],
+      "dica": "Em China, esta receita é servida em ocasiões especiais e geralmente acompanhada de um sorriso e boa companhia!",
+      "isExtra": true
+    },
+    {
+      "nome": "Mapo Tofu",
+      "categoria": "pratos",
+      "tempo": "25 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Fácil",
+      "desc": "Tofu em molho picante de feijão fermentado com carne moída.",
+      "historia": "Prato de Chengdu, província de Sichuan. O \"ma\" é a dormência da pimenta Sichuan; o \"po\" é a pimenta picante.",
+      "ingredientes": [
+        "400g tofu firme em cubos",
+        "150g carne porco moída",
+        "2 colheres doubanjiang (pasta de feijão picante)",
+        "1 colher douchi (feijão preto fermentado)",
+        "2 alhos, gengibre",
+        "1 cebolinha",
+        "2 colheres óleo",
+        "1 colher amido milho em água",
+        "Pimenta Sichuan moída"
+      ],
+      "passos": [
+        "Ferva tofu em água salgada 2 min; escorra.",
+        "Aqueça óleo, doure carne.",
+        "Junte doubanjiang e douchi, douchi e aromáticos.",
+        "Adicione 1 xícara água; cozinhe 2 min.",
+        "Junte tofu; cozinhe 4 min.",
+        "Engrosse com amido; polvilhe pimenta Sichuan e cebolinha."
+      ],
+      "dica": "Água fervendo no tofu antes evita que ele quebre ao cozinhar no molho.",
+      "isExtra": true,
+      "id": "china-mapo-tofu-m-0",
+      "pais": "China",
+      "flag": "🇨🇳"
+    },
+    {
+      "nome": "Wonton Soup",
+      "categoria": "sopas",
+      "tempo": "40 min",
+      "porcoes": "4 porções",
+      "dificuldade": "Média",
+      "desc": "Sopa com bolinhos de wonton recheados com camarão e porco.",
+      "historia": "Sopa chinesa clássica — os wontons representam moedas de ouro para prosperidade.",
+      "ingredientes": [
+        "30 folhas massa wonton",
+        "Recheio: 150g porco moído, 50g camarão picado, gengibre, cebolinha, shoyu",
+        "Caldo: 1L caldo de frango, 1 colher shoyu, gengibre",
+        "Cebolinha para servir"
+      ],
+      "passos": [
+        "Misture recheio. Coloque 1 colher em cada wonton, dobre em triângulo, junte pontas.",
+        "Ferva caldo. Cozinhe wontons em água fervente 4 min até boiar.",
+        "Divida em tigelas com caldo quente e cebolinha."
+      ],
+      "dica": "Não encha demais os wontons — eles incham e abrem ao cozinhar.",
+      "isExtra": true,
+      "id": "china-wonton-soup-m-1",
+      "pais": "China",
+      "flag": "🇨🇳"
+    }
+  ]
+}
