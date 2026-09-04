@@ -10,10 +10,17 @@ const Auth = (()=>{
   let devMode = false;
   let csrfToken = null;
   let forgotTimer = null;
+  const API_BASE = ((typeof window !== 'undefined' && window.__API_BASE__) || '').replace(/\/$/, '');
 
   function getCookie(name){
     const m = document.cookie.match(new RegExp('(^|; )'+name+'=([^;]*)'));
     return m ? decodeURIComponent(m[2]) : null;
+  }
+
+  function apiUrl(path){
+    if (!path) return path;
+    if (/^https?:\/\//i.test(path)) return path;
+    return `${API_BASE}${path}`;
   }
 
   // ---------- API helper com CSRF ----------
@@ -28,9 +35,11 @@ const Auth = (()=>{
     } else if(opts.body) {
       body = opts.body;
     }
-    let res = await fetch(path, {
+    const requestUrl = apiUrl(path);
+    const isSameOrigin = !API_BASE || requestUrl.startsWith(window.location.origin) || requestUrl.startsWith('/');
+    let res = await fetch(requestUrl, {
       method: opts.method||'GET',
-      credentials:'same-origin',
+      credentials: isSameOrigin ? 'same-origin' : 'include',
       headers: {...headers, ...(opts.headers||{})},
       body
     });
@@ -38,15 +47,15 @@ const Auth = (()=>{
     try { data = await res.json(); } catch(e){ data = {}; }
     // Se falhou CSRF, pega novo token e tenta de novo
     if(res.status === 403 && data.error && /csrf/i.test(data.error)){
-      const fresh = await fetch('/api/csrf',{credentials:'same-origin'}).then(r=>r.json()).catch(()=>({csrf:''}));
+      const fresh = await fetch(apiUrl('/api/csrf'), {credentials: isSameOrigin ? 'same-origin' : 'include'}).then(r=>r.json()).catch(()=>({csrf:''}));
       csrfToken = fresh.csrf || getCookie('csrf_token') || '';
       headers['X-CSRF-Token'] = csrfToken;
       if(bodyObj){
         body = JSON.stringify({...bodyObj, _csrf: csrfToken});
       }
-      res = await fetch(path, {
+      res = await fetch(requestUrl, {
         method: opts.method||'GET',
-        credentials:'same-origin',
+        credentials: isSameOrigin ? 'same-origin' : 'include',
         headers:{...headers, ...(opts.headers||{})},
         body
       });
